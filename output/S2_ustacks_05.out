@@ -1,0 +1,2208 @@
+ustacks parameters selected:
+  Input file: '/home/mshu/Stacks/samples/05/3216A1.fq.gz'
+  Sample ID: 49
+  Min depth of coverage to create a stack (m): 3
+  Repeat removal algorithm: enabled
+  Max distance allowed between stacks (M): 2
+  Max distance allowed to align secondary reads: 4
+  Max number of stacks allowed per de novo locus: 3
+  Deleveraging algorithm: disabled
+  Gapped assembly: enabled
+  Minimum alignment length: 0.8
+  Model type: SNP
+  Alpha significance level for model: 0.05
+
+Loading RAD-Tags...1M...2M...3M...4M...5M...6M...7M...
+
+Loaded 7068573 reads; formed:
+  666136 stacks representing 4996090 primary reads (70.7%)
+  1630544 secondary stacks representing 2072483 secondary reads (29.3%)
+
+Stack coverage: mean=7.50; stdev=127.33; max=74191; n_reads=4996090(70.7%)
+Removing repetitive stacks: cov > 390 (mean+3*stdev)...
+  Blacklisted 8138 stacks.
+Coverage after repeat removal: mean=6.32; stdev=8.63; max=390; n_reads=4158157(58.8%)
+
+Assembling stacks (max. dist. M=2)...
+  Assembled 657998 stacks into 543336; blacklisted 6866 stacks.
+Coverage after assembling stacks: mean=6.55; stdev=7.68; max=385; n_reads=3514593(49.7%)
+
+Merging secondary stacks (max. dist. N=4 from consensus)...
+  Merged 431003 out of 2072483 secondary reads (20.8%), 44861 merged with gapped alignments.
+Coverage after merging secondary stacks: mean=7.36; stdev=8.48; max=395; n_reads=3945596(55.8%)
+
+Assembling stacks, allowing for gaps (min. match length 80.0%)...
+  Assembled 543336 stacks into 531789 stacks.
+Coverage after gapped assembly: mean=7.52; stdev=8.79; max=699; n_reads=3945596(55.8%)
+
+Merging secondary stacks, allowing for gaps (min. match length 80.0%)...
+  Merged 80559 out of 1641480 secondary reads (4.9%).
+Coverage after merging gapped secondary stacks: mean=7.67; stdev=9.43; max=742; n_reads=4026155(57.0%)
+
+Final coverage: mean=7.67; stdev=9.43; max=742; n_reads=4026155(57.0%)
+Calling consensus sequences and haplotypes for catalog assembly...
+Writing tags, SNPs, and alleles files...
+Refetching read IDs...done.
+ustacks is done.
+ustacks parameters selected:
+  Input file: '/home/mshu/Stacks/samples/05/4208A2.fq.gz'
+  Sample ID: 50
+  Min depth of coverage to create a stack (m): 3
+  Repeat removal algorithm: enabled
+  Max distance allowed between stacks (M): 2
+  Max distance allowed to align secondary reads: 4
+  Max number of stacks allowed per de novo locus: 3
+  Deleveraging algorithm: disabled
+  Gapped assembly: enabled
+  Minimum alignment length: 0.8
+  Model type: SNP
+  Alpha significance level for model: 0.05
+
+Loading RAD-Tags...1M...2M...3M...4M...5M...6M...7M...8M...
+
+Loaded 8267917 reads; formed:
+  786840 stacks representing 6164508 primary reads (74.6%)
+  1662230 secondary stacks representing 2103409 secondary reads (25.4%)
+
+Stack coverage: mean=7.83; stdev=114.02; max=70347; n_reads=6164508(74.6%)
+Removing repetitive stacks: cov > 350 (mean+3*stdev)...
+  Blacklisted 7803 stacks.
+Coverage after repeat removal: mean=6.81; stdev=9.83; max=350; n_reads=5302071(64.1%)
+
+Assembling stacks (max. dist. M=2)...
+  Assembled 779037 stacks into 659284; blacklisted 6725 stacks.
+Coverage after assembling stacks: mean=7.21; stdev=9.60; max=353; n_reads=4699961(56.8%)
+
+Merging secondary stacks (max. dist. N=4 from consensus)...
+  Merged 498867 out of 2103409 secondary reads (23.7%), 57552 merged with gapped alignments.
+Coverage after merging secondary stacks: mean=7.97; stdev=10.35; max=370; n_reads=5198828(62.9%)
+
+Assembling stacks, allowing for gaps (min. match length 80.0%)...
+  Assembled 659284 stacks into 642465 stacks.
+Coverage after gapped assembly: mean=8.18; stdev=10.70; max=532; n_reads=5198828(62.9%)
+
+Merging secondary stacks, allowing for gaps (min. match length 80.0%)...
+  Merged 84031 out of 1604542 secondary reads (5.2%).
+Coverage after merging gapped secondary stacks: mean=8.31; stdev=11.07; max=638; n_reads=5282859(63.9%)
+
+Final coverage: mean=8.31; stdev=11.07; max=638; n_reads=5282859(63.9%)
+Calling consensus sequences and haplotypes for catalog assembly...
+Writing tags, SNPs, and alleles files...
+Refetching read IDs...done.
+ustacks is done.
+ustacks parameters selected:
+  Input file: '/home/mshu/Stacks/samples/05/3291A3.fq.gz'
+  Sample ID: 51
+  Min depth of coverage to create a stack (m): 3
+  Repeat removal algorithm: enabled
+  Max distance allowed between stacks (M): 2
+  Max distance allowed to align secondary reads: 4
+  Max number of stacks allowed per de novo locus: 3
+  Deleveraging algorithm: disabled
+  Gapped assembly: enabled
+  Minimum alignment length: 0.8
+  Model type: SNP
+  Alpha significance level for model: 0.05
+
+Loading RAD-Tags...1M...2M...3M...4M...5M...6M...7M...8M...
+
+Loaded 8447955 reads; formed:
+  791173 stacks representing 6349691 primary reads (75.2%)
+  1657382 secondary stacks representing 2098264 secondary reads (24.8%)
+
+Stack coverage: mean=8.03; stdev=128.28; max=71601; n_reads=6349691(75.2%)
+Removing repetitive stacks: cov > 393 (mean+3*stdev)...
+  Blacklisted 9137 stacks.
+Coverage after repeat removal: mean=6.84; stdev=11.08; max=390; n_reads=5345766(63.3%)
+
+Assembling stacks (max. dist. M=2)...
+  Assembled 782036 stacks into 661919; blacklisted 7208 stacks.
+Coverage after assembling stacks: mean=7.14; stdev=10.86; max=504; n_reads=4675677(55.3%)
+
+Merging secondary stacks (max. dist. N=4 from consensus)...
+  Merged 510913 out of 2098264 secondary reads (24.3%), 59084 merged with gapped alignments.
+Coverage after merging secondary stacks: mean=7.93; stdev=11.68; max=524; n_reads=5186590(61.4%)
+
+Assembling stacks, allowing for gaps (min. match length 80.0%)...
+  Assembled 661919 stacks into 648187 stacks.
+Coverage after gapped assembly: mean=8.10; stdev=11.99; max=524; n_reads=5186590(61.4%)
+
+Merging secondary stacks, allowing for gaps (min. match length 80.0%)...
+  Merged 88440 out of 1587351 secondary reads (5.6%).
+Coverage after merging gapped secondary stacks: mean=8.23; stdev=12.39; max=819; n_reads=5275030(62.4%)
+
+Final coverage: mean=8.23; stdev=12.39; max=819; n_reads=5275030(62.4%)
+Calling consensus sequences and haplotypes for catalog assembly...
+Writing tags, SNPs, and alleles files...
+Refetching read IDs...done.
+ustacks is done.
+ustacks parameters selected:
+  Input file: '/home/mshu/Stacks/samples/05/3027A4.fq.gz'
+  Sample ID: 52
+  Min depth of coverage to create a stack (m): 3
+  Repeat removal algorithm: enabled
+  Max distance allowed between stacks (M): 2
+  Max distance allowed to align secondary reads: 4
+  Max number of stacks allowed per de novo locus: 3
+  Deleveraging algorithm: disabled
+  Gapped assembly: enabled
+  Minimum alignment length: 0.8
+  Model type: SNP
+  Alpha significance level for model: 0.05
+
+Loading RAD-Tags...1M...2M...3M...4M...5M...6M...7M...8M...9M...10M...11M...12M...13M...14M...15M...16M...17M...18M...19M...20M...21M...22M...23M...24M...25M...26M...27M...28M...29M...30M...31M...32M...33M...34M...35M...36M...37M...38M...39M...40M...41M...42M...43M...44M...45M...46M...47M...48M...49M...
+
+Loaded 49873418 reads; formed:
+  842914 stacks representing 45665156 primary reads (91.6%)
+  3581747 secondary stacks representing 4208262 secondary reads (8.4%)
+
+Stack coverage: mean=54.18; stdev=176.42; max=56248; n_reads=45665156(91.6%)
+Removing repetitive stacks: cov > 584 (mean+3*stdev)...
+  Blacklisted 13749 stacks.
+Coverage after repeat removal: mean=52.31; stdev=105.44; max=584; n_reads=43372352(87.0%)
+
+Assembling stacks (max. dist. M=2)...
+  Assembled 829165 stacks into 696041; blacklisted 7066 stacks.
+Coverage after assembling stacks: mean=61.52; stdev=112.77; max=1120; n_reads=42305868(84.8%)
+
+Merging secondary stacks (max. dist. N=4 from consensus)...
+  Merged 2496950 out of 4208262 secondary reads (59.3%), 302392 merged with gapped alignments.
+Coverage after merging secondary stacks: mean=65.16; stdev=118.37; max=1185; n_reads=44802818(89.8%)
+
+Assembling stacks, allowing for gaps (min. match length 80.0%)...
+  Assembled 696041 stacks into 662709 stacks.
+Coverage after gapped assembly: mean=68.47; stdev=122.10; max=1185; n_reads=44802818(89.8%)
+
+Merging secondary stacks, allowing for gaps (min. match length 80.0%)...
+  Merged 112173 out of 1711312 secondary reads (6.6%).
+Coverage after merging gapped secondary stacks: mean=68.65; stdev=122.11; max=1190; n_reads=44914991(90.1%)
+
+Final coverage: mean=68.65; stdev=122.11; max=1190; n_reads=44914991(90.1%)
+Calling consensus sequences and haplotypes for catalog assembly...
+Writing tags, SNPs, and alleles files...
+Refetching read IDs...done.
+ustacks is done.
+ustacks parameters selected:
+  Input file: '/home/mshu/Stacks/samples/05/3303A5.fq.gz'
+  Sample ID: 53
+  Min depth of coverage to create a stack (m): 3
+  Repeat removal algorithm: enabled
+  Max distance allowed between stacks (M): 2
+  Max distance allowed to align secondary reads: 4
+  Max number of stacks allowed per de novo locus: 3
+  Deleveraging algorithm: disabled
+  Gapped assembly: enabled
+  Minimum alignment length: 0.8
+  Model type: SNP
+  Alpha significance level for model: 0.05
+
+Loading RAD-Tags...1M...2M...3M...4M...
+
+Loaded 4673649 reads; formed:
+  438672 stacks representing 3484793 primary reads (74.6%)
+  939187 secondary stacks representing 1188856 secondary reads (25.4%)
+
+Stack coverage: mean=7.94; stdev=108.20; max=48599; n_reads=3484793(74.6%)
+Removing repetitive stacks: cov > 333 (mean+3*stdev)...
+  Blacklisted 5477 stacks.
+Coverage after repeat removal: mean=6.70; stdev=9.88; max=331; n_reads=2901250(62.1%)
+
+Assembling stacks (max. dist. M=2)...
+  Assembled 433195 stacks into 357156; blacklisted 4900 stacks.
+Coverage after assembling stacks: mean=7.13; stdev=9.70; max=494; n_reads=2510034(53.7%)
+
+Merging secondary stacks (max. dist. N=4 from consensus)...
+  Merged 311673 out of 1188856 secondary reads (26.2%), 34842 merged with gapped alignments.
+Coverage after merging secondary stacks: mean=8.01; stdev=10.54; max=516; n_reads=2821707(60.4%)
+
+Assembling stacks, allowing for gaps (min. match length 80.0%)...
+  Assembled 357156 stacks into 348295 stacks.
+Coverage after gapped assembly: mean=8.22; stdev=10.89; max=516; n_reads=2821707(60.4%)
+
+Merging secondary stacks, allowing for gaps (min. match length 80.0%)...
+  Merged 52070 out of 877183 secondary reads (5.9%).
+Coverage after merging gapped secondary stacks: mean=8.37; stdev=11.31; max=625; n_reads=2873777(61.5%)
+
+Final coverage: mean=8.37; stdev=11.31; max=625; n_reads=2873777(61.5%)
+Calling consensus sequences and haplotypes for catalog assembly...
+Writing tags, SNPs, and alleles files...
+Refetching read IDs...done.
+ustacks is done.
+ustacks parameters selected:
+  Input file: '/home/mshu/Stacks/samples/05/3040A6.fq.gz'
+  Sample ID: 54
+  Min depth of coverage to create a stack (m): 3
+  Repeat removal algorithm: enabled
+  Max distance allowed between stacks (M): 2
+  Max distance allowed to align secondary reads: 4
+  Max number of stacks allowed per de novo locus: 3
+  Deleveraging algorithm: disabled
+  Gapped assembly: enabled
+  Minimum alignment length: 0.8
+  Model type: SNP
+  Alpha significance level for model: 0.05
+
+Loading RAD-Tags...1M...2M...3M...4M...5M...6M...7M...8M...
+
+Loaded 8194603 reads; formed:
+  697128 stacks representing 6062963 primary reads (74.0%)
+  1689464 secondary stacks representing 2131640 secondary reads (26.0%)
+
+Stack coverage: mean=8.70; stdev=144.31; max=78986; n_reads=6062963(74.0%)
+Removing repetitive stacks: cov > 442 (mean+3*stdev)...
+  Blacklisted 11142 stacks.
+Coverage after repeat removal: mean=7.14; stdev=14.13; max=441; n_reads=4896845(59.8%)
+
+Assembling stacks (max. dist. M=2)...
+  Assembled 685986 stacks into 527248; blacklisted 9041 stacks.
+Coverage after assembling stacks: mean=7.59; stdev=14.15; max=444; n_reads=3929955(48.0%)
+
+Merging secondary stacks (max. dist. N=4 from consensus)...
+  Merged 553674 out of 2131640 secondary reads (26.0%), 66880 merged with gapped alignments.
+Coverage after merging secondary stacks: mean=8.66; stdev=15.20; max=471; n_reads=4483629(54.7%)
+
+Assembling stacks, allowing for gaps (min. match length 80.0%)...
+  Assembled 527248 stacks into 513542 stacks.
+Coverage after gapped assembly: mean=8.89; stdev=15.68; max=502; n_reads=4483629(54.7%)
+
+Merging secondary stacks, allowing for gaps (min. match length 80.0%)...
+  Merged 111438 out of 1577966 secondary reads (7.1%).
+Coverage after merging gapped secondary stacks: mean=9.11; stdev=16.17; max=657; n_reads=4595067(56.1%)
+
+Final coverage: mean=9.11; stdev=16.17; max=657; n_reads=4595067(56.1%)
+Calling consensus sequences and haplotypes for catalog assembly...
+Writing tags, SNPs, and alleles files...
+Refetching read IDs...done.
+ustacks is done.
+ustacks parameters selected:
+  Input file: '/home/mshu/Stacks/samples/05/3272A7.fq.gz'
+  Sample ID: 55
+  Min depth of coverage to create a stack (m): 3
+  Repeat removal algorithm: enabled
+  Max distance allowed between stacks (M): 2
+  Max distance allowed to align secondary reads: 4
+  Max number of stacks allowed per de novo locus: 3
+  Deleveraging algorithm: disabled
+  Gapped assembly: enabled
+  Minimum alignment length: 0.8
+  Model type: SNP
+  Alpha significance level for model: 0.05
+
+Loading RAD-Tags...1M...2M...3M...4M...5M...6M...7M...8M...
+
+Loaded 8663933 reads; formed:
+  747256 stacks representing 6703243 primary reads (77.4%)
+  1564930 secondary stacks representing 1960690 secondary reads (22.6%)
+
+Stack coverage: mean=8.97; stdev=142.18; max=101095; n_reads=6703243(77.4%)
+Removing repetitive stacks: cov > 436 (mean+3*stdev)...
+  Blacklisted 7781 stacks.
+Coverage after repeat removal: mean=7.90; stdev=9.70; max=435; n_reads=5845335(67.5%)
+
+Assembling stacks (max. dist. M=2)...
+  Assembled 739475 stacks into 634537; blacklisted 6291 stacks.
+Coverage after assembling stacks: mean=8.38; stdev=9.02; max=509; n_reads=5263010(60.7%)
+
+Merging secondary stacks (max. dist. N=4 from consensus)...
+  Merged 528209 out of 1960690 secondary reads (26.9%), 63013 merged with gapped alignments.
+Coverage after merging secondary stacks: mean=9.22; stdev=9.74; max=538; n_reads=5791219(66.8%)
+
+Assembling stacks, allowing for gaps (min. match length 80.0%)...
+  Assembled 634537 stacks into 615934 stacks.
+Coverage after gapped assembly: mean=9.50; stdev=10.12; max=618; n_reads=5791219(66.8%)
+
+Merging secondary stacks, allowing for gaps (min. match length 80.0%)...
+  Merged 83589 out of 1432481 secondary reads (5.8%).
+Coverage after merging gapped secondary stacks: mean=9.64; stdev=10.55; max=814; n_reads=5874808(67.8%)
+
+Final coverage: mean=9.64; stdev=10.55; max=814; n_reads=5874808(67.8%)
+Calling consensus sequences and haplotypes for catalog assembly...
+Writing tags, SNPs, and alleles files...
+Refetching read IDs...done.
+ustacks is done.
+ustacks parameters selected:
+  Input file: '/home/mshu/Stacks/samples/05/3048A8.fq.gz'
+  Sample ID: 56
+  Min depth of coverage to create a stack (m): 3
+  Repeat removal algorithm: enabled
+  Max distance allowed between stacks (M): 2
+  Max distance allowed to align secondary reads: 4
+  Max number of stacks allowed per de novo locus: 3
+  Deleveraging algorithm: disabled
+  Gapped assembly: enabled
+  Minimum alignment length: 0.8
+  Model type: SNP
+  Alpha significance level for model: 0.05
+
+Loading RAD-Tags...1M...2M...3M...4M...
+
+Loaded 4603042 reads; formed:
+  439648 stacks representing 3398519 primary reads (73.8%)
+  949173 secondary stacks representing 1204523 secondary reads (26.2%)
+
+Stack coverage: mean=7.73; stdev=124.06; max=63443; n_reads=3398519(73.8%)
+Removing repetitive stacks: cov > 380 (mean+3*stdev)...
+  Blacklisted 5122 stacks.
+Coverage after repeat removal: mean=6.54; stdev=9.24; max=380; n_reads=2839650(61.7%)
+
+Assembling stacks (max. dist. M=2)...
+  Assembled 434526 stacks into 355719; blacklisted 5065 stacks.
+Coverage after assembling stacks: mean=6.91; stdev=8.42; max=368; n_reads=2421451(52.6%)
+
+Merging secondary stacks (max. dist. N=4 from consensus)...
+  Merged 308718 out of 1204523 secondary reads (25.6%), 34230 merged with gapped alignments.
+Coverage after merging secondary stacks: mean=7.79; stdev=9.23; max=421; n_reads=2730169(59.3%)
+
+Assembling stacks, allowing for gaps (min. match length 80.0%)...
+  Assembled 355719 stacks into 347110 stacks.
+Coverage after gapped assembly: mean=7.99; stdev=9.54; max=421; n_reads=2730169(59.3%)
+
+Merging secondary stacks, allowing for gaps (min. match length 80.0%)...
+  Merged 55210 out of 895805 secondary reads (6.2%).
+Coverage after merging gapped secondary stacks: mean=8.15; stdev=10.13; max=569; n_reads=2785379(60.5%)
+
+Final coverage: mean=8.15; stdev=10.13; max=569; n_reads=2785379(60.5%)
+Calling consensus sequences and haplotypes for catalog assembly...
+Writing tags, SNPs, and alleles files...
+Refetching read IDs...Error: Failed to gz-open file '/home/mshu/Stacks/tacks/05/3048A8.tags.tsv.gz'.
+Aborted.
+ustacks parameters selected:
+  Input file: '/home/mshu/Stacks/samples/05/3046A9.fq.gz'
+  Sample ID: 57
+  Min depth of coverage to create a stack (m): 3
+  Repeat removal algorithm: enabled
+  Max distance allowed between stacks (M): 2
+  Max distance allowed to align secondary reads: 4
+  Max number of stacks allowed per de novo locus: 3
+  Deleveraging algorithm: disabled
+  Gapped assembly: enabled
+  Minimum alignment length: 0.8
+  Model type: SNP
+  Alpha significance level for model: 0.05
+
+Loading RAD-Tags...1M...2M...3M...4M...5M...6M...7M...
+
+Loaded 7643346 reads; formed:
+  663834 stacks representing 5768058 primary reads (75.5%)
+  1486190 secondary stacks representing 1875288 secondary reads (24.5%)
+
+Stack coverage: mean=8.69; stdev=170.19; max=100369; n_reads=5768058(75.5%)
+Removing repetitive stacks: cov > 520 (mean+3*stdev)...
+  Blacklisted 8370 stacks.
+Coverage after repeat removal: mean=7.30; stdev=12.10; max=520; n_reads=4786455(62.6%)
+
+Assembling stacks (max. dist. M=2)...
+  Assembled 655464 stacks into 510493; blacklisted 8435 stacks.
+Coverage after assembling stacks: mean=7.79; stdev=11.40; max=520; n_reads=3910900(51.2%)
+
+Merging secondary stacks (max. dist. N=4 from consensus)...
+  Merged 491970 out of 1875288 secondary reads (26.2%), 50734 merged with gapped alignments.
+Coverage after merging secondary stacks: mean=8.77; stdev=12.27; max=545; n_reads=4402870(57.6%)
+
+Assembling stacks, allowing for gaps (min. match length 80.0%)...
+  Assembled 510493 stacks into 496898 stacks.
+Coverage after gapped assembly: mean=9.02; stdev=12.72; max=851; n_reads=4402870(57.6%)
+
+Merging secondary stacks, allowing for gaps (min. match length 80.0%)...
+  Merged 92031 out of 1383318 secondary reads (6.7%).
+Coverage after merging gapped secondary stacks: mean=9.21; stdev=13.19; max=851; n_reads=4494901(58.8%)
+
+Final coverage: mean=9.21; stdev=13.19; max=851; n_reads=4494901(58.8%)
+Calling consensus sequences and haplotypes for catalog assembly...
+Writing tags, SNPs, and alleles files...
+Refetching read IDs...done.
+ustacks is done.
+ustacks parameters selected:
+  Input file: '/home/mshu/Stacks/samples/05/3407A10.fq.gz'
+  Sample ID: 58
+  Min depth of coverage to create a stack (m): 3
+  Repeat removal algorithm: enabled
+  Max distance allowed between stacks (M): 2
+  Max distance allowed to align secondary reads: 4
+  Max number of stacks allowed per de novo locus: 3
+  Deleveraging algorithm: disabled
+  Gapped assembly: enabled
+  Minimum alignment length: 0.8
+  Model type: SNP
+  Alpha significance level for model: 0.05
+
+Loading RAD-Tags...1M...2M...3M...4M...5M...6M...7M...
+
+Loaded 7156280 reads; formed:
+  634378 stacks representing 5398655 primary reads (75.4%)
+  1393074 secondary stacks representing 1757625 secondary reads (24.6%)
+
+Stack coverage: mean=8.51; stdev=157.22; max=100912; n_reads=5398655(75.4%)
+Removing repetitive stacks: cov > 481 (mean+3*stdev)...
+  Blacklisted 8326 stacks.
+Coverage after repeat removal: mean=7.20; stdev=11.11; max=481; n_reads=4508186(63.0%)
+
+Assembling stacks (max. dist. M=2)...
+  Assembled 626052 stacks into 491258; blacklisted 8004 stacks.
+Coverage after assembling stacks: mean=7.66; stdev=10.17; max=505; n_reads=3699178(51.7%)
+
+Merging secondary stacks (max. dist. N=4 from consensus)...
+  Merged 469280 out of 1757625 secondary reads (26.7%), 55992 merged with gapped alignments.
+Coverage after merging secondary stacks: mean=8.63; stdev=11.01; max=526; n_reads=4168458(58.2%)
+
+Assembling stacks, allowing for gaps (min. match length 80.0%)...
+  Assembled 491258 stacks into 478222 stacks.
+Coverage after gapped assembly: mean=8.87; stdev=11.37; max=526; n_reads=4168458(58.2%)
+
+Merging secondary stacks, allowing for gaps (min. match length 80.0%)...
+  Merged 87864 out of 1288345 secondary reads (6.8%).
+Coverage after merging gapped secondary stacks: mean=9.05; stdev=11.87; max=535; n_reads=4256322(59.5%)
+
+Final coverage: mean=9.05; stdev=11.87; max=535; n_reads=4256322(59.5%)
+Calling consensus sequences and haplotypes for catalog assembly...
+Writing tags, SNPs, and alleles files...
+Refetching read IDs...done.
+ustacks is done.
+ustacks parameters selected:
+  Input file: '/home/mshu/Stacks/samples/05/3037A11.fq.gz'
+  Sample ID: 59
+  Min depth of coverage to create a stack (m): 3
+  Repeat removal algorithm: enabled
+  Max distance allowed between stacks (M): 2
+  Max distance allowed to align secondary reads: 4
+  Max number of stacks allowed per de novo locus: 3
+  Deleveraging algorithm: disabled
+  Gapped assembly: enabled
+  Minimum alignment length: 0.8
+  Model type: SNP
+  Alpha significance level for model: 0.05
+
+Loading RAD-Tags...1M...2M...3M...4M...5M...6M...7M...8M...
+
+Loaded 8208625 reads; formed:
+  711161 stacks representing 6119993 primary reads (74.6%)
+  1659389 secondary stacks representing 2088632 secondary reads (25.4%)
+
+Stack coverage: mean=8.61; stdev=137.45; max=87077; n_reads=6119993(74.6%)
+Removing repetitive stacks: cov > 421 (mean+3*stdev)...
+  Blacklisted 10373 stacks.
+Coverage after repeat removal: mean=7.34; stdev=12.22; max=421; n_reads=5140742(62.6%)
+
+Assembling stacks (max. dist. M=2)...
+  Assembled 700788 stacks into 540267; blacklisted 9277 stacks.
+Coverage after assembling stacks: mean=7.84; stdev=11.82; max=449; n_reads=4159139(50.7%)
+
+Merging secondary stacks (max. dist. N=4 from consensus)...
+  Merged 548806 out of 2088632 secondary reads (26.3%), 65043 merged with gapped alignments.
+Coverage after merging secondary stacks: mean=8.87; stdev=12.75; max=469; n_reads=4707945(57.4%)
+
+Assembling stacks, allowing for gaps (min. match length 80.0%)...
+  Assembled 540267 stacks into 525898 stacks.
+Coverage after gapped assembly: mean=9.12; stdev=13.14; max=525; n_reads=4707945(57.4%)
+
+Merging secondary stacks, allowing for gaps (min. match length 80.0%)...
+  Merged 106560 out of 1539826 secondary reads (6.9%).
+Coverage after merging gapped secondary stacks: mean=9.32; stdev=13.68; max=648; n_reads=4814505(58.7%)
+
+Final coverage: mean=9.32; stdev=13.68; max=648; n_reads=4814505(58.7%)
+Calling consensus sequences and haplotypes for catalog assembly...
+Writing tags, SNPs, and alleles files...
+Refetching read IDs...done.
+ustacks is done.
+ustacks parameters selected:
+  Input file: '/home/mshu/Stacks/samples/05/3371A12.fq.gz'
+  Sample ID: 60
+  Min depth of coverage to create a stack (m): 3
+  Repeat removal algorithm: enabled
+  Max distance allowed between stacks (M): 2
+  Max distance allowed to align secondary reads: 4
+  Max number of stacks allowed per de novo locus: 3
+  Deleveraging algorithm: disabled
+  Gapped assembly: enabled
+  Minimum alignment length: 0.8
+  Model type: SNP
+  Alpha significance level for model: 0.05
+
+Loading RAD-Tags...1M...2M...3M...4M...5M...6M...7M...8M...
+
+Loaded 8663248 reads; formed:
+  699360 stacks representing 6733858 primary reads (77.7%)
+  1538506 secondary stacks representing 1929390 secondary reads (22.3%)
+
+Stack coverage: mean=9.63; stdev=190.55; max=116053; n_reads=6733858(77.7%)
+Removing repetitive stacks: cov > 582 (mean+3*stdev)...
+  Blacklisted 9919 stacks.
+Coverage after repeat removal: mean=7.91; stdev=13.12; max=580; n_reads=5454690(63.0%)
+
+Assembling stacks (max. dist. M=2)...
+  Assembled 689441 stacks into 538022; blacklisted 8842 stacks.
+Coverage after assembling stacks: mean=8.53; stdev=12.44; max=591; n_reads=4514464(52.1%)
+
+Merging secondary stacks (max. dist. N=4 from consensus)...
+  Merged 524169 out of 1929390 secondary reads (27.2%), 62275 merged with gapped alignments.
+Coverage after merging secondary stacks: mean=9.53; stdev=13.36; max=635; n_reads=5038633(58.2%)
+
+Assembling stacks, allowing for gaps (min. match length 80.0%)...
+  Assembled 538022 stacks into 523069 stacks.
+Coverage after gapped assembly: mean=9.80; stdev=13.77; max=635; n_reads=5038633(58.2%)
+
+Merging secondary stacks, allowing for gaps (min. match length 80.0%)...
+  Merged 92042 out of 1405221 secondary reads (6.6%).
+Coverage after merging gapped secondary stacks: mean=9.98; stdev=14.21; max=695; n_reads=5130675(59.2%)
+
+Final coverage: mean=9.98; stdev=14.21; max=695; n_reads=5130675(59.2%)
+Calling consensus sequences and haplotypes for catalog assembly...
+Writing tags, SNPs, and alleles files...
+Refetching read IDs...done.
+ustacks is done.
+ustacks parameters selected:
+  Input file: '/home/mshu/Stacks/samples/05/3061B1.fq.gz'
+  Sample ID: 61
+  Min depth of coverage to create a stack (m): 3
+  Repeat removal algorithm: enabled
+  Max distance allowed between stacks (M): 2
+  Max distance allowed to align secondary reads: 4
+  Max number of stacks allowed per de novo locus: 3
+  Deleveraging algorithm: disabled
+  Gapped assembly: enabled
+  Minimum alignment length: 0.8
+  Model type: SNP
+  Alpha significance level for model: 0.05
+
+Loading RAD-Tags...1M...2M...3M...4M...5M...6M...7M...
+
+Loaded 7164510 reads; formed:
+  614530 stacks representing 5461718 primary reads (76.2%)
+  1352944 secondary stacks representing 1702792 secondary reads (23.8%)
+
+Stack coverage: mean=8.89; stdev=164.78; max=91997; n_reads=5461718(76.2%)
+Removing repetitive stacks: cov > 504 (mean+3*stdev)...
+  Blacklisted 8605 stacks.
+Coverage after repeat removal: mean=7.36; stdev=11.66; max=504; n_reads=4461231(62.3%)
+
+Assembling stacks (max. dist. M=2)...
+  Assembled 605925 stacks into 476291; blacklisted 7771 stacks.
+Coverage after assembling stacks: mean=7.91; stdev=10.98; max=520; n_reads=3703611(51.7%)
+
+Merging secondary stacks (max. dist. N=4 from consensus)...
+  Merged 464511 out of 1702792 secondary reads (27.3%), 54908 merged with gapped alignments.
+Coverage after merging secondary stacks: mean=8.90; stdev=11.89; max=547; n_reads=4168122(58.2%)
+
+Assembling stacks, allowing for gaps (min. match length 80.0%)...
+  Assembled 476291 stacks into 463159 stacks.
+Coverage after gapped assembly: mean=9.16; stdev=12.28; max=549; n_reads=4168122(58.2%)
+
+Merging secondary stacks, allowing for gaps (min. match length 80.0%)...
+  Merged 83868 out of 1238281 secondary reads (6.8%).
+Coverage after merging gapped secondary stacks: mean=9.34; stdev=12.82; max=861; n_reads=4251990(59.3%)
+
+Final coverage: mean=9.34; stdev=12.82; max=861; n_reads=4251990(59.3%)
+Calling consensus sequences and haplotypes for catalog assembly...
+Writing tags, SNPs, and alleles files...
+Refetching read IDs...done.
+ustacks is done.
+ustacks parameters selected:
+  Input file: '/home/mshu/Stacks/samples/05/3063B2.fq.gz'
+  Sample ID: 62
+  Min depth of coverage to create a stack (m): 3
+  Repeat removal algorithm: enabled
+  Max distance allowed between stacks (M): 2
+  Max distance allowed to align secondary reads: 4
+  Max number of stacks allowed per de novo locus: 3
+  Deleveraging algorithm: disabled
+  Gapped assembly: enabled
+  Minimum alignment length: 0.8
+  Model type: SNP
+  Alpha significance level for model: 0.05
+
+Loading RAD-Tags...1M...2M...3M...4M...5M...6M...7M...
+
+Loaded 7057038 reads; formed:
+  618981 stacks representing 5138923 primary reads (72.8%)
+  1518809 secondary stacks representing 1918115 secondary reads (27.2%)
+
+Stack coverage: mean=8.30; stdev=145.95; max=87007; n_reads=5138923(72.8%)
+Removing repetitive stacks: cov > 447 (mean+3*stdev)...
+  Blacklisted 7251 stacks.
+Coverage after repeat removal: mean=7.05; stdev=12.38; max=446; n_reads=4311881(61.1%)
+
+Assembling stacks (max. dist. M=2)...
+  Assembled 611730 stacks into 496205; blacklisted 7109 stacks.
+Coverage after assembling stacks: mean=7.47; stdev=12.21; max=464; n_reads=3651854(51.7%)
+
+Merging secondary stacks (max. dist. N=4 from consensus)...
+  Merged 431573 out of 1918115 secondary reads (22.5%), 49706 merged with gapped alignments.
+Coverage after merging secondary stacks: mean=8.35; stdev=13.11; max=491; n_reads=4083427(57.9%)
+
+Assembling stacks, allowing for gaps (min. match length 80.0%)...
+  Assembled 496205 stacks into 484091 stacks.
+Coverage after gapped assembly: mean=8.56; stdev=13.50; max=590; n_reads=4083427(57.9%)
+
+Merging secondary stacks, allowing for gaps (min. match length 80.0%)...
+  Merged 75743 out of 1486542 secondary reads (5.1%).
+Coverage after merging gapped secondary stacks: mean=8.72; stdev=13.91; max=788; n_reads=4159170(58.9%)
+
+Final coverage: mean=8.72; stdev=13.91; max=788; n_reads=4159170(58.9%)
+Calling consensus sequences and haplotypes for catalog assembly...
+Writing tags, SNPs, and alleles files...
+Refetching read IDs...done.
+ustacks is done.
+ustacks parameters selected:
+  Input file: '/home/mshu/Stacks/samples/05/3373B3.fq.gz'
+  Sample ID: 63
+  Min depth of coverage to create a stack (m): 3
+  Repeat removal algorithm: enabled
+  Max distance allowed between stacks (M): 2
+  Max distance allowed to align secondary reads: 4
+  Max number of stacks allowed per de novo locus: 3
+  Deleveraging algorithm: disabled
+  Gapped assembly: enabled
+  Minimum alignment length: 0.8
+  Model type: SNP
+  Alpha significance level for model: 0.05
+
+Loading RAD-Tags...1M...2M...3M...4M...5M...6M...
+
+Loaded 6396651 reads; formed:
+  577893 stacks representing 4837548 primary reads (75.6%)
+  1239616 secondary stacks representing 1559103 secondary reads (24.4%)
+
+Stack coverage: mean=8.37; stdev=116.88; max=66623; n_reads=4837548(75.6%)
+Removing repetitive stacks: cov > 360 (mean+3*stdev)...
+  Blacklisted 7736 stacks.
+Coverage after repeat removal: mean=7.19; stdev=9.85; max=358; n_reads=4100002(64.1%)
+
+Assembling stacks (max. dist. M=2)...
+  Assembled 570157 stacks into 452881; blacklisted 7078 stacks.
+Coverage after assembling stacks: mean=7.70; stdev=9.14; max=470; n_reads=3431444(53.6%)
+
+Merging secondary stacks (max. dist. N=4 from consensus)...
+  Merged 428449 out of 1559103 secondary reads (27.5%), 49205 merged with gapped alignments.
+Coverage after merging secondary stacks: mean=8.66; stdev=9.97; max=514; n_reads=3859893(60.3%)
+
+Assembling stacks, allowing for gaps (min. match length 80.0%)...
+  Assembled 452881 stacks into 440319 stacks.
+Coverage after gapped assembly: mean=8.91; stdev=10.33; max=514; n_reads=3859893(60.3%)
+
+Merging secondary stacks, allowing for gaps (min. match length 80.0%)...
+  Merged 75560 out of 1130654 secondary reads (6.7%).
+Coverage after merging gapped secondary stacks: mean=9.09; stdev=10.83; max=586; n_reads=3935453(61.5%)
+
+Final coverage: mean=9.09; stdev=10.83; max=586; n_reads=3935453(61.5%)
+Calling consensus sequences and haplotypes for catalog assembly...
+Writing tags, SNPs, and alleles files...
+Refetching read IDs...done.
+ustacks is done.
+ustacks parameters selected:
+  Input file: '/home/mshu/Stacks/samples/05/18207B4.fq.gz'
+  Sample ID: 64
+  Min depth of coverage to create a stack (m): 3
+  Repeat removal algorithm: enabled
+  Max distance allowed between stacks (M): 2
+  Max distance allowed to align secondary reads: 4
+  Max number of stacks allowed per de novo locus: 3
+  Deleveraging algorithm: disabled
+  Gapped assembly: enabled
+  Minimum alignment length: 0.8
+  Model type: SNP
+  Alpha significance level for model: 0.05
+
+Loading RAD-Tags...1M...2M...3M...4M...5M...6M...
+
+Loaded 6046807 reads; formed:
+  546945 stacks representing 4540185 primary reads (75.1%)
+  1196194 secondary stacks representing 1506622 secondary reads (24.9%)
+
+Stack coverage: mean=8.30; stdev=149.52; max=89427; n_reads=4540185(75.1%)
+Removing repetitive stacks: cov > 457 (mean+3*stdev)...
+  Blacklisted 6202 stacks.
+Coverage after repeat removal: mean=7.09; stdev=10.66; max=456; n_reads=3835120(63.4%)
+
+Assembling stacks (max. dist. M=2)...
+  Assembled 540743 stacks into 436834; blacklisted 6409 stacks.
+Coverage after assembling stacks: mean=7.54; stdev=9.95; max=556; n_reads=3246045(53.7%)
+
+Merging secondary stacks (max. dist. N=4 from consensus)...
+  Merged 391839 out of 1506622 secondary reads (26.0%), 45576 merged with gapped alignments.
+Coverage after merging secondary stacks: mean=8.45; stdev=10.81; max=588; n_reads=3637884(60.2%)
+
+Assembling stacks, allowing for gaps (min. match length 80.0%)...
+  Assembled 436834 stacks into 425709 stacks.
+Coverage after gapped assembly: mean=8.68; stdev=11.15; max=588; n_reads=3637884(60.2%)
+
+Merging secondary stacks, allowing for gaps (min. match length 80.0%)...
+  Merged 66496 out of 1114783 secondary reads (6.0%).
+Coverage after merging gapped secondary stacks: mean=8.84; stdev=11.67; max=921; n_reads=3704380(61.3%)
+
+Final coverage: mean=8.84; stdev=11.67; max=921; n_reads=3704380(61.3%)
+Calling consensus sequences and haplotypes for catalog assembly...
+Writing tags, SNPs, and alleles files...
+Refetching read IDs...done.
+ustacks is done.
+ustacks parameters selected:
+  Input file: '/home/mshu/Stacks/samples/05/3041B5.fq.gz'
+  Sample ID: 65
+  Min depth of coverage to create a stack (m): 3
+  Repeat removal algorithm: enabled
+  Max distance allowed between stacks (M): 2
+  Max distance allowed to align secondary reads: 4
+  Max number of stacks allowed per de novo locus: 3
+  Deleveraging algorithm: disabled
+  Gapped assembly: enabled
+  Minimum alignment length: 0.8
+  Model type: SNP
+  Alpha significance level for model: 0.05
+
+Loading RAD-Tags...1M...2M...3M...4M...5M...6M...7M...8M...
+
+Loaded 8002709 reads; formed:
+  721048 stacks representing 5741618 primary reads (71.7%)
+  1778750 secondary stacks representing 2261091 secondary reads (28.3%)
+
+Stack coverage: mean=7.96; stdev=153.16; max=96895; n_reads=5741618(71.7%)
+Removing repetitive stacks: cov > 468 (mean+3*stdev)...
+  Blacklisted 9186 stacks.
+Coverage after repeat removal: mean=6.67; stdev=11.07; max=462; n_reads=4750730(59.4%)
+
+Assembling stacks (max. dist. M=2)...
+  Assembled 711862 stacks into 566592; blacklisted 8233 stacks.
+Coverage after assembling stacks: mean=6.96; stdev=10.29; max=448; n_reads=3882826(48.5%)
+
+Merging secondary stacks (max. dist. N=4 from consensus)...
+  Merged 502305 out of 2261091 secondary reads (22.2%), 53083 merged with gapped alignments.
+Coverage after merging secondary stacks: mean=7.86; stdev=11.16; max=533; n_reads=4385131(54.8%)
+
+Assembling stacks, allowing for gaps (min. match length 80.0%)...
+  Assembled 566592 stacks into 553925 stacks.
+Coverage after gapped assembly: mean=8.04; stdev=11.48; max=533; n_reads=4385131(54.8%)
+
+Merging secondary stacks, allowing for gaps (min. match length 80.0%)...
+  Merged 99845 out of 1758786 secondary reads (5.7%).
+Coverage after merging gapped secondary stacks: mean=8.22; stdev=12.07; max=915; n_reads=4484976(56.0%)
+
+Final coverage: mean=8.22; stdev=12.07; max=915; n_reads=4484976(56.0%)
+Calling consensus sequences and haplotypes for catalog assembly...
+Writing tags, SNPs, and alleles files...
+Refetching read IDs...done.
+ustacks is done.
+ustacks parameters selected:
+  Input file: '/home/mshu/Stacks/samples/05/3138B6.fq.gz'
+  Sample ID: 66
+  Min depth of coverage to create a stack (m): 3
+  Repeat removal algorithm: enabled
+  Max distance allowed between stacks (M): 2
+  Max distance allowed to align secondary reads: 4
+  Max number of stacks allowed per de novo locus: 3
+  Deleveraging algorithm: disabled
+  Gapped assembly: enabled
+  Minimum alignment length: 0.8
+  Model type: SNP
+  Alpha significance level for model: 0.05
+
+Loading RAD-Tags...1M...2M...3M...4M...5M...6M...
+
+Loaded 6721217 reads; formed:
+  601283 stacks representing 4951431 primary reads (73.7%)
+  1399943 secondary stacks representing 1769786 secondary reads (26.3%)
+
+Stack coverage: mean=8.23; stdev=173.91; max=111699; n_reads=4951431(73.7%)
+Removing repetitive stacks: cov > 530 (mean+3*stdev)...
+  Blacklisted 7643 stacks.
+Coverage after repeat removal: mean=6.83; stdev=10.25; max=525; n_reads=4057171(60.4%)
+
+Assembling stacks (max. dist. M=2)...
+  Assembled 593640 stacks into 467368; blacklisted 7489 stacks.
+Coverage after assembling stacks: mean=7.19; stdev=8.77; max=509; n_reads=3307267(49.2%)
+
+Merging secondary stacks (max. dist. N=4 from consensus)...
+  Merged 439438 out of 1769786 secondary reads (24.8%), 51258 merged with gapped alignments.
+Coverage after merging secondary stacks: mean=8.15; stdev=9.62; max=535; n_reads=3746705(55.7%)
+
+Assembling stacks, allowing for gaps (min. match length 80.0%)...
+  Assembled 467368 stacks into 454972 stacks.
+Coverage after gapped assembly: mean=8.38; stdev=9.96; max=535; n_reads=3746705(55.7%)
+
+Merging secondary stacks, allowing for gaps (min. match length 80.0%)...
+  Merged 85688 out of 1330348 secondary reads (6.4%).
+Coverage after merging gapped secondary stacks: mean=8.57; stdev=10.60; max=555; n_reads=3832393(57.0%)
+
+Final coverage: mean=8.57; stdev=10.60; max=555; n_reads=3832393(57.0%)
+Calling consensus sequences and haplotypes for catalog assembly...
+Writing tags, SNPs, and alleles files...
+Refetching read IDs...done.
+ustacks is done.
+ustacks parameters selected:
+  Input file: '/home/mshu/Stacks/samples/05/3211B7.fq.gz'
+  Sample ID: 67
+  Min depth of coverage to create a stack (m): 3
+  Repeat removal algorithm: enabled
+  Max distance allowed between stacks (M): 2
+  Max distance allowed to align secondary reads: 4
+  Max number of stacks allowed per de novo locus: 3
+  Deleveraging algorithm: disabled
+  Gapped assembly: enabled
+  Minimum alignment length: 0.8
+  Model type: SNP
+  Alpha significance level for model: 0.05
+
+Loading RAD-Tags...1M...2M...3M...4M...5M...6M...7M...8M...
+
+Loaded 8015813 reads; formed:
+  725214 stacks representing 5686884 primary reads (70.9%)
+  1842191 secondary stacks representing 2328929 secondary reads (29.1%)
+
+Stack coverage: mean=7.84; stdev=158.61; max=107866; n_reads=5686884(70.9%)
+Removing repetitive stacks: cov > 484 (mean+3*stdev)...
+  Blacklisted 10251 stacks.
+Coverage after repeat removal: mean=6.59; stdev=9.58; max=481; n_reads=4713201(58.8%)
+
+Assembling stacks (max. dist. M=2)...
+  Assembled 714963 stacks into 545425; blacklisted 9436 stacks.
+Coverage after assembling stacks: mean=6.85; stdev=7.30; max=479; n_reads=3670954(45.8%)
+
+Merging secondary stacks (max. dist. N=4 from consensus)...
+  Merged 565503 out of 2328929 secondary reads (24.3%), 69598 merged with gapped alignments.
+Coverage after merging secondary stacks: mean=7.91; stdev=8.31; max=552; n_reads=4236457(52.9%)
+
+Assembling stacks, allowing for gaps (min. match length 80.0%)...
+  Assembled 545425 stacks into 531561 stacks.
+Coverage after gapped assembly: mean=8.12; stdev=8.64; max=552; n_reads=4236457(52.9%)
+
+Merging secondary stacks, allowing for gaps (min. match length 80.0%)...
+  Merged 119032 out of 1763426 secondary reads (6.8%).
+Coverage after merging gapped secondary stacks: mean=8.34; stdev=9.57; max=783; n_reads=4355489(54.3%)
+
+Final coverage: mean=8.34; stdev=9.57; max=783; n_reads=4355489(54.3%)
+Calling consensus sequences and haplotypes for catalog assembly...
+Writing tags, SNPs, and alleles files...
+Refetching read IDs...done.
+ustacks is done.
+ustacks parameters selected:
+  Input file: '/home/mshu/Stacks/samples/05/4224B8.fq.gz'
+  Sample ID: 68
+  Min depth of coverage to create a stack (m): 3
+  Repeat removal algorithm: enabled
+  Max distance allowed between stacks (M): 2
+  Max distance allowed to align secondary reads: 4
+  Max number of stacks allowed per de novo locus: 3
+  Deleveraging algorithm: disabled
+  Gapped assembly: enabled
+  Minimum alignment length: 0.8
+  Model type: SNP
+  Alpha significance level for model: 0.05
+
+Loading RAD-Tags...1M...2M...3M...4M...5M...6M...7M...8M...9M...10M...
+
+Loaded 10774235 reads; formed:
+  835602 stacks representing 8507616 primary reads (79.0%)
+  1811686 secondary stacks representing 2266619 secondary reads (21.0%)
+
+Stack coverage: mean=10.18; stdev=225.14; max=165535; n_reads=8507616(79.0%)
+Removing repetitive stacks: cov > 686 (mean+3*stdev)...
+  Blacklisted 12049 stacks.
+Coverage after repeat removal: mean=8.52; stdev=17.33; max=684; n_reads=7019137(65.1%)
+
+Assembling stacks (max. dist. M=2)...
+  Assembled 823553 stacks into 616425; blacklisted 11328 stacks.
+Coverage after assembling stacks: mean=9.28; stdev=17.01; max=685; n_reads=5615744(52.1%)
+
+Merging secondary stacks (max. dist. N=4 from consensus)...
+  Merged 669852 out of 2266619 secondary reads (29.6%), 82642 merged with gapped alignments.
+Coverage after merging secondary stacks: mean=10.39; stdev=18.09; max=723; n_reads=6285596(58.3%)
+
+Assembling stacks, allowing for gaps (min. match length 80.0%)...
+  Assembled 616425 stacks into 597527 stacks.
+Coverage after gapped assembly: mean=10.73; stdev=18.66; max=803; n_reads=6285596(58.3%)
+
+Merging secondary stacks, allowing for gaps (min. match length 80.0%)...
+  Merged 126846 out of 1596767 secondary reads (7.9%).
+Coverage after merging gapped secondary stacks: mean=10.94; stdev=19.15; max=944; n_reads=6412442(59.5%)
+
+Final coverage: mean=10.94; stdev=19.15; max=944; n_reads=6412442(59.5%)
+Calling consensus sequences and haplotypes for catalog assembly...
+Writing tags, SNPs, and alleles files...
+Refetching read IDs...done.
+ustacks is done.
+ustacks parameters selected:
+  Input file: '/home/mshu/Stacks/samples/05/3166B9.fq.gz'
+  Sample ID: 69
+  Min depth of coverage to create a stack (m): 3
+  Repeat removal algorithm: enabled
+  Max distance allowed between stacks (M): 2
+  Max distance allowed to align secondary reads: 4
+  Max number of stacks allowed per de novo locus: 3
+  Deleveraging algorithm: disabled
+  Gapped assembly: enabled
+  Minimum alignment length: 0.8
+  Model type: SNP
+  Alpha significance level for model: 0.05
+
+Loading RAD-Tags...1M...2M...3M...4M...5M...6M...7M...8M...9M...
+
+Loaded 9778495 reads; formed:
+  775402 stacks representing 7599168 primary reads (77.7%)
+  1745360 secondary stacks representing 2179327 secondary reads (22.3%)
+
+Stack coverage: mean=9.80; stdev=183.12; max=116288; n_reads=7599168(77.7%)
+Removing repetitive stacks: cov > 560 (mean+3*stdev)...
+  Blacklisted 10199 stacks.
+Coverage after repeat removal: mean=8.28; stdev=14.17; max=559; n_reads=6337860(64.8%)
+
+Assembling stacks (max. dist. M=2)...
+  Assembled 765203 stacks into 592777; blacklisted 9981 stacks.
+Coverage after assembling stacks: mean=8.97; stdev=13.75; max=562; n_reads=5227599(53.5%)
+
+Merging secondary stacks (max. dist. N=4 from consensus)...
+  Merged 587060 out of 2179327 secondary reads (26.9%), 70980 merged with gapped alignments.
+Coverage after merging secondary stacks: mean=9.98; stdev=14.69; max=584; n_reads=5814659(59.5%)
+
+Assembling stacks, allowing for gaps (min. match length 80.0%)...
+  Assembled 592777 stacks into 574468 stacks.
+Coverage after gapped assembly: mean=10.30; stdev=15.16; max=584; n_reads=5814659(59.5%)
+
+Merging secondary stacks, allowing for gaps (min. match length 80.0%)...
+  Merged 103784 out of 1592267 secondary reads (6.5%).
+Coverage after merging gapped secondary stacks: mean=10.49; stdev=15.57; max=622; n_reads=5918443(60.5%)
+
+Final coverage: mean=10.49; stdev=15.57; max=622; n_reads=5918443(60.5%)
+Calling consensus sequences and haplotypes for catalog assembly...
+Writing tags, SNPs, and alleles files...
+Refetching read IDs...done.
+ustacks is done.
+ustacks parameters selected:
+  Input file: '/home/mshu/Stacks/samples/05/3088B10.fq.gz'
+  Sample ID: 70
+  Min depth of coverage to create a stack (m): 3
+  Repeat removal algorithm: enabled
+  Max distance allowed between stacks (M): 2
+  Max distance allowed to align secondary reads: 4
+  Max number of stacks allowed per de novo locus: 3
+  Deleveraging algorithm: disabled
+  Gapped assembly: enabled
+  Minimum alignment length: 0.8
+  Model type: SNP
+  Alpha significance level for model: 0.05
+
+Loading RAD-Tags...1M...2M...3M...4M...5M...6M...7M...8M...
+
+Loaded 8153776 reads; formed:
+  693460 stacks representing 6267089 primary reads (76.9%)
+  1504145 secondary stacks representing 1886687 secondary reads (23.1%)
+
+Stack coverage: mean=9.04; stdev=168.74; max=109982; n_reads=6267089(76.9%)
+Removing repetitive stacks: cov > 516 (mean+3*stdev)...
+  Blacklisted 8954 stacks.
+Coverage after repeat removal: mean=7.68; stdev=12.51; max=515; n_reads=5257145(64.5%)
+
+Assembling stacks (max. dist. M=2)...
+  Assembled 684506 stacks into 527420; blacklisted 8989 stacks.
+Coverage after assembling stacks: mean=8.29; stdev=11.84; max=552; n_reads=4294496(52.7%)
+
+Merging secondary stacks (max. dist. N=4 from consensus)...
+  Merged 538507 out of 1886687 secondary reads (28.5%), 64529 merged with gapped alignments.
+Coverage after merging secondary stacks: mean=9.33; stdev=12.81; max=702; n_reads=4833003(59.3%)
+
+Assembling stacks, allowing for gaps (min. match length 80.0%)...
+  Assembled 527420 stacks into 511691 stacks.
+Coverage after gapped assembly: mean=9.62; stdev=13.22; max=702; n_reads=4833003(59.3%)
+
+Merging secondary stacks, allowing for gaps (min. match length 80.0%)...
+  Merged 97478 out of 1348180 secondary reads (7.2%).
+Coverage after merging gapped secondary stacks: mean=9.81; stdev=13.86; max=1115; n_reads=4930481(60.5%)
+
+Final coverage: mean=9.81; stdev=13.86; max=1115; n_reads=4930481(60.5%)
+Calling consensus sequences and haplotypes for catalog assembly...
+Writing tags, SNPs, and alleles files...
+Refetching read IDs...done.
+ustacks is done.
+ustacks parameters selected:
+  Input file: '/home/mshu/Stacks/samples/05/3325B11.fq.gz'
+  Sample ID: 71
+  Min depth of coverage to create a stack (m): 3
+  Repeat removal algorithm: enabled
+  Max distance allowed between stacks (M): 2
+  Max distance allowed to align secondary reads: 4
+  Max number of stacks allowed per de novo locus: 3
+  Deleveraging algorithm: disabled
+  Gapped assembly: enabled
+  Minimum alignment length: 0.8
+  Model type: SNP
+  Alpha significance level for model: 0.05
+
+Loading RAD-Tags...1M...2M...3M...4M...5M...
+
+Loaded 5973793 reads; formed:
+  556912 stacks representing 4292838 primary reads (71.9%)
+  1329562 secondary stacks representing 1680955 secondary reads (28.1%)
+
+Stack coverage: mean=7.71; stdev=125.95; max=70861; n_reads=4292838(71.9%)
+Removing repetitive stacks: cov > 386 (mean+3*stdev)...
+  Blacklisted 6945 stacks.
+Coverage after repeat removal: mean=6.59; stdev=8.87; max=385; n_reads=3625962(60.7%)
+
+Assembling stacks (max. dist. M=2)...
+  Assembled 549967 stacks into 436905; blacklisted 6995 stacks.
+Coverage after assembling stacks: mean=6.94; stdev=7.55; max=403; n_reads=2980618(49.9%)
+
+Merging secondary stacks (max. dist. N=4 from consensus)...
+  Merged 414765 out of 1680955 secondary reads (24.7%), 47294 merged with gapped alignments.
+Coverage after merging secondary stacks: mean=7.90; stdev=8.46; max=427; n_reads=3395383(56.8%)
+
+Assembling stacks, allowing for gaps (min. match length 80.0%)...
+  Assembled 436905 stacks into 425511 stacks.
+Coverage after gapped assembly: mean=8.12; stdev=8.81; max=579; n_reads=3395383(56.8%)
+
+Merging secondary stacks, allowing for gaps (min. match length 80.0%)...
+  Merged 79410 out of 1266190 secondary reads (6.3%).
+Coverage after merging gapped secondary stacks: mean=8.31; stdev=9.49; max=579; n_reads=3474793(58.2%)
+
+Final coverage: mean=8.31; stdev=9.49; max=579; n_reads=3474793(58.2%)
+Calling consensus sequences and haplotypes for catalog assembly...
+Writing tags, SNPs, and alleles files...
+Refetching read IDs...done.
+ustacks is done.
+ustacks parameters selected:
+  Input file: '/home/mshu/Stacks/samples/05/3121B12.fq.gz'
+  Sample ID: 72
+  Min depth of coverage to create a stack (m): 3
+  Repeat removal algorithm: enabled
+  Max distance allowed between stacks (M): 2
+  Max distance allowed to align secondary reads: 4
+  Max number of stacks allowed per de novo locus: 3
+  Deleveraging algorithm: disabled
+  Gapped assembly: enabled
+  Minimum alignment length: 0.8
+  Model type: SNP
+  Alpha significance level for model: 0.05
+
+Loading RAD-Tags...1M...2M...3M...4M...5M...6M...
+
+Loaded 6787037 reads; formed:
+  612694 stacks representing 5063424 primary reads (74.6%)
+  1367289 secondary stacks representing 1723613 secondary reads (25.4%)
+
+Stack coverage: mean=8.26; stdev=114.60; max=62005; n_reads=5063424(74.6%)
+Removing repetitive stacks: cov > 353 (mean+3*stdev)...
+  Blacklisted 8436 stacks.
+Coverage after repeat removal: mean=7.14; stdev=9.79; max=352; n_reads=4313291(63.6%)
+
+Assembling stacks (max. dist. M=2)...
+  Assembled 604258 stacks into 477349; blacklisted 7608 stacks.
+Coverage after assembling stacks: mean=7.64; stdev=9.30; max=354; n_reads=3588871(52.9%)
+
+Merging secondary stacks (max. dist. N=4 from consensus)...
+  Merged 450630 out of 1723613 secondary reads (26.1%), 51322 merged with gapped alignments.
+Coverage after merging secondary stacks: mean=8.60; stdev=10.13; max=392; n_reads=4039501(59.5%)
+
+Assembling stacks, allowing for gaps (min. match length 80.0%)...
+  Assembled 477349 stacks into 464479 stacks.
+Coverage after gapped assembly: mean=8.85; stdev=10.47; max=392; n_reads=4039501(59.5%)
+
+Merging secondary stacks, allowing for gaps (min. match length 80.0%)...
+  Merged 82718 out of 1272983 secondary reads (6.5%).
+Coverage after merging gapped secondary stacks: mean=9.03; stdev=11.04; max=637; n_reads=4122219(60.7%)
+
+Final coverage: mean=9.03; stdev=11.04; max=637; n_reads=4122219(60.7%)
+Calling consensus sequences and haplotypes for catalog assembly...
+Writing tags, SNPs, and alleles files...
+Refetching read IDs...done.
+ustacks is done.
+ustacks parameters selected:
+  Input file: '/home/mshu/Stacks/samples/05/3331C1.fq.gz'
+  Sample ID: 73
+  Min depth of coverage to create a stack (m): 3
+  Repeat removal algorithm: enabled
+  Max distance allowed between stacks (M): 2
+  Max distance allowed to align secondary reads: 4
+  Max number of stacks allowed per de novo locus: 3
+  Deleveraging algorithm: disabled
+  Gapped assembly: enabled
+  Minimum alignment length: 0.8
+  Model type: SNP
+  Alpha significance level for model: 0.05
+
+Loading RAD-Tags...1M...2M...3M...4M...5M...6M...7M...
+
+Loaded 7064836 reads; formed:
+  619248 stacks representing 5263055 primary reads (74.5%)
+  1424043 secondary stacks representing 1801781 secondary reads (25.5%)
+
+Stack coverage: mean=8.50; stdev=160.49; max=97429; n_reads=5263055(74.5%)
+Removing repetitive stacks: cov > 490 (mean+3*stdev)...
+  Blacklisted 8632 stacks.
+Coverage after repeat removal: mean=7.07; stdev=11.22; max=486; n_reads=4315310(61.1%)
+
+Assembling stacks (max. dist. M=2)...
+  Assembled 610616 stacks into 475067; blacklisted 7795 stacks.
+Coverage after assembling stacks: mean=7.52; stdev=10.30; max=702; n_reads=3512983(49.7%)
+
+Merging secondary stacks (max. dist. N=4 from consensus)...
+  Merged 466319 out of 1801781 secondary reads (25.9%), 50931 merged with gapped alignments.
+Coverage after merging secondary stacks: mean=8.52; stdev=11.21; max=749; n_reads=3979302(56.3%)
+
+Assembling stacks, allowing for gaps (min. match length 80.0%)...
+  Assembled 475067 stacks into 462454 stacks.
+Coverage after gapped assembly: mean=8.76; stdev=11.57; max=749; n_reads=3979302(56.3%)
+
+Merging secondary stacks, allowing for gaps (min. match length 80.0%)...
+  Merged 88797 out of 1335462 secondary reads (6.6%).
+Coverage after merging gapped secondary stacks: mean=8.95; stdev=12.17; max=751; n_reads=4068099(57.6%)
+
+Final coverage: mean=8.95; stdev=12.17; max=751; n_reads=4068099(57.6%)
+Calling consensus sequences and haplotypes for catalog assembly...
+Writing tags, SNPs, and alleles files...
+Refetching read IDs...done.
+ustacks is done.
+ustacks parameters selected:
+  Input file: '/home/mshu/Stacks/samples/05/3310C2.fq.gz'
+  Sample ID: 74
+  Min depth of coverage to create a stack (m): 3
+  Repeat removal algorithm: enabled
+  Max distance allowed between stacks (M): 2
+  Max distance allowed to align secondary reads: 4
+  Max number of stacks allowed per de novo locus: 3
+  Deleveraging algorithm: disabled
+  Gapped assembly: enabled
+  Minimum alignment length: 0.8
+  Model type: SNP
+  Alpha significance level for model: 0.05
+
+Loading RAD-Tags...1M...2M...3M...4M...5M...6M...7M...8M...
+
+Loaded 8639442 reads; formed:
+  688814 stacks representing 6801776 primary reads (78.7%)
+  1463486 secondary stacks representing 1837666 secondary reads (21.3%)
+
+Stack coverage: mean=9.87; stdev=271.88; max=172501; n_reads=6801776(78.7%)
+Removing repetitive stacks: cov > 826 (mean+3*stdev)...
+  Blacklisted 9403 stacks.
+Coverage after repeat removal: mean=7.88; stdev=14.34; max=811; n_reads=5354429(62.0%)
+
+Assembling stacks (max. dist. M=2)...
+  Assembled 679411 stacks into 523867; blacklisted 8886 stacks.
+Coverage after assembling stacks: mean=8.45; stdev=12.97; max=809; n_reads=4349148(50.3%)
+
+Merging secondary stacks (max. dist. N=4 from consensus)...
+  Merged 513210 out of 1837666 secondary reads (27.9%), 61970 merged with gapped alignments.
+Coverage after merging secondary stacks: mean=9.44; stdev=13.89; max=840; n_reads=4862358(56.3%)
+
+Assembling stacks, allowing for gaps (min. match length 80.0%)...
+  Assembled 523867 stacks into 507845 stacks.
+Coverage after gapped assembly: mean=9.75; stdev=14.34; max=843; n_reads=4862358(56.3%)
+
+Merging secondary stacks, allowing for gaps (min. match length 80.0%)...
+  Merged 97321 out of 1324456 secondary reads (7.3%).
+Coverage after merging gapped secondary stacks: mean=9.94; stdev=14.88; max=843; n_reads=4959679(57.4%)
+
+Final coverage: mean=9.94; stdev=14.88; max=843; n_reads=4959679(57.4%)
+Calling consensus sequences and haplotypes for catalog assembly...
+Writing tags, SNPs, and alleles files...
+Refetching read IDs...done.
+ustacks is done.
+ustacks parameters selected:
+  Input file: '/home/mshu/Stacks/samples/05/3413C3.fq.gz'
+  Sample ID: 75
+  Min depth of coverage to create a stack (m): 3
+  Repeat removal algorithm: enabled
+  Max distance allowed between stacks (M): 2
+  Max distance allowed to align secondary reads: 4
+  Max number of stacks allowed per de novo locus: 3
+  Deleveraging algorithm: disabled
+  Gapped assembly: enabled
+  Minimum alignment length: 0.8
+  Model type: SNP
+  Alpha significance level for model: 0.05
+
+Loading RAD-Tags...1M...2M...3M...4M...5M...
+
+Loaded 5928035 reads; formed:
+  544572 stacks representing 4360856 primary reads (73.6%)
+  1241173 secondary stacks representing 1567179 secondary reads (26.4%)
+
+Stack coverage: mean=8.01; stdev=117.79; max=61213; n_reads=4360856(73.6%)
+Removing repetitive stacks: cov > 362 (mean+3*stdev)...
+  Blacklisted 7381 stacks.
+Coverage after repeat removal: mean=6.75; stdev=8.90; max=353; n_reads=3627813(61.2%)
+
+Assembling stacks (max. dist. M=2)...
+  Assembled 537191 stacks into 430742; blacklisted 6666 stacks.
+Coverage after assembling stacks: mean=7.16; stdev=8.09; max=356; n_reads=3034646(51.2%)
+
+Merging secondary stacks (max. dist. N=4 from consensus)...
+  Merged 394013 out of 1567179 secondary reads (25.1%), 45017 merged with gapped alignments.
+Coverage after merging secondary stacks: mean=8.09; stdev=8.92; max=369; n_reads=3428659(57.8%)
+
+Assembling stacks, allowing for gaps (min. match length 80.0%)...
+  Assembled 430742 stacks into 419981 stacks.
+Coverage after gapped assembly: mean=8.30; stdev=9.23; max=369; n_reads=3428659(57.8%)
+
+Merging secondary stacks, allowing for gaps (min. match length 80.0%)...
+  Merged 70550 out of 1173166 secondary reads (6.0%).
+Coverage after merging gapped secondary stacks: mean=8.47; stdev=9.86; max=729; n_reads=3499209(59.0%)
+
+Final coverage: mean=8.47; stdev=9.86; max=729; n_reads=3499209(59.0%)
+Calling consensus sequences and haplotypes for catalog assembly...
+Writing tags, SNPs, and alleles files...
+Refetching read IDs...done.
+ustacks is done.
+ustacks parameters selected:
+  Input file: '/home/mshu/Stacks/samples/05/3352C4.fq.gz'
+  Sample ID: 76
+  Min depth of coverage to create a stack (m): 3
+  Repeat removal algorithm: enabled
+  Max distance allowed between stacks (M): 2
+  Max distance allowed to align secondary reads: 4
+  Max number of stacks allowed per de novo locus: 3
+  Deleveraging algorithm: disabled
+  Gapped assembly: enabled
+  Minimum alignment length: 0.8
+  Model type: SNP
+  Alpha significance level for model: 0.05
+
+Loading RAD-Tags...1M...2M...3M...4M...
+
+Loaded 4849581 reads; formed:
+  464637 stacks representing 3483616 primary reads (71.8%)
+  1079402 secondary stacks representing 1365965 secondary reads (28.2%)
+
+Stack coverage: mean=7.50; stdev=86.93; max=39320; n_reads=3483616(71.8%)
+Removing repetitive stacks: cov > 269 (mean+3*stdev)...
+  Blacklisted 5885 stacks.
+Coverage after repeat removal: mean=6.43; stdev=8.27; max=269; n_reads=2950182(60.8%)
+
+Assembling stacks (max. dist. M=2)...
+  Assembled 458752 stacks into 378737; blacklisted 5037 stacks.
+Coverage after assembling stacks: mean=6.79; stdev=7.86; max=317; n_reads=2535293(52.3%)
+
+Merging secondary stacks (max. dist. N=4 from consensus)...
+  Merged 320701 out of 1365965 secondary reads (23.5%), 35213 merged with gapped alignments.
+Coverage after merging secondary stacks: mean=7.65; stdev=8.68; max=328; n_reads=2855994(58.9%)
+
+Assembling stacks, allowing for gaps (min. match length 80.0%)...
+  Assembled 378737 stacks into 369871 stacks.
+Coverage after gapped assembly: mean=7.83; stdev=8.98; max=328; n_reads=2855994(58.9%)
+
+Merging secondary stacks, allowing for gaps (min. match length 80.0%)...
+  Merged 54702 out of 1045264 secondary reads (5.2%).
+Coverage after merging gapped secondary stacks: mean=7.98; stdev=9.54; max=696; n_reads=2910696(60.0%)
+
+Final coverage: mean=7.98; stdev=9.54; max=696; n_reads=2910696(60.0%)
+Calling consensus sequences and haplotypes for catalog assembly...
+Writing tags, SNPs, and alleles files...
+Refetching read IDs...done.
+ustacks is done.
+ustacks parameters selected:
+  Input file: '/home/mshu/Stacks/samples/05/3369C5.fq.gz'
+  Sample ID: 77
+  Min depth of coverage to create a stack (m): 3
+  Repeat removal algorithm: enabled
+  Max distance allowed between stacks (M): 2
+  Max distance allowed to align secondary reads: 4
+  Max number of stacks allowed per de novo locus: 3
+  Deleveraging algorithm: disabled
+  Gapped assembly: enabled
+  Minimum alignment length: 0.8
+  Model type: SNP
+  Alpha significance level for model: 0.05
+
+Loading RAD-Tags...1M...2M...3M...4M...5M...6M...7M...8M...9M...
+
+Loaded 9408277 reads; formed:
+  841666 stacks representing 6332371 primary reads (67.3%)
+  2422797 secondary stacks representing 3075906 secondary reads (32.7%)
+
+Stack coverage: mean=7.52; stdev=140.09; max=96327; n_reads=6332371(67.3%)
+Removing repetitive stacks: cov > 428 (mean+3*stdev)...
+  Blacklisted 9556 stacks.
+Coverage after repeat removal: mean=6.39; stdev=9.52; max=421; n_reads=5317460(56.5%)
+
+Assembling stacks (max. dist. M=2)...
+  Assembled 832110 stacks into 693439; blacklisted 8040 stacks.
+Coverage after assembling stacks: mean=6.59; stdev=8.67; max=408; n_reads=4515532(48.0%)
+
+Merging secondary stacks (max. dist. N=4 from consensus)...
+  Merged 531429 out of 3075906 secondary reads (17.3%), 59539 merged with gapped alignments.
+Coverage after merging secondary stacks: mean=7.37; stdev=9.47; max=435; n_reads=5046961(53.6%)
+
+Assembling stacks, allowing for gaps (min. match length 80.0%)...
+  Assembled 693439 stacks into 678800 stacks.
+Coverage after gapped assembly: mean=7.53; stdev=9.78; max=435; n_reads=5046961(53.6%)
+
+Merging secondary stacks, allowing for gaps (min. match length 80.0%)...
+  Merged 91480 out of 2544477 secondary reads (3.6%).
+Coverage after merging gapped secondary stacks: mean=7.66; stdev=10.25; max=601; n_reads=5138441(54.6%)
+
+Final coverage: mean=7.66; stdev=10.25; max=601; n_reads=5138441(54.6%)
+Calling consensus sequences and haplotypes for catalog assembly...
+Writing tags, SNPs, and alleles files...
+Refetching read IDs...done.
+ustacks is done.
+ustacks parameters selected:
+  Input file: '/home/mshu/Stacks/samples/05/18830C6.fq.gz'
+  Sample ID: 78
+  Min depth of coverage to create a stack (m): 3
+  Repeat removal algorithm: enabled
+  Max distance allowed between stacks (M): 2
+  Max distance allowed to align secondary reads: 4
+  Max number of stacks allowed per de novo locus: 3
+  Deleveraging algorithm: disabled
+  Gapped assembly: enabled
+  Minimum alignment length: 0.8
+  Model type: SNP
+  Alpha significance level for model: 0.05
+
+Loading RAD-Tags...1M...2M...3M...4M...5M...6M...7M...8M...9M...
+
+Loaded 9108994 reads; formed:
+  784370 stacks representing 6925170 primary reads (76.0%)
+  1733266 secondary stacks representing 2183824 secondary reads (24.0%)
+
+Stack coverage: mean=8.83; stdev=173.59; max=128126; n_reads=6925170(76.0%)
+Removing repetitive stacks: cov > 530 (mean+3*stdev)...
+  Blacklisted 10552 stacks.
+Coverage after repeat removal: mean=7.54; stdev=11.63; max=530; n_reads=5834828(64.1%)
+
+Assembling stacks (max. dist. M=2)...
+  Assembled 773818 stacks into 592874; blacklisted 9943 stacks.
+Coverage after assembling stacks: mean=8.03; stdev=10.34; max=525; n_reads=4680216(51.4%)
+
+Merging secondary stacks (max. dist. N=4 from consensus)...
+  Merged 587328 out of 2183824 secondary reads (26.9%), 71071 merged with gapped alignments.
+Coverage after merging secondary stacks: mean=9.04; stdev=11.24; max=553; n_reads=5267544(57.8%)
+
+Assembling stacks, allowing for gaps (min. match length 80.0%)...
+  Assembled 592874 stacks into 576457 stacks.
+Coverage after gapped assembly: mean=9.30; stdev=11.62; max=561; n_reads=5267544(57.8%)
+
+Merging secondary stacks, allowing for gaps (min. match length 80.0%)...
+  Merged 112051 out of 1596496 secondary reads (7.0%).
+Coverage after merging gapped secondary stacks: mean=9.50; stdev=12.30; max=1086; n_reads=5379595(59.1%)
+
+Final coverage: mean=9.50; stdev=12.30; max=1086; n_reads=5379595(59.1%)
+Calling consensus sequences and haplotypes for catalog assembly...
+Writing tags, SNPs, and alleles files...
+Refetching read IDs...done.
+ustacks is done.
+ustacks parameters selected:
+  Input file: '/home/mshu/Stacks/samples/05/3129C7.fq.gz'
+  Sample ID: 79
+  Min depth of coverage to create a stack (m): 3
+  Repeat removal algorithm: enabled
+  Max distance allowed between stacks (M): 2
+  Max distance allowed to align secondary reads: 4
+  Max number of stacks allowed per de novo locus: 3
+  Deleveraging algorithm: disabled
+  Gapped assembly: enabled
+  Minimum alignment length: 0.8
+  Model type: SNP
+  Alpha significance level for model: 0.05
+
+Loading RAD-Tags...1M...2M...3M...4M...5M...6M...7M...8M...
+
+Loaded 8251676 reads; formed:
+  705238 stacks representing 6127380 primary reads (74.3%)
+  1685933 secondary stacks representing 2124296 secondary reads (25.7%)
+
+Stack coverage: mean=8.69; stdev=204.93; max=139989; n_reads=6127380(74.3%)
+Removing repetitive stacks: cov > 624 (mean+3*stdev)...
+  Blacklisted 10065 stacks.
+Coverage after repeat removal: mean=7.14; stdev=11.60; max=622; n_reads=4965697(60.2%)
+
+Assembling stacks (max. dist. M=2)...
+  Assembled 695173 stacks into 535119; blacklisted 9007 stacks.
+Coverage after assembling stacks: mean=7.54; stdev=9.95; max=594; n_reads=3966928(48.1%)
+
+Merging secondary stacks (max. dist. N=4 from consensus)...
+  Merged 538368 out of 2124296 secondary reads (25.3%), 65699 merged with gapped alignments.
+Coverage after merging secondary stacks: mean=8.57; stdev=10.87; max=625; n_reads=4505296(54.6%)
+
+Assembling stacks, allowing for gaps (min. match length 80.0%)...
+  Assembled 535119 stacks into 521753 stacks.
+Coverage after gapped assembly: mean=8.79; stdev=11.21; max=625; n_reads=4505296(54.6%)
+
+Merging secondary stacks, allowing for gaps (min. match length 80.0%)...
+  Merged 104115 out of 1585928 secondary reads (6.6%).
+Coverage after merging gapped secondary stacks: mean=8.99; stdev=11.81; max=680; n_reads=4609411(55.9%)
+
+Final coverage: mean=8.99; stdev=11.81; max=680; n_reads=4609411(55.9%)
+Calling consensus sequences and haplotypes for catalog assembly...
+Writing tags, SNPs, and alleles files...
+Refetching read IDs...done.
+ustacks is done.
+ustacks parameters selected:
+  Input file: '/home/mshu/Stacks/samples/05/3187C8.fq.gz'
+  Sample ID: 80
+  Min depth of coverage to create a stack (m): 3
+  Repeat removal algorithm: enabled
+  Max distance allowed between stacks (M): 2
+  Max distance allowed to align secondary reads: 4
+  Max number of stacks allowed per de novo locus: 3
+  Deleveraging algorithm: disabled
+  Gapped assembly: enabled
+  Minimum alignment length: 0.8
+  Model type: SNP
+  Alpha significance level for model: 0.05
+
+Loading RAD-Tags...1M...2M...3M...4M...5M...6M...7M...8M...9M...
+
+Loaded 9869652 reads; formed:
+  927199 stacks representing 6846616 primary reads (69.4%)
+  2380909 secondary stacks representing 3023036 secondary reads (30.6%)
+
+Stack coverage: mean=7.38; stdev=108.94; max=79829; n_reads=6846616(69.4%)
+Removing repetitive stacks: cov > 335 (mean+3*stdev)...
+  Blacklisted 8516 stacks.
+Coverage after repeat removal: mean=6.55; stdev=8.74; max=333; n_reads=6014827(60.9%)
+
+Assembling stacks (max. dist. M=2)...
+  Assembled 918683 stacks into 792383; blacklisted 7259 stacks.
+Coverage after assembling stacks: mean=6.81; stdev=8.39; max=357; n_reads=5343221(54.1%)
+
+Merging secondary stacks (max. dist. N=4 from consensus)...
+  Merged 564000 out of 3023036 secondary reads (18.7%), 62876 merged with gapped alignments.
+Coverage after merging secondary stacks: mean=7.53; stdev=9.10; max=386; n_reads=5907221(59.9%)
+
+Assembling stacks, allowing for gaps (min. match length 80.0%)...
+  Assembled 792383 stacks into 776774 stacks.
+Coverage after gapped assembly: mean=7.68; stdev=9.37; max=512; n_reads=5907221(59.9%)
+
+Merging secondary stacks, allowing for gaps (min. match length 80.0%)...
+  Merged 85446 out of 2459036 secondary reads (3.5%).
+Coverage after merging gapped secondary stacks: mean=7.79; stdev=9.71; max=737; n_reads=5992667(60.7%)
+
+Final coverage: mean=7.79; stdev=9.71; max=737; n_reads=5992667(60.7%)
+Calling consensus sequences and haplotypes for catalog assembly...
+Writing tags, SNPs, and alleles files...
+Refetching read IDs...done.
+ustacks is done.
+ustacks parameters selected:
+  Input file: '/home/mshu/Stacks/samples/05/3010C9.fq.gz'
+  Sample ID: 81
+  Min depth of coverage to create a stack (m): 3
+  Repeat removal algorithm: enabled
+  Max distance allowed between stacks (M): 2
+  Max distance allowed to align secondary reads: 4
+  Max number of stacks allowed per de novo locus: 3
+  Deleveraging algorithm: disabled
+  Gapped assembly: enabled
+  Minimum alignment length: 0.8
+  Model type: SNP
+  Alpha significance level for model: 0.05
+
+Loading RAD-Tags...1M...2M...3M...4M...5M...
+
+Loaded 5826747 reads; formed:
+  545013 stacks representing 4336224 primary reads (74.4%)
+  1175843 secondary stacks representing 1490523 secondary reads (25.6%)
+
+Stack coverage: mean=7.96; stdev=118.04; max=68198; n_reads=4336224(74.4%)
+Removing repetitive stacks: cov > 363 (mean+3*stdev)...
+  Blacklisted 6836 stacks.
+Coverage after repeat removal: mean=6.84; stdev=9.34; max=359; n_reads=3680039(63.2%)
+
+Assembling stacks (max. dist. M=2)...
+  Assembled 538177 stacks into 429581; blacklisted 6609 stacks.
+Coverage after assembling stacks: mean=7.26; stdev=8.55; max=358; n_reads=3071084(52.7%)
+
+Merging secondary stacks (max. dist. N=4 from consensus)...
+  Merged 389059 out of 1490523 secondary reads (26.1%), 39108 merged with gapped alignments.
+Coverage after merging secondary stacks: mean=8.18; stdev=9.37; max=383; n_reads=3460143(59.4%)
+
+Assembling stacks, allowing for gaps (min. match length 80.0%)...
+  Assembled 429581 stacks into 418894 stacks.
+Coverage after gapped assembly: mean=8.40; stdev=9.68; max=383; n_reads=3460143(59.4%)
+
+Merging secondary stacks, allowing for gaps (min. match length 80.0%)...
+  Merged 71210 out of 1101464 secondary reads (6.5%).
+Coverage after merging gapped secondary stacks: mean=8.57; stdev=10.19; max=470; n_reads=3531353(60.6%)
+
+Final coverage: mean=8.57; stdev=10.19; max=470; n_reads=3531353(60.6%)
+Calling consensus sequences and haplotypes for catalog assembly...
+Writing tags, SNPs, and alleles files...
+Refetching read IDs...done.
+ustacks is done.
+ustacks parameters selected:
+  Input file: '/home/mshu/Stacks/samples/05/3068C10.fq.gz'
+  Sample ID: 82
+  Min depth of coverage to create a stack (m): 3
+  Repeat removal algorithm: enabled
+  Max distance allowed between stacks (M): 2
+  Max distance allowed to align secondary reads: 4
+  Max number of stacks allowed per de novo locus: 3
+  Deleveraging algorithm: disabled
+  Gapped assembly: enabled
+  Minimum alignment length: 0.8
+  Model type: SNP
+  Alpha significance level for model: 0.05
+
+Loading RAD-Tags...1M...2M...3M...4M...5M...6M...
+
+Loaded 6842038 reads; formed:
+  611109 stacks representing 5029562 primary reads (73.5%)
+  1432470 secondary stacks representing 1812476 secondary reads (26.5%)
+
+Stack coverage: mean=8.23; stdev=140.11; max=71267; n_reads=5029562(73.5%)
+Removing repetitive stacks: cov > 429 (mean+3*stdev)...
+  Blacklisted 8351 stacks.
+Coverage after repeat removal: mean=6.88; stdev=10.15; max=422; n_reads=4144501(60.6%)
+
+Assembling stacks (max. dist. M=2)...
+  Assembled 602758 stacks into 473356; blacklisted 7685 stacks.
+Coverage after assembling stacks: mean=7.28; stdev=9.11; max=423; n_reads=3390735(49.6%)
+
+Merging secondary stacks (max. dist. N=4 from consensus)...
+  Merged 455016 out of 1812476 secondary reads (25.1%), 54893 merged with gapped alignments.
+Coverage after merging secondary stacks: mean=8.26; stdev=9.99; max=443; n_reads=3845751(56.2%)
+
+Assembling stacks, allowing for gaps (min. match length 80.0%)...
+  Assembled 473356 stacks into 461573 stacks.
+Coverage after gapped assembly: mean=8.48; stdev=10.34; max=686; n_reads=3845751(56.2%)
+
+Merging secondary stacks, allowing for gaps (min. match length 80.0%)...
+  Merged 89353 out of 1357460 secondary reads (6.6%).
+Coverage after merging gapped secondary stacks: mean=8.67; stdev=11.03; max=719; n_reads=3935104(57.5%)
+
+Final coverage: mean=8.67; stdev=11.03; max=719; n_reads=3935104(57.5%)
+Calling consensus sequences and haplotypes for catalog assembly...
+Writing tags, SNPs, and alleles files...
+Refetching read IDs...done.
+ustacks is done.
+ustacks parameters selected:
+  Input file: '/home/mshu/Stacks/samples/05/3152C11.fq.gz'
+  Sample ID: 83
+  Min depth of coverage to create a stack (m): 3
+  Repeat removal algorithm: enabled
+  Max distance allowed between stacks (M): 2
+  Max distance allowed to align secondary reads: 4
+  Max number of stacks allowed per de novo locus: 3
+  Deleveraging algorithm: disabled
+  Gapped assembly: enabled
+  Minimum alignment length: 0.8
+  Model type: SNP
+  Alpha significance level for model: 0.05
+
+Loading RAD-Tags...1M...2M...3M...4M...5M...
+
+Loaded 5806119 reads; formed:
+  528906 stacks representing 4344122 primary reads (74.8%)
+  1158271 secondary stacks representing 1461997 secondary reads (25.2%)
+
+Stack coverage: mean=8.21; stdev=111.37; max=55540; n_reads=4344122(74.8%)
+Removing repetitive stacks: cov > 343 (mean+3*stdev)...
+  Blacklisted 6897 stacks.
+Coverage after repeat removal: mean=7.03; stdev=11.00; max=340; n_reads=3668583(63.2%)
+
+Assembling stacks (max. dist. M=2)...
+  Assembled 522009 stacks into 419295; blacklisted 6424 stacks.
+Coverage after assembling stacks: mean=7.52; stdev=10.89; max=384; n_reads=3103401(53.5%)
+
+Merging secondary stacks (max. dist. N=4 from consensus)...
+  Merged 388514 out of 1461997 secondary reads (26.6%), 45486 merged with gapped alignments.
+Coverage after merging secondary stacks: mean=8.46; stdev=11.78; max=414; n_reads=3491915(60.1%)
+
+Assembling stacks, allowing for gaps (min. match length 80.0%)...
+  Assembled 419295 stacks into 407881 stacks.
+Coverage after gapped assembly: mean=8.70; stdev=12.16; max=414; n_reads=3491915(60.1%)
+
+Merging secondary stacks, allowing for gaps (min. match length 80.0%)...
+  Merged 69888 out of 1073483 secondary reads (6.5%).
+Coverage after merging gapped secondary stacks: mean=8.88; stdev=12.71; max=891; n_reads=3561803(61.3%)
+
+Final coverage: mean=8.88; stdev=12.71; max=891; n_reads=3561803(61.3%)
+Calling consensus sequences and haplotypes for catalog assembly...
+Writing tags, SNPs, and alleles files...
+Refetching read IDs...done.
+ustacks is done.
+ustacks parameters selected:
+  Input file: '/home/mshu/Stacks/samples/05/3165C12.fq.gz'
+  Sample ID: 84
+  Min depth of coverage to create a stack (m): 3
+  Repeat removal algorithm: enabled
+  Max distance allowed between stacks (M): 2
+  Max distance allowed to align secondary reads: 4
+  Max number of stacks allowed per de novo locus: 3
+  Deleveraging algorithm: disabled
+  Gapped assembly: enabled
+  Minimum alignment length: 0.8
+  Model type: SNP
+  Alpha significance level for model: 0.05
+
+Loading RAD-Tags...1M...2M...3M...4M...5M...6M...7M...
+
+Loaded 7612560 reads; formed:
+  661064 stacks representing 5804060 primary reads (76.2%)
+  1438287 secondary stacks representing 1808500 secondary reads (23.8%)
+
+Stack coverage: mean=8.78; stdev=163.20; max=106699; n_reads=5804060(76.2%)
+Removing repetitive stacks: cov > 499 (mean+3*stdev)...
+  Blacklisted 8523 stacks.
+Coverage after repeat removal: mean=7.45; stdev=12.07; max=495; n_reads=4864351(63.9%)
+
+Assembling stacks (max. dist. M=2)...
+  Assembled 652541 stacks into 510585; blacklisted 8451 stacks.
+Coverage after assembling stacks: mean=7.99; stdev=11.38; max=495; n_reads=4008753(52.7%)
+
+Merging secondary stacks (max. dist. N=4 from consensus)...
+  Merged 499733 out of 1808500 secondary reads (27.6%), 59686 merged with gapped alignments.
+Coverage after merging secondary stacks: mean=8.98; stdev=12.31; max=588; n_reads=4508486(59.2%)
+
+Assembling stacks, allowing for gaps (min. match length 80.0%)...
+  Assembled 510585 stacks into 495936 stacks.
+Coverage after gapped assembly: mean=9.25; stdev=12.72; max=620; n_reads=4508486(59.2%)
+
+Merging secondary stacks, allowing for gaps (min. match length 80.0%)...
+  Merged 90084 out of 1308767 secondary reads (6.9%).
+Coverage after merging gapped secondary stacks: mean=9.44; stdev=13.23; max=646; n_reads=4598570(60.4%)
+
+Final coverage: mean=9.44; stdev=13.23; max=646; n_reads=4598570(60.4%)
+Calling consensus sequences and haplotypes for catalog assembly...
+Writing tags, SNPs, and alleles files...
+Refetching read IDs...done.
+ustacks is done.
+ustacks parameters selected:
+  Input file: '/home/mshu/Stacks/samples/05/3260D1.fq.gz'
+  Sample ID: 85
+  Min depth of coverage to create a stack (m): 3
+  Repeat removal algorithm: enabled
+  Max distance allowed between stacks (M): 2
+  Max distance allowed to align secondary reads: 4
+  Max number of stacks allowed per de novo locus: 3
+  Deleveraging algorithm: disabled
+  Gapped assembly: enabled
+  Minimum alignment length: 0.8
+  Model type: SNP
+  Alpha significance level for model: 0.05
+
+Loading RAD-Tags...1M...2M...3M...
+
+Loaded 3444400 reads; formed:
+  340319 stacks representing 2281226 primary reads (66.2%)
+  914014 secondary stacks representing 1163174 secondary reads (33.8%)
+
+Stack coverage: mean=6.70; stdev=87.88; max=35990; n_reads=2281226(66.2%)
+Removing repetitive stacks: cov > 271 (mean+3*stdev)...
+  Blacklisted 4588 stacks.
+Coverage after repeat removal: mean=5.63; stdev=6.81; max=271; n_reads=1890601(54.9%)
+
+Assembling stacks (max. dist. M=2)...
+  Assembled 335731 stacks into 276344; blacklisted 3854 stacks.
+Coverage after assembling stacks: mean=5.81; stdev=5.73; max=277; n_reads=1583520(46.0%)
+
+Merging secondary stacks (max. dist. N=4 from consensus)...
+  Merged 259478 out of 1163174 secondary reads (22.3%), 27732 merged with gapped alignments.
+Coverage after merging secondary stacks: mean=6.77; stdev=6.76; max=301; n_reads=1842998(53.5%)
+
+Assembling stacks, allowing for gaps (min. match length 80.0%)...
+  Assembled 276344 stacks into 270938 stacks.
+Coverage after gapped assembly: mean=6.90; stdev=7.03; max=301; n_reads=1842998(53.5%)
+
+Merging secondary stacks, allowing for gaps (min. match length 80.0%)...
+  Merged 49039 out of 903696 secondary reads (5.4%).
+Coverage after merging gapped secondary stacks: mean=7.09; stdev=7.81; max=459; n_reads=1892037(54.9%)
+
+Final coverage: mean=7.09; stdev=7.81; max=459; n_reads=1892037(54.9%)
+Calling consensus sequences and haplotypes for catalog assembly...
+Writing tags, SNPs, and alleles files...
+Refetching read IDs...done.
+ustacks is done.
+ustacks parameters selected:
+  Input file: '/home/mshu/Stacks/samples/05/3364D2.fq.gz'
+  Sample ID: 86
+  Min depth of coverage to create a stack (m): 3
+  Repeat removal algorithm: enabled
+  Max distance allowed between stacks (M): 2
+  Max distance allowed to align secondary reads: 4
+  Max number of stacks allowed per de novo locus: 3
+  Deleveraging algorithm: disabled
+  Gapped assembly: enabled
+  Minimum alignment length: 0.8
+  Model type: SNP
+  Alpha significance level for model: 0.05
+
+Loading RAD-Tags...1M...2M...3M...4M...5M...6M...7M...
+
+Loaded 7158540 reads; formed:
+  639288 stacks representing 5201005 primary reads (72.7%)
+  1552622 secondary stacks representing 1957535 secondary reads (27.3%)
+
+Stack coverage: mean=8.14; stdev=145.32; max=86370; n_reads=5201005(72.7%)
+Removing repetitive stacks: cov > 445 (mean+3*stdev)...
+  Blacklisted 8859 stacks.
+Coverage after repeat removal: mean=6.83; stdev=9.56; max=444; n_reads=4308648(60.2%)
+
+Assembling stacks (max. dist. M=2)...
+  Assembled 630429 stacks into 491756; blacklisted 8192 stacks.
+Coverage after assembling stacks: mean=7.22; stdev=8.07; max=426; n_reads=3489613(48.7%)
+
+Merging secondary stacks (max. dist. N=4 from consensus)...
+  Merged 490541 out of 1957535 secondary reads (25.1%), 57479 merged with gapped alignments.
+Coverage after merging secondary stacks: mean=8.23; stdev=9.00; max=463; n_reads=3980154(55.6%)
+
+Assembling stacks, allowing for gaps (min. match length 80.0%)...
+  Assembled 491756 stacks into 479274 stacks.
+Coverage after gapped assembly: mean=8.45; stdev=9.31; max=463; n_reads=3980154(55.6%)
+
+Merging secondary stacks, allowing for gaps (min. match length 80.0%)...
+  Merged 93503 out of 1466994 secondary reads (6.4%).
+Coverage after merging gapped secondary stacks: mean=8.65; stdev=9.99; max=620; n_reads=4073657(56.9%)
+
+Final coverage: mean=8.65; stdev=9.99; max=620; n_reads=4073657(56.9%)
+Calling consensus sequences and haplotypes for catalog assembly...
+Writing tags, SNPs, and alleles files...
+Refetching read IDs...done.
+ustacks is done.
+ustacks parameters selected:
+  Input file: '/home/mshu/Stacks/samples/05/3355D3.fq.gz'
+  Sample ID: 87
+  Min depth of coverage to create a stack (m): 3
+  Repeat removal algorithm: enabled
+  Max distance allowed between stacks (M): 2
+  Max distance allowed to align secondary reads: 4
+  Max number of stacks allowed per de novo locus: 3
+  Deleveraging algorithm: disabled
+  Gapped assembly: enabled
+  Minimum alignment length: 0.8
+  Model type: SNP
+  Alpha significance level for model: 0.05
+
+Loading RAD-Tags...1M...2M...3M...4M...5M...6M...
+
+Loaded 6273635 reads; formed:
+  562684 stacks representing 4754286 primary reads (75.8%)
+  1208834 secondary stacks representing 1519349 secondary reads (24.2%)
+
+Stack coverage: mean=8.45; stdev=134.18; max=73607; n_reads=4754286(75.8%)
+Removing repetitive stacks: cov > 411 (mean+3*stdev)...
+  Blacklisted 6858 stacks.
+Coverage after repeat removal: mean=7.22; stdev=9.21; max=408; n_reads=4014215(64.0%)
+
+Assembling stacks (max. dist. M=2)...
+  Assembled 555826 stacks into 445840; blacklisted 6666 stacks.
+Coverage after assembling stacks: mean=7.73; stdev=8.26; max=403; n_reads=3395617(54.1%)
+
+Merging secondary stacks (max. dist. N=4 from consensus)...
+  Merged 393575 out of 1519349 secondary reads (25.9%), 47170 merged with gapped alignments.
+Coverage after merging secondary stacks: mean=8.63; stdev=9.06; max=429; n_reads=3789192(60.4%)
+
+Assembling stacks, allowing for gaps (min. match length 80.0%)...
+  Assembled 445840 stacks into 433714 stacks.
+Coverage after gapped assembly: mean=8.88; stdev=9.43; max=619; n_reads=3789192(60.4%)
+
+Merging secondary stacks, allowing for gaps (min. match length 80.0%)...
+  Merged 67687 out of 1125774 secondary reads (6.0%).
+Coverage after merging gapped secondary stacks: mean=9.04; stdev=9.96; max=787; n_reads=3856879(61.5%)
+
+Final coverage: mean=9.04; stdev=9.96; max=787; n_reads=3856879(61.5%)
+Calling consensus sequences and haplotypes for catalog assembly...
+Writing tags, SNPs, and alleles files...
+Refetching read IDs...done.
+ustacks is done.
+ustacks parameters selected:
+  Input file: '/home/mshu/Stacks/samples/05/3399D4.fq.gz'
+  Sample ID: 88
+  Min depth of coverage to create a stack (m): 3
+  Repeat removal algorithm: enabled
+  Max distance allowed between stacks (M): 2
+  Max distance allowed to align secondary reads: 4
+  Max number of stacks allowed per de novo locus: 3
+  Deleveraging algorithm: disabled
+  Gapped assembly: enabled
+  Minimum alignment length: 0.8
+  Model type: SNP
+  Alpha significance level for model: 0.05
+
+Loading RAD-Tags...1M...2M...3M...4M...5M...6M...7M...8M...
+
+Loaded 8441906 reads; formed:
+  721748 stacks representing 6437451 primary reads (76.3%)
+  1593721 secondary stacks representing 2004455 secondary reads (23.7%)
+
+Stack coverage: mean=8.92; stdev=165.76; max=113680; n_reads=6437451(76.3%)
+Removing repetitive stacks: cov > 507 (mean+3*stdev)...
+  Blacklisted 9395 stacks.
+Coverage after repeat removal: mean=7.66; stdev=13.24; max=507; n_reads=5454542(64.6%)
+
+Assembling stacks (max. dist. M=2)...
+  Assembled 712353 stacks into 547152; blacklisted 9271 stacks.
+Coverage after assembling stacks: mean=8.24; stdev=12.80; max=531; n_reads=4429400(52.5%)
+
+Merging secondary stacks (max. dist. N=4 from consensus)...
+  Merged 558279 out of 2004455 secondary reads (27.9%), 68174 merged with gapped alignments.
+Coverage after merging secondary stacks: mean=9.28; stdev=13.77; max=557; n_reads=4987679(59.1%)
+
+Assembling stacks, allowing for gaps (min. match length 80.0%)...
+  Assembled 547152 stacks into 531013 stacks.
+Coverage after gapped assembly: mean=9.56; stdev=14.22; max=557; n_reads=4987679(59.1%)
+
+Merging secondary stacks, allowing for gaps (min. match length 80.0%)...
+  Merged 104112 out of 1446176 secondary reads (7.2%).
+Coverage after merging gapped secondary stacks: mean=9.76; stdev=14.71; max=699; n_reads=5091791(60.3%)
+
+Final coverage: mean=9.76; stdev=14.71; max=699; n_reads=5091791(60.3%)
+Calling consensus sequences and haplotypes for catalog assembly...
+Writing tags, SNPs, and alleles files...
+Refetching read IDs...done.
+ustacks is done.
+ustacks parameters selected:
+  Input file: '/home/mshu/Stacks/samples/05/3318D5.fq.gz'
+  Sample ID: 89
+  Min depth of coverage to create a stack (m): 3
+  Repeat removal algorithm: enabled
+  Max distance allowed between stacks (M): 2
+  Max distance allowed to align secondary reads: 4
+  Max number of stacks allowed per de novo locus: 3
+  Deleveraging algorithm: disabled
+  Gapped assembly: enabled
+  Minimum alignment length: 0.8
+  Model type: SNP
+  Alpha significance level for model: 0.05
+
+Loading RAD-Tags...1M...2M...3M...4M...5M...6M...
+
+Loaded 6894437 reads; formed:
+  607783 stacks representing 5266955 primary reads (76.4%)
+  1291935 secondary stacks representing 1627482 secondary reads (23.6%)
+
+Stack coverage: mean=8.67; stdev=159.21; max=92696; n_reads=5266955(76.4%)
+Removing repetitive stacks: cov > 487 (mean+3*stdev)...
+  Blacklisted 7741 stacks.
+Coverage after repeat removal: mean=7.32; stdev=10.16; max=484; n_reads=4393004(63.7%)
+
+Assembling stacks (max. dist. M=2)...
+  Assembled 600042 stacks into 472814; blacklisted 7630 stacks.
+Coverage after assembling stacks: mean=7.84; stdev=8.84; max=578; n_reads=3646785(52.9%)
+
+Merging secondary stacks (max. dist. N=4 from consensus)...
+  Merged 441144 out of 1627482 secondary reads (27.1%), 45102 merged with gapped alignments.
+Coverage after merging secondary stacks: mean=8.79; stdev=9.64; max=615; n_reads=4087929(59.3%)
+
+Assembling stacks, allowing for gaps (min. match length 80.0%)...
+  Assembled 472814 stacks into 458852 stacks.
+Coverage after gapped assembly: mean=9.06; stdev=10.00; max=615; n_reads=4087929(59.3%)
+
+Merging secondary stacks, allowing for gaps (min. match length 80.0%)...
+  Merged 83647 out of 1186338 secondary reads (7.1%).
+Coverage after merging gapped secondary stacks: mean=9.25; stdev=10.71; max=792; n_reads=4171576(60.5%)
+
+Final coverage: mean=9.25; stdev=10.71; max=792; n_reads=4171576(60.5%)
+Calling consensus sequences and haplotypes for catalog assembly...
+Writing tags, SNPs, and alleles files...
+Refetching read IDs...done.
+ustacks is done.
+ustacks parameters selected:
+  Input file: '/home/mshu/Stacks/samples/05/3368D6.fq.gz'
+  Sample ID: 90
+  Min depth of coverage to create a stack (m): 3
+  Repeat removal algorithm: enabled
+  Max distance allowed between stacks (M): 2
+  Max distance allowed to align secondary reads: 4
+  Max number of stacks allowed per de novo locus: 3
+  Deleveraging algorithm: disabled
+  Gapped assembly: enabled
+  Minimum alignment length: 0.8
+  Model type: SNP
+  Alpha significance level for model: 0.05
+
+Loading RAD-Tags...1M...2M...3M...4M...5M...6M...7M...8M...
+
+Loaded 8042372 reads; formed:
+  708264 stacks representing 5966884 primary reads (74.2%)
+  1642114 secondary stacks representing 2075488 secondary reads (25.8%)
+
+Stack coverage: mean=8.42; stdev=142.40; max=81006; n_reads=5966884(74.2%)
+Removing repetitive stacks: cov > 436 (mean+3*stdev)...
+  Blacklisted 10569 stacks.
+Coverage after repeat removal: mean=7.08; stdev=10.95; max=432; n_reads=4940194(61.4%)
+
+Assembling stacks (max. dist. M=2)...
+  Assembled 697695 stacks into 531218; blacklisted 9269 stacks.
+Coverage after assembling stacks: mean=7.51; stdev=9.91; max=422; n_reads=3919959(48.7%)
+
+Merging secondary stacks (max. dist. N=4 from consensus)...
+  Merged 549040 out of 2075488 secondary reads (26.5%), 65542 merged with gapped alignments.
+Coverage after merging secondary stacks: mean=8.57; stdev=10.82; max=445; n_reads=4468999(55.6%)
+
+Assembling stacks, allowing for gaps (min. match length 80.0%)...
+  Assembled 531218 stacks into 516858 stacks.
+Coverage after gapped assembly: mean=8.81; stdev=11.20; max=496; n_reads=4468999(55.6%)
+
+Merging secondary stacks, allowing for gaps (min. match length 80.0%)...
+  Merged 112842 out of 1526448 secondary reads (7.4%).
+Coverage after merging gapped secondary stacks: mean=9.03; stdev=11.91; max=713; n_reads=4581841(57.0%)
+
+Final coverage: mean=9.03; stdev=11.91; max=713; n_reads=4581841(57.0%)
+Calling consensus sequences and haplotypes for catalog assembly...
+Writing tags, SNPs, and alleles files...
+Refetching read IDs...done.
+ustacks is done.
+ustacks parameters selected:
+  Input file: '/home/mshu/Stacks/samples/05/3365D7.fq.gz'
+  Sample ID: 91
+  Min depth of coverage to create a stack (m): 3
+  Repeat removal algorithm: enabled
+  Max distance allowed between stacks (M): 2
+  Max distance allowed to align secondary reads: 4
+  Max number of stacks allowed per de novo locus: 3
+  Deleveraging algorithm: disabled
+  Gapped assembly: enabled
+  Minimum alignment length: 0.8
+  Model type: SNP
+  Alpha significance level for model: 0.05
+
+Loading RAD-Tags...1M...2M...3M...4M...5M...
+
+Loaded 5981785 reads; formed:
+  553089 stacks representing 4425272 primary reads (74.0%)
+  1232183 secondary stacks representing 1556513 secondary reads (26.0%)
+
+Stack coverage: mean=8.00; stdev=129.55; max=74722; n_reads=4425272(74.0%)
+Removing repetitive stacks: cov > 397 (mean+3*stdev)...
+  Blacklisted 7016 stacks.
+Coverage after repeat removal: mean=6.83; stdev=9.27; max=395; n_reads=3728421(62.3%)
+
+Assembling stacks (max. dist. M=2)...
+  Assembled 546073 stacks into 436794; blacklisted 6719 stacks.
+Coverage after assembling stacks: mean=7.27; stdev=8.51; max=389; n_reads=3124439(52.2%)
+
+Merging secondary stacks (max. dist. N=4 from consensus)...
+  Merged 401539 out of 1556513 secondary reads (25.8%), 46492 merged with gapped alignments.
+Coverage after merging secondary stacks: mean=8.20; stdev=9.36; max=410; n_reads=3525978(58.9%)
+
+Assembling stacks, allowing for gaps (min. match length 80.0%)...
+  Assembled 436794 stacks into 424631 stacks.
+Coverage after gapped assembly: mean=8.44; stdev=9.71; max=410; n_reads=3525978(58.9%)
+
+Merging secondary stacks, allowing for gaps (min. match length 80.0%)...
+  Merged 74018 out of 1154974 secondary reads (6.4%).
+Coverage after merging gapped secondary stacks: mean=8.62; stdev=10.31; max=728; n_reads=3599996(60.2%)
+
+Final coverage: mean=8.62; stdev=10.31; max=728; n_reads=3599996(60.2%)
+Calling consensus sequences and haplotypes for catalog assembly...
+Writing tags, SNPs, and alleles files...
+Refetching read IDs...done.
+ustacks is done.
+ustacks parameters selected:
+  Input file: '/home/mshu/Stacks/samples/05/3409D8.fq.gz'
+  Sample ID: 92
+  Min depth of coverage to create a stack (m): 3
+  Repeat removal algorithm: enabled
+  Max distance allowed between stacks (M): 2
+  Max distance allowed to align secondary reads: 4
+  Max number of stacks allowed per de novo locus: 3
+  Deleveraging algorithm: disabled
+  Gapped assembly: enabled
+  Minimum alignment length: 0.8
+  Model type: SNP
+  Alpha significance level for model: 0.05
+
+Loading RAD-Tags...1M...2M...3M...
+
+Loaded 3868488 reads; formed:
+  383511 stacks representing 2496795 primary reads (64.5%)
+  1075700 secondary stacks representing 1371693 secondary reads (35.5%)
+
+Stack coverage: mean=6.51; stdev=80.85; max=34824; n_reads=2496795(64.5%)
+Removing repetitive stacks: cov > 250 (mean+3*stdev)...
+  Blacklisted 4581 stacks.
+Coverage after repeat removal: mean=5.57; stdev=6.85; max=250; n_reads=2111165(54.6%)
+
+Assembling stacks (max. dist. M=2)...
+  Assembled 378930 stacks into 321079; blacklisted 3718 stacks.
+Coverage after assembling stacks: mean=5.75; stdev=6.21; max=253; n_reads=1824161(47.2%)
+
+Merging secondary stacks (max. dist. N=4 from consensus)...
+  Merged 266693 out of 1371693 secondary reads (19.4%), 29427 merged with gapped alignments.
+Coverage after merging secondary stacks: mean=6.59; stdev=7.14; max=272; n_reads=2090854(54.0%)
+
+Assembling stacks, allowing for gaps (min. match length 80.0%)...
+  Assembled 321079 stacks into 315509 stacks.
+Coverage after gapped assembly: mean=6.71; stdev=7.38; max=278; n_reads=2090854(54.0%)
+
+Merging secondary stacks, allowing for gaps (min. match length 80.0%)...
+  Merged 46998 out of 1105000 secondary reads (4.3%).
+Coverage after merging gapped secondary stacks: mean=6.86; stdev=8.00; max=375; n_reads=2137852(55.3%)
+
+Final coverage: mean=6.86; stdev=8.00; max=375; n_reads=2137852(55.3%)
+Calling consensus sequences and haplotypes for catalog assembly...
+Writing tags, SNPs, and alleles files...
+Refetching read IDs...done.
+ustacks is done.
+ustacks parameters selected:
+  Input file: '/home/mshu/Stacks/samples/05/3424D9.fq.gz'
+  Sample ID: 93
+  Min depth of coverage to create a stack (m): 3
+  Repeat removal algorithm: enabled
+  Max distance allowed between stacks (M): 2
+  Max distance allowed to align secondary reads: 4
+  Max number of stacks allowed per de novo locus: 3
+  Deleveraging algorithm: disabled
+  Gapped assembly: enabled
+  Minimum alignment length: 0.8
+  Model type: SNP
+  Alpha significance level for model: 0.05
+
+Loading RAD-Tags...1M...2M...3M...4M...5M...
+
+Loaded 5952413 reads; formed:
+  547592 stacks representing 4463855 primary reads (75.0%)
+  1179751 secondary stacks representing 1488558 secondary reads (25.0%)
+
+Stack coverage: mean=8.15; stdev=117.22; max=62076; n_reads=4463855(75.0%)
+Removing repetitive stacks: cov > 360 (mean+3*stdev)...
+  Blacklisted 7145 stacks.
+Coverage after repeat removal: mean=6.98; stdev=9.63; max=360; n_reads=3773229(63.4%)
+
+Assembling stacks (max. dist. M=2)...
+  Assembled 540447 stacks into 429403; blacklisted 6795 stacks.
+Coverage after assembling stacks: mean=7.46; stdev=8.95; max=627; n_reads=3150501(52.9%)
+
+Merging secondary stacks (max. dist. N=4 from consensus)...
+  Merged 406937 out of 1488558 secondary reads (27.3%), 46292 merged with gapped alignments.
+Coverage after merging secondary stacks: mean=8.42; stdev=9.79; max=667; n_reads=3557438(59.8%)
+
+Assembling stacks, allowing for gaps (min. match length 80.0%)...
+  Assembled 429403 stacks into 417432 stacks.
+Coverage after gapped assembly: mean=8.67; stdev=10.15; max=667; n_reads=3557438(59.8%)
+
+Merging secondary stacks, allowing for gaps (min. match length 80.0%)...
+  Merged 72908 out of 1081621 secondary reads (6.7%).
+Coverage after merging gapped secondary stacks: mean=8.84; stdev=10.69; max=670; n_reads=3630346(61.0%)
+
+Final coverage: mean=8.84; stdev=10.69; max=670; n_reads=3630346(61.0%)
+Calling consensus sequences and haplotypes for catalog assembly...
+Writing tags, SNPs, and alleles files...
+Refetching read IDs...done.
+ustacks is done.
+ustacks parameters selected:
+  Input file: '/home/mshu/Stacks/samples/05/4233D10.fq.gz'
+  Sample ID: 94
+  Min depth of coverage to create a stack (m): 3
+  Repeat removal algorithm: enabled
+  Max distance allowed between stacks (M): 2
+  Max distance allowed to align secondary reads: 4
+  Max number of stacks allowed per de novo locus: 3
+  Deleveraging algorithm: disabled
+  Gapped assembly: enabled
+  Minimum alignment length: 0.8
+  Model type: SNP
+  Alpha significance level for model: 0.05
+
+Loading RAD-Tags...1M...2M...3M...4M...
+
+Loaded 4313370 reads; formed:
+  426939 stacks representing 3017490 primary reads (70.0%)
+  1016674 secondary stacks representing 1295880 secondary reads (30.0%)
+
+Stack coverage: mean=7.07; stdev=92.14; max=40684; n_reads=3017490(70.0%)
+Removing repetitive stacks: cov > 284 (mean+3*stdev)...
+  Blacklisted 5945 stacks.
+Coverage after repeat removal: mean=6.04; stdev=7.63; max=279; n_reads=2540735(58.9%)
+
+Assembling stacks (max. dist. M=2)...
+  Assembled 420994 stacks into 341163; blacklisted 5085 stacks.
+Coverage after assembling stacks: mean=6.30; stdev=6.64; max=274; n_reads=2115153(49.0%)
+
+Merging secondary stacks (max. dist. N=4 from consensus)...
+  Merged 317547 out of 1295880 secondary reads (24.5%), 34554 merged with gapped alignments.
+Coverage after merging secondary stacks: mean=7.24; stdev=7.55; max=289; n_reads=2432700(56.4%)
+
+Assembling stacks, allowing for gaps (min. match length 80.0%)...
+  Assembled 341163 stacks into 333682 stacks.
+Coverage after gapped assembly: mean=7.41; stdev=7.83; max=289; n_reads=2432700(56.4%)
+
+Merging secondary stacks, allowing for gaps (min. match length 80.0%)...
+  Merged 60001 out of 978333 secondary reads (6.1%).
+Coverage after merging gapped secondary stacks: mean=7.59; stdev=8.49; max=356; n_reads=2492701(57.8%)
+
+Final coverage: mean=7.59; stdev=8.49; max=356; n_reads=2492701(57.8%)
+Calling consensus sequences and haplotypes for catalog assembly...
+Writing tags, SNPs, and alleles files...
+Refetching read IDs...done.
+ustacks is done.
+ustacks parameters selected:
+  Input file: '/home/mshu/Stacks/samples/05/18051D11.fq.gz'
+  Sample ID: 95
+  Min depth of coverage to create a stack (m): 3
+  Repeat removal algorithm: enabled
+  Max distance allowed between stacks (M): 2
+  Max distance allowed to align secondary reads: 4
+  Max number of stacks allowed per de novo locus: 3
+  Deleveraging algorithm: disabled
+  Gapped assembly: enabled
+  Minimum alignment length: 0.8
+  Model type: SNP
+  Alpha significance level for model: 0.05
+
+Loading RAD-Tags...1M...2M...3M...4M...5M...6M...
+
+Loaded 6632791 reads; formed:
+  606038 stacks representing 4952094 primary reads (74.7%)
+  1331067 secondary stacks representing 1680697 secondary reads (25.3%)
+
+Stack coverage: mean=8.17; stdev=133.38; max=76226; n_reads=4952094(74.7%)
+Removing repetitive stacks: cov > 409 (mean+3*stdev)...
+  Blacklisted 8102 stacks.
+Coverage after repeat removal: mean=6.95; stdev=9.54; max=407; n_reads=4154816(62.6%)
+
+Assembling stacks (max. dist. M=2)...
+  Assembled 597936 stacks into 469332; blacklisted 7657 stacks.
+Coverage after assembling stacks: mean=7.39; stdev=8.50; max=366; n_reads=3412281(51.4%)
+
+Merging secondary stacks (max. dist. N=4 from consensus)...
+  Merged 452966 out of 1680697 secondary reads (27.0%), 52455 merged with gapped alignments.
+Coverage after merging secondary stacks: mean=8.38; stdev=9.37; max=392; n_reads=3865247(58.3%)
+
+Assembling stacks, allowing for gaps (min. match length 80.0%)...
+  Assembled 469332 stacks into 456469 stacks.
+Coverage after gapped assembly: mean=8.62; stdev=9.71; max=392; n_reads=3865247(58.3%)
+
+Merging secondary stacks, allowing for gaps (min. match length 80.0%)...
+  Merged 86978 out of 1227731 secondary reads (7.1%).
+Coverage after merging gapped secondary stacks: mean=8.81; stdev=10.39; max=591; n_reads=3952225(59.6%)
+
+Final coverage: mean=8.81; stdev=10.39; max=591; n_reads=3952225(59.6%)
+Calling consensus sequences and haplotypes for catalog assembly...
+Writing tags, SNPs, and alleles files...
+Refetching read IDs...done.
+ustacks is done.
+ustacks parameters selected:
+  Input file: '/home/mshu/Stacks/samples/05/water2D12.fq.gz'
+  Sample ID: 96
+  Min depth of coverage to create a stack (m): 3
+  Repeat removal algorithm: enabled
+  Max distance allowed between stacks (M): 2
+  Max distance allowed to align secondary reads: 4
+  Max number of stacks allowed per de novo locus: 3
+  Deleveraging algorithm: disabled
+  Gapped assembly: enabled
+  Minimum alignment length: 0.8
+  Model type: SNP
+  Alpha significance level for model: 0.05
+
+Loading RAD-Tags...
+
+Loaded 4448 reads; formed:
+  206 stacks representing 2674 primary reads (60.1%)
+  1436 secondary stacks representing 1774 secondary reads (39.9%)
+
+Stack coverage: mean=12.98; stdev=89.74; max=957; n_reads=2674(60.1%)
+Removing repetitive stacks: cov > 283 (mean+3*stdev)...
+  Blacklisted 15 stacks.
+Coverage after repeat removal: mean=3.68; stdev=1.22; max=11; n_reads=703(15.8%)
+
+Assembling stacks (max. dist. M=2)...
+  Assembled 191 stacks into 173; blacklisted 2 stacks.
+Coverage after assembling stacks: mean=3.72; stdev=1.53; max=12; n_reads=632(14.2%)
+
+Merging secondary stacks (max. dist. N=4 from consensus)...
+  Merged 162 out of 1774 secondary reads (9.1%), 2 merged with gapped alignments.
+Coverage after merging secondary stacks: mean=4.67; stdev=7.33; max=90; n_reads=794(17.9%)
+
+Assembling stacks, allowing for gaps (min. match length 80.0%)...
+  Assembled 173 stacks into 172 stacks.
+Coverage after gapped assembly: mean=4.70; stdev=7.36; max=90; n_reads=794(17.9%)
+
+Merging secondary stacks, allowing for gaps (min. match length 80.0%)...
+  Merged 47 out of 1612 secondary reads (2.9%).
+Coverage after merging gapped secondary stacks: mean=4.98; stdev=9.21; max=108; n_reads=841(18.9%)
+
+Final coverage: mean=4.98; stdev=9.21; max=108; n_reads=841(18.9%)
+Calling consensus sequences and haplotypes for catalog assembly...
+Writing tags, SNPs, and alleles files...
+Refetching read IDs...done.
+ustacks is done.

@@ -1,0 +1,1345 @@
+cstacks parameters selected:
+  Loci matched based on sequence identity.
+  Number of mismatches allowed between stacks: 1
+  Gapped alignments: enabled
+Constructing catalog from 96 samples.
+
+Initializing new catalog...
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/18051D11.tags.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/18051D11.snps.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/18051D11.alleles.tsv.gz
+  448644 loci were newly added to the catalog.
+
+Processing sample /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/18207B4 [2 of 96]
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/18207B4.tags.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/18207B4.snps.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/18207B4.alleles.tsv.gz
+Searching for sequence matches...
+  448644 loci in the catalog, 16355354 kmers in the catalog hash.
+Searching for gapped alignments...
+Merging matches into catalog...
+  197668 loci were matched to a catalog locus.
+  21771 loci were matched to a catalog locus using gapped alignments.
+  201417 loci were newly added to the catalog.
+  1610 loci matched more than one catalog locus, linking them.
+    3207 linked catalog loci were merged into 1534 loci.
+
+Processing sample /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/18231C2 [3 of 96]
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/18231C2.tags.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/18231C2.snps.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/18231C2.alleles.tsv.gz
+Searching for sequence matches...
+  648388 loci in the catalog, 24372678 kmers in the catalog hash.
+Searching for gapped alignments...
+Merging matches into catalog...
+  167221 loci were matched to a catalog locus.
+  24094 loci were matched to a catalog locus using gapped alignments.
+  259303 loci were newly added to the catalog.
+  1929 loci matched more than one catalog locus, linking them.
+    3845 linked catalog loci were merged into 1863 loci.
+
+Processing sample /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/18814A7 [4 of 96]
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/18814A7.tags.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/18814A7.snps.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/18814A7.alleles.tsv.gz
+Searching for sequence matches...
+  905709 loci in the catalog, 33971676 kmers in the catalog hash.
+Searching for gapped alignments...
+Merging matches into catalog...
+  185323 loci were matched to a catalog locus.
+  28373 loci were matched to a catalog locus using gapped alignments.
+  288462 loci were newly added to the catalog.
+  2235 loci matched more than one catalog locus, linking them.
+    4465 linked catalog loci were merged into 2169 loci.
+
+Processing sample /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/18830C6 [5 of 96]
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/18830C6.tags.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/18830C6.snps.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/18830C6.alleles.tsv.gz
+Searching for sequence matches...
+  1191875 loci in the catalog, 44467646 kmers in the catalog hash.
+Searching for gapped alignments...
+Merging matches into catalog...
+  300185 loci were matched to a catalog locus.
+  43442 loci were matched to a catalog locus using gapped alignments.
+  227008 loci were newly added to the catalog.
+  4153 loci matched more than one catalog locus, linking them.
+    8207 linked catalog loci were merged into 3945 loci.
+
+Processing sample /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3006B2 [6 of 96]
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3006B2.tags.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3006B2.snps.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3006B2.alleles.tsv.gz
+Searching for sequence matches...
+  1414621 loci in the catalog, 53485718 kmers in the catalog hash.
+Searching for gapped alignments...
+Merging matches into catalog...
+  254344 loci were matched to a catalog locus.
+  42695 loci were matched to a catalog locus using gapped alignments.
+  151112 loci were newly added to the catalog.
+  3365 loci matched more than one catalog locus, linking them.
+    6726 linked catalog loci were merged into 3256 loci.
+
+Processing sample /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3010C9 [7 of 96]
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3010C9.tags.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3010C9.snps.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3010C9.alleles.tsv.gz
+Searching for sequence matches...
+  1562263 loci in the catalog, 59339468 kmers in the catalog hash.
+Searching for gapped alignments...
+Merging matches into catalog...
+  270064 loci were matched to a catalog locus.
+  43110 loci were matched to a catalog locus using gapped alignments.
+  102760 loci were newly added to the catalog.
+  3650 loci matched more than one catalog locus, linking them.
+    7286 linked catalog loci were merged into 3486 loci.
+
+Processing sample /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3015A3 [8 of 96]
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3015A3.tags.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3015A3.snps.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3015A3.alleles.tsv.gz
+Searching for sequence matches...
+  1661223 loci in the catalog, 63634640 kmers in the catalog hash.
+Searching for gapped alignments...
+Merging matches into catalog...
+  243074 loci were matched to a catalog locus.
+  46681 loci were matched to a catalog locus using gapped alignments.
+  159412 loci were newly added to the catalog.
+  3294 loci matched more than one catalog locus, linking them.
+    6604 linked catalog loci were merged into 3171 loci.
+
+Processing sample /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3019D7 [9 of 96]
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3019D7.tags.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3019D7.snps.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3019D7.alleles.tsv.gz
+Searching for sequence matches...
+  1817202 loci in the catalog, 69658261 kmers in the catalog hash.
+Searching for gapped alignments...
+Merging matches into catalog...
+  252675 loci were matched to a catalog locus.
+  48690 loci were matched to a catalog locus using gapped alignments.
+  220975 loci were newly added to the catalog.
+  3226 loci matched more than one catalog locus, linking them.
+    6474 linked catalog loci were merged into 3114 loci.
+
+Processing sample /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3020D8 [10 of 96]
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3020D8.tags.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3020D8.snps.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3020D8.alleles.tsv.gz
+Searching for sequence matches...
+  2034817 loci in the catalog, 77723721 kmers in the catalog hash.
+Searching for gapped alignments...
+Merging matches into catalog...
+  245607 loci were matched to a catalog locus.
+  52473 loci were matched to a catalog locus using gapped alignments.
+  129484 loci were newly added to the catalog.
+  3535 loci matched more than one catalog locus, linking them.
+    7130 linked catalog loci were merged into 3391 loci.
+
+Processing sample /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3022B4 [11 of 96]
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3022B4.tags.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3022B4.snps.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3022B4.alleles.tsv.gz
+Searching for sequence matches...
+  2160562 loci in the catalog, 82733993 kmers in the catalog hash.
+Searching for gapped alignments...
+Merging matches into catalog...
+  240753 loci were matched to a catalog locus.
+  52660 loci were matched to a catalog locus using gapped alignments.
+  111607 loci were newly added to the catalog.
+  3228 loci matched more than one catalog locus, linking them.
+    6468 linked catalog loci were merged into 3088 loci.
+
+Processing sample /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3027A4 [12 of 96]
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3027A4.tags.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3027A4.snps.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3027A4.alleles.tsv.gz
+Searching for sequence matches...
+  2268789 loci in the catalog, 87053400 kmers in the catalog hash.
+Searching for gapped alignments...
+Merging matches into catalog...
+  253238 loci were matched to a catalog locus.
+  54810 loci were matched to a catalog locus using gapped alignments.
+  349857 loci were newly added to the catalog.
+  3396 loci matched more than one catalog locus, linking them.
+    6766 linked catalog loci were merged into 3198 loci.
+
+Processing sample /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3034C11 [13 of 96]
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3034C11.tags.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3034C11.snps.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3034C11.alleles.tsv.gz
+Searching for sequence matches...
+  2615078 loci in the catalog, 99491122 kmers in the catalog hash.
+Searching for gapped alignments...
+Merging matches into catalog...
+  251101 loci were matched to a catalog locus.
+  57063 loci were matched to a catalog locus using gapped alignments.
+  110285 loci were newly added to the catalog.
+  3537 loci matched more than one catalog locus, linking them.
+    7048 linked catalog loci were merged into 3346 loci.
+
+Processing sample /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3037A11 [14 of 96]
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3037A11.tags.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3037A11.snps.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3037A11.alleles.tsv.gz
+Searching for sequence matches...
+  2721661 loci in the catalog, 103796331 kmers in the catalog hash.
+Searching for gapped alignments...
+Merging matches into catalog...
+  327806 loci were matched to a catalog locus.
+  64404 loci were matched to a catalog locus using gapped alignments.
+  129501 loci were newly added to the catalog.
+  5048 loci matched more than one catalog locus, linking them.
+    10016 linked catalog loci were merged into 4714 loci.
+
+Processing sample /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3039A4 [15 of 96]
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3039A4.tags.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3039A4.snps.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3039A4.alleles.tsv.gz
+Searching for sequence matches...
+  2845860 loci in the catalog, 109172210 kmers in the catalog hash.
+Searching for gapped alignments...
+Merging matches into catalog...
+  278660 loci were matched to a catalog locus.
+  63521 loci were matched to a catalog locus using gapped alignments.
+  589003 loci were newly added to the catalog.
+  3488 loci matched more than one catalog locus, linking them.
+    6990 linked catalog loci were merged into 3343 loci.
+
+Processing sample /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3040A6 [16 of 96]
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3040A6.tags.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3040A6.snps.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3040A6.alleles.tsv.gz
+Searching for sequence matches...
+  3431216 loci in the catalog, 130081044 kmers in the catalog hash.
+Searching for gapped alignments...
+Merging matches into catalog...
+  324319 loci were matched to a catalog locus.
+  67375 loci were matched to a catalog locus using gapped alignments.
+  117827 loci were newly added to the catalog.
+  5080 loci matched more than one catalog locus, linking them.
+    10073 linked catalog loci were merged into 4724 loci.
+
+Processing sample /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3041B5 [17 of 96]
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3041B5.tags.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3041B5.snps.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3041B5.alleles.tsv.gz
+Searching for sequence matches...
+  3543694 loci in the catalog, 135002357 kmers in the catalog hash.
+Searching for gapped alignments...
+Merging matches into catalog...
+  307926 loci were matched to a catalog locus.
+  66219 loci were matched to a catalog locus using gapped alignments.
+  176482 loci were newly added to the catalog.
+  4841 loci matched more than one catalog locus, linking them.
+    9634 linked catalog loci were merged into 4543 loci.
+
+Processing sample /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3046A9 [18 of 96]
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3046A9.tags.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3046A9.snps.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3046A9.alleles.tsv.gz
+Searching for sequence matches...
+  3715085 loci in the catalog, 141846717 kmers in the catalog hash.
+Searching for gapped alignments...
+Merging matches into catalog...
+  326342 loci were matched to a catalog locus.
+  69642 loci were matched to a catalog locus using gapped alignments.
+  97351 loci were newly added to the catalog.
+  4716 loci matched more than one catalog locus, linking them.
+    9480 linked catalog loci were merged into 4467 loci.
+
+Processing sample /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3048A8 [19 of 96]
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3048A8.tags.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3048A8.snps.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3048A8.alleles.tsv.gz
+Searching for sequence matches...
+  3807423 loci in the catalog, 145978769 kmers in the catalog hash.
+Searching for gapped alignments...
+Merging matches into catalog...
+  244798 loci were matched to a catalog locus.
+  56162 loci were matched to a catalog locus using gapped alignments.
+  44171 loci were newly added to the catalog.
+  3006 loci matched more than one catalog locus, linking them.
+    6103 linked catalog loci were merged into 2879 loci.
+
+Processing sample /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3057A12 [20 of 96]
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3057A12.tags.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3057A12.snps.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3057A12.alleles.tsv.gz
+Searching for sequence matches...
+  3848370 loci in the catalog, 147959921 kmers in the catalog hash.
+Searching for gapped alignments...
+Merging matches into catalog...
+  252346 loci were matched to a catalog locus.
+  65629 loci were matched to a catalog locus using gapped alignments.
+  102686 loci were newly added to the catalog.
+  3388 loci matched more than one catalog locus, linking them.
+    6803 linked catalog loci were merged into 3215 loci.
+
+Processing sample /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3061B1 [21 of 96]
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3061B1.tags.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3061B1.snps.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3061B1.alleles.tsv.gz
+Searching for sequence matches...
+  3947468 loci in the catalog, 151936669 kmers in the catalog hash.
+Searching for gapped alignments...
+Merging matches into catalog...
+  312983 loci were matched to a catalog locus.
+  71021 loci were matched to a catalog locus using gapped alignments.
+  75901 loci were newly added to the catalog.
+  4409 loci matched more than one catalog locus, linking them.
+    8844 linked catalog loci were merged into 4173 loci.
+
+Processing sample /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3063B2 [22 of 96]
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3063B2.tags.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3063B2.snps.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3063B2.alleles.tsv.gz
+Searching for sequence matches...
+  4018698 loci in the catalog, 155225174 kmers in the catalog hash.
+Searching for gapped alignments...
+Merging matches into catalog...
+  301423 loci were matched to a catalog locus.
+  69444 loci were matched to a catalog locus using gapped alignments.
+  110137 loci were newly added to the catalog.
+  3907 loci matched more than one catalog locus, linking them.
+    7842 linked catalog loci were merged into 3676 loci.
+
+Processing sample /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3066D9 [23 of 96]
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3066D9.tags.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3066D9.snps.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3066D9.alleles.tsv.gz
+Searching for sequence matches...
+  4124669 loci in the catalog, 159619637 kmers in the catalog hash.
+Searching for gapped alignments...
+Merging matches into catalog...
+  256583 loci were matched to a catalog locus.
+  70818 loci were matched to a catalog locus using gapped alignments.
+  91737 loci were newly added to the catalog.
+  3697 loci matched more than one catalog locus, linking them.
+    7389 linked catalog loci were merged into 3472 loci.
+
+Processing sample /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3068C10 [24 of 96]
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3068C10.tags.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3068C10.snps.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3068C10.alleles.tsv.gz
+Searching for sequence matches...
+  4212489 loci in the catalog, 163250548 kmers in the catalog hash.
+Searching for gapped alignments...
+Merging matches into catalog...
+  303202 loci were matched to a catalog locus.
+  73639 loci were matched to a catalog locus using gapped alignments.
+  81489 loci were newly added to the catalog.
+  4332 loci matched more than one catalog locus, linking them.
+    8647 linked catalog loci were merged into 4050 loci.
+
+Processing sample /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3071D10 [25 of 96]
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3071D10.tags.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3071D10.snps.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3071D10.alleles.tsv.gz
+Searching for sequence matches...
+  4289381 loci in the catalog, 166703677 kmers in the catalog hash.
+Searching for gapped alignments...
+Merging matches into catalog...
+  377086 loci were matched to a catalog locus.
+  96165 loci were matched to a catalog locus using gapped alignments.
+  176559 loci were newly added to the catalog.
+  6143 loci matched more than one catalog locus, linking them.
+    12126 linked catalog loci were merged into 5693 loci.
+
+Processing sample /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3073B3 [26 of 96]
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3073B3.tags.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3073B3.snps.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3073B3.alleles.tsv.gz
+Searching for sequence matches...
+  4459507 loci in the catalog, 173578880 kmers in the catalog hash.
+Searching for gapped alignments...
+Merging matches into catalog...
+  241157 loci were matched to a catalog locus.
+  72721 loci were matched to a catalog locus using gapped alignments.
+  72530 loci were newly added to the catalog.
+  3741 loci matched more than one catalog locus, linking them.
+    7537 linked catalog loci were merged into 3547 loci.
+
+Processing sample /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3075A8 [27 of 96]
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3075A8.tags.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3075A8.snps.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3075A8.alleles.tsv.gz
+Searching for sequence matches...
+  4528047 loci in the catalog, 176542481 kmers in the catalog hash.
+Searching for gapped alignments...
+Merging matches into catalog...
+  323044 loci were matched to a catalog locus.
+  85290 loci were matched to a catalog locus using gapped alignments.
+  192721 loci were newly added to the catalog.
+  4484 loci matched more than one catalog locus, linking them.
+    9014 linked catalog loci were merged into 4250 loci.
+
+Processing sample /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3088B10 [28 of 96]
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3088B10.tags.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3088B10.snps.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3088B10.alleles.tsv.gz
+Searching for sequence matches...
+  4716004 loci in the catalog, 183760405 kmers in the catalog hash.
+Searching for gapped alignments...
+Merging matches into catalog...
+  343881 loci were matched to a catalog locus.
+  86337 loci were matched to a catalog locus using gapped alignments.
+  77632 loci were newly added to the catalog.
+  4963 loci matched more than one catalog locus, linking them.
+    9940 linked catalog loci were merged into 4653 loci.
+
+Processing sample /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3091A1 [29 of 96]
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3091A1.tags.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3091A1.snps.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3091A1.alleles.tsv.gz
+Searching for sequence matches...
+  4788349 loci in the catalog, 187174865 kmers in the catalog hash.
+Searching for gapped alignments...
+Merging matches into catalog...
+  269786 loci were matched to a catalog locus.
+  79027 loci were matched to a catalog locus using gapped alignments.
+  78009 loci were newly added to the catalog.
+  3422 loci matched more than one catalog locus, linking them.
+    6900 linked catalog loci were merged into 3264 loci.
+
+Processing sample /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3121B12 [30 of 96]
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3121B12.tags.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3121B12.snps.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3121B12.alleles.tsv.gz
+Searching for sequence matches...
+  4862722 loci in the catalog, 190289874 kmers in the catalog hash.
+Searching for gapped alignments...
+Merging matches into catalog...
+  311283 loci were matched to a catalog locus.
+  81100 loci were matched to a catalog locus using gapped alignments.
+  68877 loci were newly added to the catalog.
+  4287 loci matched more than one catalog locus, linking them.
+    8565 linked catalog loci were merged into 3986 loci.
+
+Processing sample /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3129C7 [31 of 96]
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3129C7.tags.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3129C7.snps.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3129C7.alleles.tsv.gz
+Searching for sequence matches...
+  4927020 loci in the catalog, 193303681 kmers in the catalog hash.
+Searching for gapped alignments...
+Merging matches into catalog...
+  335496 loci were matched to a catalog locus.
+  87137 loci were matched to a catalog locus using gapped alignments.
+  95611 loci were newly added to the catalog.
+  5215 loci matched more than one catalog locus, linking them.
+    10426 linked catalog loci were merged into 4834 loci.
+
+Processing sample /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3137B1 [32 of 96]
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3137B1.tags.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3137B1.snps.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3137B1.alleles.tsv.gz
+Searching for sequence matches...
+  5017039 loci in the catalog, 197366129 kmers in the catalog hash.
+Searching for gapped alignments...
+Merging matches into catalog...
+  263587 loci were matched to a catalog locus.
+  82723 loci were matched to a catalog locus using gapped alignments.
+  69730 loci were newly added to the catalog.
+  3715 loci matched more than one catalog locus, linking them.
+    7500 linked catalog loci were merged into 3526 loci.
+
+Processing sample /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3138B6 [33 of 96]
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3138B6.tags.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3138B6.snps.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3138B6.alleles.tsv.gz
+Searching for sequence matches...
+  5082795 loci in the catalog, 200231729 kmers in the catalog hash.
+Searching for gapped alignments...
+Merging matches into catalog...
+  301641 loci were matched to a catalog locus.
+  82058 loci were matched to a catalog locus using gapped alignments.
+  68290 loci were newly added to the catalog.
+  4312 loci matched more than one catalog locus, linking them.
+    8616 linked catalog loci were merged into 4002 loci.
+
+Processing sample /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3152C11 [34 of 96]
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3152C11.tags.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3152C11.snps.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3152C11.alleles.tsv.gz
+Searching for sequence matches...
+  5146471 loci in the catalog, 203221651 kmers in the catalog hash.
+Searching for gapped alignments...
+Merging matches into catalog...
+  279843 loci were matched to a catalog locus.
+  78405 loci were matched to a catalog locus using gapped alignments.
+  47032 loci were newly added to the catalog.
+  3738 loci matched more than one catalog locus, linking them.
+    7490 linked catalog loci were merged into 3511 loci.
+
+Processing sample /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3156D3 [35 of 96]
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3156D3.tags.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3156D3.snps.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3156D3.alleles.tsv.gz
+Searching for sequence matches...
+  5189524 loci in the catalog, 205356680 kmers in the catalog hash.
+Searching for gapped alignments...
+Merging matches into catalog...
+  218605 loci were matched to a catalog locus.
+  73544 loci were matched to a catalog locus using gapped alignments.
+  55072 loci were newly added to the catalog.
+  2904 loci matched more than one catalog locus, linking them.
+    5886 linked catalog loci were merged into 2769 loci.
+
+Processing sample /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3165C12 [36 of 96]
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3165C12.tags.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3165C12.snps.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3165C12.alleles.tsv.gz
+Searching for sequence matches...
+  5241479 loci in the catalog, 207602300 kmers in the catalog hash.
+Searching for gapped alignments...
+Merging matches into catalog...
+  333912 loci were matched to a catalog locus.
+  90919 loci were matched to a catalog locus using gapped alignments.
+  67659 loci were newly added to the catalog.
+  4861 loci matched more than one catalog locus, linking them.
+    9717 linked catalog loci were merged into 4551 loci.
+
+Processing sample /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3166B9 [37 of 96]
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3166B9.tags.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3166B9.snps.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3166B9.alleles.tsv.gz
+Searching for sequence matches...
+  5303972 loci in the catalog, 210609573 kmers in the catalog hash.
+Searching for gapped alignments...
+Merging matches into catalog...
+  378023 loci were matched to a catalog locus.
+  99768 loci were matched to a catalog locus using gapped alignments.
+  92076 loci were newly added to the catalog.
+  5242 loci matched more than one catalog locus, linking them.
+    10470 linked catalog loci were merged into 4921 loci.
+
+Processing sample /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3174D6 [38 of 96]
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3174D6.tags.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3174D6.snps.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3174D6.alleles.tsv.gz
+Searching for sequence matches...
+  5390499 loci in the catalog, 214531707 kmers in the catalog hash.
+Searching for gapped alignments...
+Merging matches into catalog...
+  271740 loci were matched to a catalog locus.
+  86543 loci were matched to a catalog locus using gapped alignments.
+  113206 loci were newly added to the catalog.
+  3555 loci matched more than one catalog locus, linking them.
+    7169 linked catalog loci were merged into 3372 loci.
+
+Processing sample /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3178B6 [39 of 96]
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3178B6.tags.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3178B6.snps.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3178B6.alleles.tsv.gz
+Searching for sequence matches...
+  5499908 loci in the catalog, 218874090 kmers in the catalog hash.
+Searching for gapped alignments...
+Merging matches into catalog...
+  246519 loci were matched to a catalog locus.
+  83190 loci were matched to a catalog locus using gapped alignments.
+  57220 loci were newly added to the catalog.
+  3145 loci matched more than one catalog locus, linking them.
+    6375 linked catalog loci were merged into 3004 loci.
+
+Processing sample /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3181C7 [40 of 96]
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3181C7.tags.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3181C7.snps.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3181C7.alleles.tsv.gz
+Searching for sequence matches...
+  5553757 loci in the catalog, 221237960 kmers in the catalog hash.
+Searching for gapped alignments...
+Merging matches into catalog...
+  268948 loci were matched to a catalog locus.
+  89989 loci were matched to a catalog locus using gapped alignments.
+  88419 loci were newly added to the catalog.
+  4050 loci matched more than one catalog locus, linking them.
+    8138 linked catalog loci were merged into 3809 loci.
+
+Processing sample /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3185B5 [41 of 96]
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3185B5.tags.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3185B5.snps.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3185B5.alleles.tsv.gz
+Searching for sequence matches...
+  5637847 loci in the catalog, 224767651 kmers in the catalog hash.
+Searching for gapped alignments...
+Merging matches into catalog...
+  242940 loci were matched to a catalog locus.
+  85432 loci were matched to a catalog locus using gapped alignments.
+  67263 loci were newly added to the catalog.
+  3386 loci matched more than one catalog locus, linking them.
+    6839 linked catalog loci were merged into 3220 loci.
+
+Processing sample /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3186A6 [42 of 96]
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3186A6.tags.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3186A6.snps.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3186A6.alleles.tsv.gz
+Searching for sequence matches...
+  5701491 loci in the catalog, 227499916 kmers in the catalog hash.
+Searching for gapped alignments...
+Merging matches into catalog...
+  351407 loci were matched to a catalog locus.
+  108115 loci were matched to a catalog locus using gapped alignments.
+  94745 loci were newly added to the catalog.
+  5288 loci matched more than one catalog locus, linking them.
+    10601 linked catalog loci were merged into 4959 loci.
+
+Processing sample /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3187C8 [43 of 96]
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3187C8.tags.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3187C8.snps.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3187C8.alleles.tsv.gz
+Searching for sequence matches...
+  5790594 loci in the catalog, 231442625 kmers in the catalog hash.
+Searching for gapped alignments...
+Merging matches into catalog...
+  325037 loci were matched to a catalog locus.
+  92484 loci were matched to a catalog locus using gapped alignments.
+  356081 loci were newly added to the catalog.
+  3995 loci matched more than one catalog locus, linking them.
+    7997 linked catalog loci were merged into 3712 loci.
+
+Processing sample /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3211B7 [44 of 96]
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3211B7.tags.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3211B7.snps.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3211B7.alleles.tsv.gz
+Searching for sequence matches...
+  6142390 loci in the catalog, 244420639 kmers in the catalog hash.
+Searching for gapped alignments...
+Merging matches into catalog...
+  336191 loci were matched to a catalog locus.
+  100465 loci were matched to a catalog locus using gapped alignments.
+  91736 loci were newly added to the catalog.
+  5935 loci matched more than one catalog locus, linking them.
+    11816 linked catalog loci were merged into 5426 loci.
+
+Processing sample /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3216A1 [45 of 96]
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3216A1.tags.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3216A1.snps.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3216A1.alleles.tsv.gz
+Searching for sequence matches...
+  6227736 loci in the catalog, 248398998 kmers in the catalog hash.
+Searching for gapped alignments...
+Merging matches into catalog...
+  338462 loci were matched to a catalog locus.
+  94255 loci were matched to a catalog locus using gapped alignments.
+  96410 loci were newly added to the catalog.
+  4081 loci matched more than one catalog locus, linking them.
+    8215 linked catalog loci were merged into 3812 loci.
+
+Processing sample /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3221C9 [46 of 96]
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3221C9.tags.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3221C9.snps.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3221C9.alleles.tsv.gz
+Searching for sequence matches...
+  6319743 loci in the catalog, 252284393 kmers in the catalog hash.
+Searching for gapped alignments...
+Merging matches into catalog...
+  212799 loci were matched to a catalog locus.
+  80772 loci were matched to a catalog locus using gapped alignments.
+  69182 loci were newly added to the catalog.
+  3967 loci matched more than one catalog locus, linking them.
+    8002 linked catalog loci were merged into 3724 loci.
+
+Processing sample /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3229C8 [47 of 96]
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3229C8.tags.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3229C8.snps.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3229C8.alleles.tsv.gz
+Searching for sequence matches...
+  6384647 loci in the catalog, 255123169 kmers in the catalog hash.
+Searching for gapped alignments...
+Merging matches into catalog...
+  385097 loci were matched to a catalog locus.
+  120218 loci were matched to a catalog locus using gapped alignments.
+  106188 loci were newly added to the catalog.
+  6626 loci matched more than one catalog locus, linking them.
+    13247 linked catalog loci were merged into 6211 loci.
+
+Processing sample /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3242A2 [48 of 96]
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3242A2.tags.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3242A2.snps.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3242A2.alleles.tsv.gz
+Searching for sequence matches...
+  6483799 loci in the catalog, 259545484 kmers in the catalog hash.
+Searching for gapped alignments...
+Merging matches into catalog...
+  369379 loci were matched to a catalog locus.
+  106340 loci were matched to a catalog locus using gapped alignments.
+  301443 loci were newly added to the catalog.
+  3280 loci matched more than one catalog locus, linking them.
+    6613 linked catalog loci were merged into 3133 loci.
+
+Processing sample /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3247C5 [49 of 96]
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3247C5.tags.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3247C5.snps.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3247C5.alleles.tsv.gz
+Searching for sequence matches...
+  6781762 loci in the catalog, 270491670 kmers in the catalog hash.
+Searching for gapped alignments...
+Merging matches into catalog...
+  273044 loci were matched to a catalog locus.
+  98542 loci were matched to a catalog locus using gapped alignments.
+  64535 loci were newly added to the catalog.
+  3909 loci matched more than one catalog locus, linking them.
+    7868 linked catalog loci were merged into 3681 loci.
+
+Processing sample /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3255A5 [50 of 96]
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3255A5.tags.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3255A5.snps.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3255A5.alleles.tsv.gz
+Searching for sequence matches...
+  6842110 loci in the catalog, 273171229 kmers in the catalog hash.
+Searching for gapped alignments...
+Merging matches into catalog...
+  245552 loci were matched to a catalog locus.
+  91891 loci were matched to a catalog locus using gapped alignments.
+  68668 loci were newly added to the catalog.
+  3523 loci matched more than one catalog locus, linking them.
+    7127 linked catalog loci were merged into 3334 loci.
+
+Processing sample /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3260D1 [51 of 96]
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3260D1.tags.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3260D1.snps.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3260D1.alleles.tsv.gz
+Searching for sequence matches...
+  6906985 loci in the catalog, 275946899 kmers in the catalog hash.
+Searching for gapped alignments...
+Merging matches into catalog...
+  179328 loci were matched to a catalog locus.
+  65164 loci were matched to a catalog locus using gapped alignments.
+  25387 loci were newly added to the catalog.
+  2705 loci matched more than one catalog locus, linking them.
+    5465 linked catalog loci were merged into 2537 loci.
+
+Processing sample /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3267C10 [52 of 96]
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3267C10.tags.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3267C10.snps.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3267C10.alleles.tsv.gz
+Searching for sequence matches...
+  6929444 loci in the catalog, 277175169 kmers in the catalog hash.
+Searching for gapped alignments...
+Merging matches into catalog...
+  254446 loci were matched to a catalog locus.
+  95597 loci were matched to a catalog locus using gapped alignments.
+  60616 loci were newly added to the catalog.
+  3649 loci matched more than one catalog locus, linking them.
+    7317 linked catalog loci were merged into 3427 loci.
+
+Processing sample /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3272A7 [53 of 96]
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3272A7.tags.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3272A7.snps.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3272A7.alleles.tsv.gz
+Searching for sequence matches...
+  6986170 loci in the catalog, 279688620 kmers in the catalog hash.
+Searching for gapped alignments...
+Merging matches into catalog...
+  439320 loci were matched to a catalog locus.
+  106186 loci were matched to a catalog locus using gapped alignments.
+  68077 loci were newly added to the catalog.
+  3797 loci matched more than one catalog locus, linking them.
+    7669 linked catalog loci were merged into 3551 loci.
+
+Processing sample /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3275D5 [54 of 96]
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3275D5.tags.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3275D5.snps.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3275D5.alleles.tsv.gz
+Searching for sequence matches...
+  7050129 loci in the catalog, 282573619 kmers in the catalog hash.
+Searching for gapped alignments...
+Merging matches into catalog...
+  237600 loci were matched to a catalog locus.
+  92358 loci were matched to a catalog locus using gapped alignments.
+  51900 loci were newly added to the catalog.
+  3251 loci matched more than one catalog locus, linking them.
+    6550 linked catalog loci were merged into 3074 loci.
+
+Processing sample /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3277B9 [55 of 96]
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3277B9.tags.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3277B9.snps.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3277B9.alleles.tsv.gz
+Searching for sequence matches...
+  7098553 loci in the catalog, 284770670 kmers in the catalog hash.
+Searching for gapped alignments...
+Merging matches into catalog...
+  193645 loci were matched to a catalog locus.
+  82800 loci were matched to a catalog locus using gapped alignments.
+  35843 loci were newly added to the catalog.
+  2816 loci matched more than one catalog locus, linking them.
+    5686 linked catalog loci were merged into 2650 loci.
+
+Processing sample /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3282C6 [56 of 96]
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3282C6.tags.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3282C6.snps.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3282C6.alleles.tsv.gz
+Searching for sequence matches...
+  7131360 loci in the catalog, 286354561 kmers in the catalog hash.
+Searching for gapped alignments...
+Merging matches into catalog...
+  288822 loci were matched to a catalog locus.
+  106108 loci were matched to a catalog locus using gapped alignments.
+  67392 loci were newly added to the catalog.
+  4045 loci matched more than one catalog locus, linking them.
+    8138 linked catalog loci were merged into 3786 loci.
+
+Processing sample /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3286D1 [57 of 96]
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3286D1.tags.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3286D1.snps.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3286D1.alleles.tsv.gz
+Searching for sequence matches...
+  7194400 loci in the catalog, 289177242 kmers in the catalog hash.
+Searching for gapped alignments...
+Merging matches into catalog...
+  202315 loci were matched to a catalog locus.
+  83181 loci were matched to a catalog locus using gapped alignments.
+  156501 loci were newly added to the catalog.
+  2333 loci matched more than one catalog locus, linking them.
+    4721 linked catalog loci were merged into 2214 loci.
+
+Processing sample /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3289A9 [58 of 96]
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3289A9.tags.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3289A9.snps.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3289A9.alleles.tsv.gz
+Searching for sequence matches...
+  7348394 loci in the catalog, 294757288 kmers in the catalog hash.
+Searching for gapped alignments...
+Merging matches into catalog...
+  244173 loci were matched to a catalog locus.
+  98676 loci were matched to a catalog locus using gapped alignments.
+  43158 loci were newly added to the catalog.
+  3089 loci matched more than one catalog locus, linking them.
+    6236 linked catalog loci were merged into 2935 loci.
+
+Processing sample /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3291A3 [59 of 96]
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3291A3.tags.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3291A3.snps.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3291A3.alleles.tsv.gz
+Searching for sequence matches...
+  7388251 loci in the catalog, 296669306 kmers in the catalog hash.
+Searching for gapped alignments...
+Merging matches into catalog...
+  447479 loci were matched to a catalog locus.
+  113000 loci were matched to a catalog locus using gapped alignments.
+  84953 loci were newly added to the catalog.
+  4386 loci matched more than one catalog locus, linking them.
+    8818 linked catalog loci were merged into 4086 loci.
+
+Processing sample /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3293D4 [60 of 96]
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3293D4.tags.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3293D4.snps.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3293D4.alleles.tsv.gz
+Searching for sequence matches...
+  7468472 loci in the catalog, 300248113 kmers in the catalog hash.
+Searching for gapped alignments...
+Merging matches into catalog...
+  187201 loci were matched to a catalog locus.
+  77166 loci were matched to a catalog locus using gapped alignments.
+  70363 loci were newly added to the catalog.
+  2226 loci matched more than one catalog locus, linking them.
+    4499 linked catalog loci were merged into 2121 loci.
+
+Processing sample /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3302B11 [61 of 96]
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3302B11.tags.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3302B11.snps.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3302B11.alleles.tsv.gz
+Searching for sequence matches...
+  7536457 loci in the catalog, 302967269 kmers in the catalog hash.
+Searching for gapped alignments...
+Merging matches into catalog...
+  427912 loci were matched to a catalog locus.
+  114138 loci were matched to a catalog locus using gapped alignments.
+  149612 loci were newly added to the catalog.
+  3581 loci matched more than one catalog locus, linking them.
+    7177 linked catalog loci were merged into 3389 loci.
+
+Processing sample /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3303A5 [62 of 96]
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3303A5.tags.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3303A5.snps.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3303A5.alleles.tsv.gz
+Searching for sequence matches...
+  7682281 loci in the catalog, 308746795 kmers in the catalog hash.
+Searching for gapped alignments...
+Merging matches into catalog...
+  234086 loci were matched to a catalog locus.
+  85059 loci were matched to a catalog locus using gapped alignments.
+  27020 loci were newly added to the catalog.
+  2694 loci matched more than one catalog locus, linking them.
+    5416 linked catalog loci were merged into 2510 loci.
+
+Processing sample /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3306D2 [63 of 96]
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3306D2.tags.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3306D2.snps.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3306D2.alleles.tsv.gz
+Searching for sequence matches...
+  7706395 loci in the catalog, 310055272 kmers in the catalog hash.
+Searching for gapped alignments...
+Merging matches into catalog...
+  255711 loci were matched to a catalog locus.
+  103514 loci were matched to a catalog locus using gapped alignments.
+  44045 loci were newly added to the catalog.
+  3589 loci matched more than one catalog locus, linking them.
+    7173 linked catalog loci were merged into 3348 loci.
+
+Processing sample /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3310C2 [64 of 96]
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3310C2.tags.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3310C2.snps.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3310C2.alleles.tsv.gz
+Searching for sequence matches...
+  7746615 loci in the catalog, 312027505 kmers in the catalog hash.
+Searching for gapped alignments...
+Merging matches into catalog...
+  335724 loci were matched to a catalog locus.
+  111188 loci were matched to a catalog locus using gapped alignments.
+  56968 loci were newly added to the catalog.
+  4709 loci matched more than one catalog locus, linking them.
+    9379 linked catalog loci were merged into 4355 loci.
+
+Processing sample /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3318D5 [65 of 96]
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3318D5.tags.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3318D5.snps.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3318D5.alleles.tsv.gz
+Searching for sequence matches...
+  7798559 loci in the catalog, 314654590 kmers in the catalog hash.
+Searching for gapped alignments...
+Merging matches into catalog...
+  306114 loci were matched to a catalog locus.
+  104989 loci were matched to a catalog locus using gapped alignments.
+  44474 loci were newly added to the catalog.
+  4155 loci matched more than one catalog locus, linking them.
+    8327 linked catalog loci were merged into 3861 loci.
+
+Processing sample /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3325B11 [66 of 96]
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3325B11.tags.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3325B11.snps.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3325B11.alleles.tsv.gz
+Searching for sequence matches...
+  7838567 loci in the catalog, 316762050 kmers in the catalog hash.
+Searching for gapped alignments...
+Merging matches into catalog...
+  273013 loci were matched to a catalog locus.
+  99076 loci were matched to a catalog locus using gapped alignments.
+  50725 loci were newly added to the catalog.
+  4072 loci matched more than one catalog locus, linking them.
+    8217 linked catalog loci were merged into 3780 loci.
+
+Processing sample /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3331C1 [67 of 96]
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3331C1.tags.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3331C1.snps.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3331C1.alleles.tsv.gz
+Searching for sequence matches...
+  7884855 loci in the catalog, 319045254 kmers in the catalog hash.
+Searching for gapped alignments...
+Merging matches into catalog...
+  302348 loci were matched to a catalog locus.
+  104611 loci were matched to a catalog locus using gapped alignments.
+  52664 loci were newly added to the catalog.
+  4762 loci matched more than one catalog locus, linking them.
+    9515 linked catalog loci were merged into 4406 loci.
+
+Processing sample /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3335B10 [68 of 96]
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3335B10.tags.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3335B10.snps.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3335B10.alleles.tsv.gz
+Searching for sequence matches...
+  7932410 loci in the catalog, 321487842 kmers in the catalog hash.
+Searching for gapped alignments...
+Merging matches into catalog...
+  249940 loci were matched to a catalog locus.
+  104221 loci were matched to a catalog locus using gapped alignments.
+  54468 loci were newly added to the catalog.
+  3644 loci matched more than one catalog locus, linking them.
+    7360 linked catalog loci were merged into 3447 loci.
+
+Processing sample /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3339B8 [69 of 96]
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3339B8.tags.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3339B8.snps.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3339B8.alleles.tsv.gz
+Searching for sequence matches...
+  7982965 loci in the catalog, 323809206 kmers in the catalog hash.
+Searching for gapped alignments...
+Merging matches into catalog...
+  261375 loci were matched to a catalog locus.
+  107131 loci were matched to a catalog locus using gapped alignments.
+  69586 loci were newly added to the catalog.
+  4328 loci matched more than one catalog locus, linking them.
+    8708 linked catalog loci were merged into 4049 loci.
+
+Processing sample /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3352C4 [70 of 96]
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3352C4.tags.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3352C4.snps.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3352C4.alleles.tsv.gz
+Searching for sequence matches...
+  8047892 loci in the catalog, 326727058 kmers in the catalog hash.
+Searching for gapped alignments...
+Merging matches into catalog...
+  241085 loci were matched to a catalog locus.
+  89911 loci were matched to a catalog locus using gapped alignments.
+  36804 loci were newly added to the catalog.
+  2897 loci matched more than one catalog locus, linking them.
+    5891 linked catalog loci were merged into 2739 loci.
+
+Processing sample /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3355D3 [71 of 96]
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3355D3.tags.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3355D3.snps.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3355D3.alleles.tsv.gz
+Searching for sequence matches...
+  8081544 loci in the catalog, 328395885 kmers in the catalog hash.
+Searching for gapped alignments...
+Merging matches into catalog...
+  284867 loci were matched to a catalog locus.
+  104065 loci were matched to a catalog locus using gapped alignments.
+  41832 loci were newly added to the catalog.
+  3584 loci matched more than one catalog locus, linking them.
+    7187 linked catalog loci were merged into 3314 loci.
+
+Processing sample /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3356B7 [72 of 96]
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3356B7.tags.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3356B7.snps.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3356B7.alleles.tsv.gz
+Searching for sequence matches...
+  8119503 loci in the catalog, 330328044 kmers in the catalog hash.
+Searching for gapped alignments...
+Merging matches into catalog...
+  183043 loci were matched to a catalog locus.
+  84560 loci were matched to a catalog locus using gapped alignments.
+  61130 loci were newly added to the catalog.
+  2368 loci matched more than one catalog locus, linking them.
+    4797 linked catalog loci were merged into 2258 loci.
+
+Processing sample /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3364D2 [73 of 96]
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3364D2.tags.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3364D2.snps.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3364D2.alleles.tsv.gz
+Searching for sequence matches...
+  8178094 loci in the catalog, 332697736 kmers in the catalog hash.
+Searching for gapped alignments...
+Merging matches into catalog...
+  308113 loci were matched to a catalog locus.
+  109991 loci were matched to a catalog locus using gapped alignments.
+  58199 loci were newly added to the catalog.
+  4974 loci matched more than one catalog locus, linking them.
+    9923 linked catalog loci were merged into 4557 loci.
+
+Processing sample /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3365D7 [74 of 96]
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3365D7.tags.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3365D7.snps.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3365D7.alleles.tsv.gz
+Searching for sequence matches...
+  8230927 loci in the catalog, 335358053 kmers in the catalog hash.
+Searching for gapped alignments...
+Merging matches into catalog...
+  279543 loci were matched to a catalog locus.
+  102722 loci were matched to a catalog locus using gapped alignments.
+  39646 loci were newly added to the catalog.
+  3846 loci matched more than one catalog locus, linking them.
+    7715 linked catalog loci were merged into 3571 loci.
+
+Processing sample /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3368D6 [75 of 96]
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3368D6.tags.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3368D6.snps.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3368D6.alleles.tsv.gz
+Searching for sequence matches...
+  8266429 loci in the catalog, 337249255 kmers in the catalog hash.
+Searching for gapped alignments...
+Merging matches into catalog...
+  336740 loci were matched to a catalog locus.
+  116314 loci were matched to a catalog locus using gapped alignments.
+  60707 loci were newly added to the catalog.
+  5929 loci matched more than one catalog locus, linking them.
+    11796 linked catalog loci were merged into 5431 loci.
+
+Processing sample /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3369C5 [76 of 96]
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3369C5.tags.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3369C5.snps.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3369C5.alleles.tsv.gz
+Searching for sequence matches...
+  8320771 loci in the catalog, 340104813 kmers in the catalog hash.
+Searching for gapped alignments...
+Merging matches into catalog...
+  345073 loci were matched to a catalog locus.
+  114404 loci were matched to a catalog locus using gapped alignments.
+  216414 loci were newly added to the catalog.
+  4891 loci matched more than one catalog locus, linking them.
+    9852 linked catalog loci were merged into 4522 loci.
+
+Processing sample /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3371A12 [77 of 96]
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3371A12.tags.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3371A12.snps.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3371A12.alleles.tsv.gz
+Searching for sequence matches...
+  8531855 loci in the catalog, 348264947 kmers in the catalog hash.
+Searching for gapped alignments...
+Merging matches into catalog...
+  343305 loci were matched to a catalog locus.
+  119423 loci were matched to a catalog locus using gapped alignments.
+  56520 loci were newly added to the catalog.
+  4771 loci matched more than one catalog locus, linking them.
+    9582 linked catalog loci were merged into 4416 loci.
+
+Processing sample /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3373B3 [78 of 96]
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3373B3.tags.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3373B3.snps.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3373B3.alleles.tsv.gz
+Searching for sequence matches...
+  8583209 loci in the catalog, 350862182 kmers in the catalog hash.
+Searching for gapped alignments...
+Merging matches into catalog...
+  292503 loci were matched to a catalog locus.
+  108635 loci were matched to a catalog locus using gapped alignments.
+  36228 loci were newly added to the catalog.
+  3989 loci matched more than one catalog locus, linking them.
+    8034 linked catalog loci were merged into 3716 loci.
+
+Processing sample /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3399D4 [79 of 96]
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3399D4.tags.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3399D4.snps.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3399D4.alleles.tsv.gz
+Searching for sequence matches...
+  8615119 loci in the catalog, 352650185 kmers in the catalog hash.
+Searching for gapped alignments...
+Merging matches into catalog...
+  348752 loci were matched to a catalog locus.
+  121758 loci were matched to a catalog locus using gapped alignments.
+  57052 loci were newly added to the catalog.
+  5559 loci matched more than one catalog locus, linking them.
+    11111 linked catalog loci were merged into 5126 loci.
+
+Processing sample /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3407A10 [80 of 96]
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3407A10.tags.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3407A10.snps.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3407A10.alleles.tsv.gz
+Searching for sequence matches...
+  8666186 loci in the catalog, 355335114 kmers in the catalog hash.
+Searching for gapped alignments...
+Merging matches into catalog...
+  314372 loci were matched to a catalog locus.
+  113173 loci were matched to a catalog locus using gapped alignments.
+  47504 loci were newly added to the catalog.
+  4593 loci matched more than one catalog locus, linking them.
+    9254 linked catalog loci were merged into 4278 loci.
+
+Processing sample /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3409D8 [81 of 96]
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3409D8.tags.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3409D8.snps.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3409D8.alleles.tsv.gz
+Searching for sequence matches...
+  8708714 loci in the catalog, 357572628 kmers in the catalog hash.
+Searching for gapped alignments...
+Merging matches into catalog...
+  190099 loci were matched to a catalog locus.
+  77119 loci were matched to a catalog locus using gapped alignments.
+  47317 loci were newly added to the catalog.
+  2615 loci matched more than one catalog locus, linking them.
+    5330 linked catalog loci were merged into 2448 loci.
+
+Processing sample /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3411D11 [82 of 96]
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3411D11.tags.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3411D11.snps.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3411D11.alleles.tsv.gz
+Searching for sequence matches...
+  8753149 loci in the catalog, 359546066 kmers in the catalog hash.
+Searching for gapped alignments...
+Merging matches into catalog...
+  257787 loci were matched to a catalog locus.
+  108832 loci were matched to a catalog locus using gapped alignments.
+  58823 loci were newly added to the catalog.
+  3333 loci matched more than one catalog locus, linking them.
+    6750 linked catalog loci were merged into 3137 loci.
+
+Processing sample /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3413C3 [83 of 96]
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3413C3.tags.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3413C3.snps.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3413C3.alleles.tsv.gz
+Searching for sequence matches...
+  8808359 loci in the catalog, 361981067 kmers in the catalog hash.
+Searching for gapped alignments...
+Merging matches into catalog...
+  272896 loci were matched to a catalog locus.
+  106370 loci were matched to a catalog locus using gapped alignments.
+  37920 loci were newly added to the catalog.
+  3672 loci matched more than one catalog locus, linking them.
+    7423 linked catalog loci were merged into 3387 loci.
+
+Processing sample /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3424D9 [84 of 96]
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3424D9.tags.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3424D9.snps.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3424D9.alleles.tsv.gz
+Searching for sequence matches...
+  8842243 loci in the catalog, 363794911 kmers in the catalog hash.
+Searching for gapped alignments...
+Merging matches into catalog...
+  275277 loci were matched to a catalog locus.
+  107379 loci were matched to a catalog locus using gapped alignments.
+  31923 loci were newly added to the catalog.
+  3792 loci matched more than one catalog locus, linking them.
+    7652 linked catalog loci were merged into 3538 loci.
+
+Processing sample /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3467C4 [85 of 96]
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3467C4.tags.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3467C4.snps.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3467C4.alleles.tsv.gz
+Searching for sequence matches...
+  8870052 loci in the catalog, 365392402 kmers in the catalog hash.
+Searching for gapped alignments...
+Merging matches into catalog...
+  218766 loci were matched to a catalog locus.
+  102416 loci were matched to a catalog locus using gapped alignments.
+  45357 loci were newly added to the catalog.
+  2870 loci matched more than one catalog locus, linking them.
+    5853 linked catalog loci were merged into 2722 loci.
+
+Processing sample /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3468C12 [86 of 96]
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3468C12.tags.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3468C12.snps.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3468C12.alleles.tsv.gz
+Searching for sequence matches...
+  8912278 loci in the catalog, 367292628 kmers in the catalog hash.
+Searching for gapped alignments...
+Merging matches into catalog...
+  295323 loci were matched to a catalog locus.
+  116046 loci were matched to a catalog locus using gapped alignments.
+  54468 loci were newly added to the catalog.
+  3789 loci matched more than one catalog locus, linking them.
+    7590 linked catalog loci were merged into 3550 loci.
+
+Processing sample /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3474C3 [87 of 96]
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3474C3.tags.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3474C3.snps.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3474C3.alleles.tsv.gz
+Searching for sequence matches...
+  8962706 loci in the catalog, 369669317 kmers in the catalog hash.
+Searching for gapped alignments...
+Merging matches into catalog...
+  224926 loci were matched to a catalog locus.
+  104107 loci were matched to a catalog locus using gapped alignments.
+  37098 loci were newly added to the catalog.
+  3391 loci matched more than one catalog locus, linking them.
+    6803 linked catalog loci were merged into 3152 loci.
+
+Processing sample /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3508C1 [88 of 96]
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3508C1.tags.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3508C1.snps.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3508C1.alleles.tsv.gz
+Searching for sequence matches...
+  8996153 loci in the catalog, 371363918 kmers in the catalog hash.
+Searching for gapped alignments...
+Merging matches into catalog...
+  231290 loci were matched to a catalog locus.
+  107049 loci were matched to a catalog locus using gapped alignments.
+  48074 loci were newly added to the catalog.
+  2837 loci matched more than one catalog locus, linking them.
+    5735 linked catalog loci were merged into 2684 loci.
+
+Processing sample /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3512B12 [89 of 96]
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3512B12.tags.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3512B12.snps.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3512B12.alleles.tsv.gz
+Searching for sequence matches...
+  9041176 loci in the catalog, 373378133 kmers in the catalog hash.
+Searching for gapped alignments...
+Merging matches into catalog...
+  236957 loci were matched to a catalog locus.
+  108901 loci were matched to a catalog locus using gapped alignments.
+  36023 loci were newly added to the catalog.
+  3501 loci matched more than one catalog locus, linking them.
+    7014 linked catalog loci were merged into 3239 loci.
+
+Processing sample /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3524A10 [90 of 96]
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3524A10.tags.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3524A10.snps.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/3524A10.alleles.tsv.gz
+Searching for sequence matches...
+  9073424 loci in the catalog, 375061919 kmers in the catalog hash.
+Searching for gapped alignments...
+Merging matches into catalog...
+  197425 loci were matched to a catalog locus.
+  95167 loci were matched to a catalog locus using gapped alignments.
+  43087 loci were newly added to the catalog.
+  2732 loci matched more than one catalog locus, linking them.
+    5534 linked catalog loci were merged into 2580 loci.
+
+Processing sample /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/4203A11 [91 of 96]
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/4203A11.tags.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/4203A11.snps.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/4203A11.alleles.tsv.gz
+Searching for sequence matches...
+  9113557 loci in the catalog, 376879125 kmers in the catalog hash.
+Searching for gapped alignments...
+Merging matches into catalog...
+  266611 loci were matched to a catalog locus.
+  112630 loci were matched to a catalog locus using gapped alignments.
+  143261 loci were newly added to the catalog.
+  3330 loci matched more than one catalog locus, linking them.
+    6742 linked catalog loci were merged into 3122 loci.
+
+Processing sample /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/4208A2 [92 of 96]
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/4208A2.tags.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/4208A2.snps.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/4208A2.alleles.tsv.gz
+Searching for sequence matches...
+  9253198 loci in the catalog, 382197615 kmers in the catalog hash.
+Searching for gapped alignments...
+Merging matches into catalog...
+  449752 loci were matched to a catalog locus.
+  121994 loci were matched to a catalog locus using gapped alignments.
+  68235 loci were newly added to the catalog.
+  4146 loci matched more than one catalog locus, linking them.
+    8337 linked catalog loci were merged into 3862 loci.
+
+Processing sample /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/4224B8 [93 of 96]
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/4224B8.tags.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/4224B8.snps.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/4224B8.alleles.tsv.gz
+Searching for sequence matches...
+  9316958 loci in the catalog, 385153942 kmers in the catalog hash.
+Searching for gapped alignments...
+Merging matches into catalog...
+  388996 loci were matched to a catalog locus.
+  139538 loci were matched to a catalog locus using gapped alignments.
+  64666 loci were newly added to the catalog.
+  6625 loci matched more than one catalog locus, linking them.
+    13220 linked catalog loci were merged into 6058 loci.
+
+Processing sample /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/4233D10 [94 of 96]
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/4233D10.tags.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/4233D10.snps.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/4233D10.alleles.tsv.gz
+Searching for sequence matches...
+  9374462 loci in the catalog, 388263407 kmers in the catalog hash.
+Searching for gapped alignments...
+Merging matches into catalog...
+  214173 loci were matched to a catalog locus.
+  91950 loci were matched to a catalog locus using gapped alignments.
+  25871 loci were newly added to the catalog.
+  3265 loci matched more than one catalog locus, linking them.
+    6615 linked catalog loci were merged into 3060 loci.
+
+Processing sample /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/water2D12 [95 of 96]
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/water2D12.tags.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/water2D12.snps.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/water2D12.alleles.tsv.gz
+Searching for sequence matches...
+  9396778 loci in the catalog, 389574406 kmers in the catalog hash.
+Searching for gapped alignments...
+Merging matches into catalog...
+  50 loci were matched to a catalog locus.
+  26 loci were matched to a catalog locus using gapped alignments.
+  93 loci were newly added to the catalog.
+  0 loci matched more than one catalog locus, linking them.
+    0 linked catalog loci were merged into 0 loci.
+
+Processing sample /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/waterD12 [96 of 96]
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/waterD12.tags.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/waterD12.snps.tsv.gz
+  Parsing /pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/waterD12.alleles.tsv.gz
+Searching for sequence matches...
+  9396871 loci in the catalog, 389577570 kmers in the catalog hash.
+Searching for gapped alignments...
+Merging matches into catalog...
+  16 loci were matched to a catalog locus.
+  29 loci were matched to a catalog locus using gapped alignments.
+  3002 loci were newly added to the catalog.
+  6 loci matched more than one catalog locus, linking them.
+    9 linked catalog loci were merged into 3 loci.
+
+Writing catalog in directory '/pylon5/eb5fp3p/mengjun/Stacks/PIPO/stacks_cstacks_new/'.
+Final catalog contains 9399867 loci.
+cstacks is done.

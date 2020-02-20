@@ -1,0 +1,1928 @@
+Searching for matches by sequence identity...
+  Parsing /home/mshu/Stacks/cstacks/catalog.tags.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/catalog.snps.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/catalog.alleles.tsv.gz
+Populating kmer dictionary for exact matches...done.
+Populating kmer dictionary for gapped alignments...done.
+
+Processing sample '/home/mshu/Stacks/cstacks/18051D11' [1 of 96]
+  Parsing /home/mshu/Stacks/cstacks/18051D11.tags.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/18051D11.snps.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/18051D11.alleles.tsv.gz
+Searching for sequence matches...
+448633 sample loci compared against the catalog containing 9399867 loci.
+  326477 matching loci, 3843 contained no verified haplotypes.
+  279 loci matched more than one catalog locus and were excluded.
+  3564 loci contained SNPs unaccounted for in the catalog and were excluded.
+  362433 total haplotypes examined from matching loci, 357722 verified.
+Searching for gapped alignments...
+Out of 448633 query loci, 126001 gapped alignments attempted.
+  109514 loci matched one catalog locus; 170132 total haplotypes examined, 132341 verified.
+  16487 loci matched no catalog locus;
+    3997 loci matched more than one catalog locus and were excluded.
+    2834 loci contained SNPs unaccounted for in the catalog and were excluded.
+    0 loci had no verified haplotypes.
+    0 loci had inconsistent alignments to a catalog locus and were excluded.
+Outputing to file /home/mshu/Stacks/cstacks/18051D11.matches.tsv.gz
+
+Processing sample '/home/mshu/Stacks/cstacks/18207B4' [2 of 96]
+  Parsing /home/mshu/Stacks/cstacks/18207B4.tags.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/18207B4.snps.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/18207B4.alleles.tsv.gz
+Searching for sequence matches...
+419158 sample loci compared against the catalog containing 9399867 loci.
+  304344 matching loci, 3046 contained no verified haplotypes.
+  253 loci matched more than one catalog locus and were excluded.
+  2793 loci contained SNPs unaccounted for in the catalog and were excluded.
+  336041 total haplotypes examined from matching loci, 332240 verified.
+Searching for gapped alignments...
+Out of 419158 query loci, 117863 gapped alignments attempted.
+  104354 loci matched one catalog locus; 154804 total haplotypes examined, 124959 verified.
+  13509 loci matched no catalog locus;
+    3316 loci matched more than one catalog locus and were excluded.
+    2297 loci contained SNPs unaccounted for in the catalog and were excluded.
+    0 loci had no verified haplotypes.
+    0 loci had inconsistent alignments to a catalog locus and were excluded.
+Outputing to file /home/mshu/Stacks/cstacks/18207B4.matches.tsv.gz
+
+Processing sample '/home/mshu/Stacks/cstacks/18231C2' [3 of 96]
+  Parsing /home/mshu/Stacks/cstacks/18231C2.tags.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/18231C2.snps.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/18231C2.alleles.tsv.gz
+Searching for sequence matches...
+448626 sample loci compared against the catalog containing 9399867 loci.
+  335611 matching loci, 3206 contained no verified haplotypes.
+  244 loci matched more than one catalog locus and were excluded.
+  2962 loci contained SNPs unaccounted for in the catalog and were excluded.
+  362179 total haplotypes examined from matching loci, 358284 verified.
+Searching for gapped alignments...
+Out of 448626 query loci, 116222 gapped alignments attempted.
+  101727 loci matched one catalog locus; 151177 total haplotypes examined, 120886 verified.
+  14495 loci matched no catalog locus;
+    3472 loci matched more than one catalog locus and were excluded.
+    2339 loci contained SNPs unaccounted for in the catalog and were excluded.
+    0 loci had no verified haplotypes.
+    0 loci had inconsistent alignments to a catalog locus and were excluded.
+Outputing to file /home/mshu/Stacks/cstacks/18231C2.matches.tsv.gz
+
+Processing sample '/home/mshu/Stacks/cstacks/18814A7' [4 of 96]
+  Parsing /home/mshu/Stacks/cstacks/18814A7.tags.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/18814A7.snps.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/18814A7.alleles.tsv.gz
+Searching for sequence matches...
+499852 sample loci compared against the catalog containing 9399867 loci.
+  393578 matching loci, 2779 contained no verified haplotypes.
+  225 loci matched more than one catalog locus and were excluded.
+  2554 loci contained SNPs unaccounted for in the catalog and were excluded.
+  419233 total haplotypes examined from matching loci, 415804 verified.
+Searching for gapped alignments...
+Out of 499852 query loci, 109054 gapped alignments attempted.
+  96494 loci matched one catalog locus; 139745 total haplotypes examined, 113835 verified.
+  12560 loci matched no catalog locus;
+    3080 loci matched more than one catalog locus and were excluded.
+    2005 loci contained SNPs unaccounted for in the catalog and were excluded.
+    0 loci had no verified haplotypes.
+    0 loci had inconsistent alignments to a catalog locus and were excluded.
+Outputing to file /home/mshu/Stacks/cstacks/18814A7.matches.tsv.gz
+
+Processing sample '/home/mshu/Stacks/cstacks/18830C6' [5 of 96]
+  Parsing /home/mshu/Stacks/cstacks/18830C6.tags.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/18830C6.snps.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/18830C6.alleles.tsv.gz
+Searching for sequence matches...
+566346 sample loci compared against the catalog containing 9399867 loci.
+  427082 matching loci, 4875 contained no verified haplotypes.
+  354 loci matched more than one catalog locus and were excluded.
+  4521 loci contained SNPs unaccounted for in the catalog and were excluded.
+  474188 total haplotypes examined from matching loci, 468176 verified.
+Searching for gapped alignments...
+Out of 566346 query loci, 144141 gapped alignments attempted.
+  123163 loci matched one catalog locus; 198999 total haplotypes examined, 150728 verified.
+  20978 loci matched no catalog locus;
+    4656 loci matched more than one catalog locus and were excluded.
+    3709 loci contained SNPs unaccounted for in the catalog and were excluded.
+    0 loci had no verified haplotypes.
+    0 loci had inconsistent alignments to a catalog locus and were excluded.
+Outputing to file /home/mshu/Stacks/cstacks/18830C6.matches.tsv.gz
+
+Processing sample '/home/mshu/Stacks/cstacks/3006B2' [6 of 96]
+  Parsing /home/mshu/Stacks/cstacks/3006B2.tags.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/3006B2.snps.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/3006B2.alleles.tsv.gz
+Searching for sequence matches...
+444660 sample loci compared against the catalog containing 9399867 loci.
+  317196 matching loci, 3394 contained no verified haplotypes.
+  285 loci matched more than one catalog locus and were excluded.
+  3109 loci contained SNPs unaccounted for in the catalog and were excluded.
+  348569 total haplotypes examined from matching loci, 344430 verified.
+Searching for gapped alignments...
+Out of 444660 query loci, 130862 gapped alignments attempted.
+  115602 loci matched one catalog locus; 170388 total haplotypes examined, 138556 verified.
+  15260 loci matched no catalog locus;
+    3854 loci matched more than one catalog locus and were excluded.
+    2319 loci contained SNPs unaccounted for in the catalog and were excluded.
+    0 loci had no verified haplotypes.
+    0 loci had inconsistent alignments to a catalog locus and were excluded.
+Outputing to file /home/mshu/Stacks/cstacks/3006B2.matches.tsv.gz
+
+Processing sample '/home/mshu/Stacks/cstacks/3010C9' [7 of 96]
+  Parsing /home/mshu/Stacks/cstacks/3010C9.tags.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/3010C9.snps.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/3010C9.alleles.tsv.gz
+Searching for sequence matches...
+412108 sample loci compared against the catalog containing 9399867 loci.
+  297585 matching loci, 3352 contained no verified haplotypes.
+  243 loci matched more than one catalog locus and were excluded.
+  3110 loci contained SNPs unaccounted for in the catalog and were excluded.
+  329328 total haplotypes examined from matching loci, 325181 verified.
+Searching for gapped alignments...
+Out of 412108 query loci, 117880 gapped alignments attempted.
+  103259 loci matched one catalog locus; 156968 total haplotypes examined, 123934 verified.
+  14621 loci matched no catalog locus;
+    3471 loci matched more than one catalog locus and were excluded.
+    2509 loci contained SNPs unaccounted for in the catalog and were excluded.
+    0 loci had no verified haplotypes.
+    0 loci had inconsistent alignments to a catalog locus and were excluded.
+Outputing to file /home/mshu/Stacks/cstacks/3010C9.matches.tsv.gz
+
+Processing sample '/home/mshu/Stacks/cstacks/3015A3' [8 of 96]
+  Parsing /home/mshu/Stacks/cstacks/3015A3.tags.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/3015A3.snps.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/3015A3.alleles.tsv.gz
+Searching for sequence matches...
+445723 sample loci compared against the catalog containing 9399867 loci.
+  325466 matching loci, 3199 contained no verified haplotypes.
+  244 loci matched more than one catalog locus and were excluded.
+  2955 loci contained SNPs unaccounted for in the catalog and were excluded.
+  353687 total haplotypes examined from matching loci, 349742 verified.
+Searching for gapped alignments...
+Out of 445723 query loci, 123457 gapped alignments attempted.
+  109199 loci matched one catalog locus; 160052 total haplotypes examined, 129931 verified.
+  14258 loci matched no catalog locus;
+    3546 loci matched more than one catalog locus and were excluded.
+    2316 loci contained SNPs unaccounted for in the catalog and were excluded.
+    0 loci had no verified haplotypes.
+    0 loci had inconsistent alignments to a catalog locus and were excluded.
+Outputing to file /home/mshu/Stacks/cstacks/3015A3.matches.tsv.gz
+
+Processing sample '/home/mshu/Stacks/cstacks/3019D7' [9 of 96]
+  Parsing /home/mshu/Stacks/cstacks/3019D7.tags.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/3019D7.snps.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/3019D7.alleles.tsv.gz
+Searching for sequence matches...
+518968 sample loci compared against the catalog containing 9399867 loci.
+  390149 matching loci, 3089 contained no verified haplotypes.
+  231 loci matched more than one catalog locus and were excluded.
+  2859 loci contained SNPs unaccounted for in the catalog and were excluded.
+  418904 total haplotypes examined from matching loci, 415133 verified.
+Searching for gapped alignments...
+Out of 518968 query loci, 131911 gapped alignments attempted.
+  118183 loci matched one catalog locus; 167282 total haplotypes examined, 138717 verified.
+  13728 loci matched no catalog locus;
+    3515 loci matched more than one catalog locus and were excluded.
+    2198 loci contained SNPs unaccounted for in the catalog and were excluded.
+    0 loci had no verified haplotypes.
+    0 loci had inconsistent alignments to a catalog locus and were excluded.
+Outputing to file /home/mshu/Stacks/cstacks/3019D7.matches.tsv.gz
+
+Processing sample '/home/mshu/Stacks/cstacks/3020D8' [10 of 96]
+  Parsing /home/mshu/Stacks/cstacks/3020D8.tags.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/3020D8.snps.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/3020D8.alleles.tsv.gz
+Searching for sequence matches...
+423810 sample loci compared against the catalog containing 9399867 loci.
+  303320 matching loci, 3746 contained no verified haplotypes.
+  297 loci matched more than one catalog locus and were excluded.
+  3449 loci contained SNPs unaccounted for in the catalog and were excluded.
+  331466 total haplotypes examined from matching loci, 326850 verified.
+Searching for gapped alignments...
+Out of 423810 query loci, 124237 gapped alignments attempted.
+  108047 loci matched one catalog locus; 163919 total haplotypes examined, 128790 verified.
+  16190 loci matched no catalog locus;
+    3909 loci matched more than one catalog locus and were excluded.
+    2694 loci contained SNPs unaccounted for in the catalog and were excluded.
+    0 loci had no verified haplotypes.
+    0 loci had inconsistent alignments to a catalog locus and were excluded.
+Outputing to file /home/mshu/Stacks/cstacks/3020D8.matches.tsv.gz
+
+Processing sample '/home/mshu/Stacks/cstacks/3022B4' [11 of 96]
+  Parsing /home/mshu/Stacks/cstacks/3022B4.tags.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/3022B4.snps.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/3022B4.alleles.tsv.gz
+Searching for sequence matches...
+401623 sample loci compared against the catalog containing 9399867 loci.
+  285682 matching loci, 3021 contained no verified haplotypes.
+  238 loci matched more than one catalog locus and were excluded.
+  2782 loci contained SNPs unaccounted for in the catalog and were excluded.
+  311600 total haplotypes examined from matching loci, 307871 verified.
+Searching for gapped alignments...
+Out of 401623 query loci, 118962 gapped alignments attempted.
+  105167 loci matched one catalog locus; 153720 total haplotypes examined, 124978 verified.
+  13795 loci matched no catalog locus;
+    3314 loci matched more than one catalog locus and were excluded.
+    2176 loci contained SNPs unaccounted for in the catalog and were excluded.
+    0 loci had no verified haplotypes.
+    0 loci had inconsistent alignments to a catalog locus and were excluded.
+Outputing to file /home/mshu/Stacks/cstacks/3022B4.matches.tsv.gz
+
+Processing sample '/home/mshu/Stacks/cstacks/3027A4' [12 of 96]
+  Parsing /home/mshu/Stacks/cstacks/3027A4.tags.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/3027A4.snps.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/3027A4.alleles.tsv.gz
+Searching for sequence matches...
+654302 sample loci compared against the catalog containing 9399867 loci.
+  552029 matching loci, 3432 contained no verified haplotypes.
+  247 loci matched more than one catalog locus and were excluded.
+  3185 loci contained SNPs unaccounted for in the catalog and were excluded.
+  578936 total haplotypes examined from matching loci, 574658 verified.
+Searching for gapped alignments...
+Out of 654302 query loci, 105707 gapped alignments attempted.
+  90797 loci matched one catalog locus; 142347 total haplotypes examined, 107799 verified.
+  14910 loci matched no catalog locus;
+    3404 loci matched more than one catalog locus and were excluded.
+    2682 loci contained SNPs unaccounted for in the catalog and were excluded.
+    0 loci had no verified haplotypes.
+    0 loci had inconsistent alignments to a catalog locus and were excluded.
+Outputing to file /home/mshu/Stacks/cstacks/3027A4.matches.tsv.gz
+
+Processing sample '/home/mshu/Stacks/cstacks/3034C11' [13 of 96]
+  Parsing /home/mshu/Stacks/cstacks/3034C11.tags.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/3034C11.snps.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/3034C11.alleles.tsv.gz
+Searching for sequence matches...
+414726 sample loci compared against the catalog containing 9399867 loci.
+  295493 matching loci, 3471 contained no verified haplotypes.
+  258 loci matched more than one catalog locus and were excluded.
+  3214 loci contained SNPs unaccounted for in the catalog and were excluded.
+  324021 total haplotypes examined from matching loci, 319781 verified.
+Searching for gapped alignments...
+Out of 414726 query loci, 122706 gapped alignments attempted.
+  107122 loci matched one catalog locus; 161690 total haplotypes examined, 128232 verified.
+  15584 loci matched no catalog locus;
+    3701 loci matched more than one catalog locus and were excluded.
+    2558 loci contained SNPs unaccounted for in the catalog and were excluded.
+    0 loci had no verified haplotypes.
+    0 loci had inconsistent alignments to a catalog locus and were excluded.
+Outputing to file /home/mshu/Stacks/cstacks/3034C11.matches.tsv.gz
+
+Processing sample '/home/mshu/Stacks/cstacks/3037A11' [14 of 96]
+  Parsing /home/mshu/Stacks/cstacks/3037A11.tags.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/3037A11.snps.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/3037A11.alleles.tsv.gz
+Searching for sequence matches...
+516380 sample loci compared against the catalog containing 9399867 loci.
+  383940 matching loci, 4497 contained no verified haplotypes.
+  327 loci matched more than one catalog locus and were excluded.
+  4170 loci contained SNPs unaccounted for in the catalog and were excluded.
+  427914 total haplotypes examined from matching loci, 422337 verified.
+Searching for gapped alignments...
+Out of 516380 query loci, 136938 gapped alignments attempted.
+  117149 loci matched one catalog locus; 188971 total haplotypes examined, 142812 verified.
+  19789 loci matched no catalog locus;
+    4411 loci matched more than one catalog locus and were excluded.
+    3494 loci contained SNPs unaccounted for in the catalog and were excluded.
+    0 loci had no verified haplotypes.
+    0 loci had inconsistent alignments to a catalog locus and were excluded.
+Outputing to file /home/mshu/Stacks/cstacks/3037A11.matches.tsv.gz
+
+Processing sample '/home/mshu/Stacks/cstacks/3039A4' [15 of 96]
+  Parsing /home/mshu/Stacks/cstacks/3039A4.tags.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/3039A4.snps.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/3039A4.alleles.tsv.gz
+Searching for sequence matches...
+927523 sample loci compared against the catalog containing 9399867 loci.
+  800423 matching loci, 3317 contained no verified haplotypes.
+  273 loci matched more than one catalog locus and were excluded.
+  3046 loci contained SNPs unaccounted for in the catalog and were excluded.
+  864194 total haplotypes examined from matching loci, 860121 verified.
+Searching for gapped alignments...
+Out of 927523 query loci, 130419 gapped alignments attempted.
+  115948 loci matched one catalog locus; 167965 total haplotypes examined, 137542 verified.
+  14471 loci matched no catalog locus;
+    3676 loci matched more than one catalog locus and were excluded.
+    2271 loci contained SNPs unaccounted for in the catalog and were excluded.
+    0 loci had no verified haplotypes.
+    0 loci had inconsistent alignments to a catalog locus and were excluded.
+Outputing to file /home/mshu/Stacks/cstacks/3039A4.matches.tsv.gz
+
+Processing sample '/home/mshu/Stacks/cstacks/3040A6' [16 of 96]
+  Parsing /home/mshu/Stacks/cstacks/3040A6.tags.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/3040A6.snps.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/3040A6.alleles.tsv.gz
+Searching for sequence matches...
+504152 sample loci compared against the catalog containing 9399867 loci.
+  373989 matching loci, 4480 contained no verified haplotypes.
+  331 loci matched more than one catalog locus and were excluded.
+  4151 loci contained SNPs unaccounted for in the catalog and were excluded.
+  416412 total haplotypes examined from matching loci, 410865 verified.
+Searching for gapped alignments...
+Out of 504152 query loci, 134646 gapped alignments attempted.
+  114763 loci matched one catalog locus; 186345 total haplotypes examined, 139678 verified.
+  19883 loci matched no catalog locus;
+    4362 loci matched more than one catalog locus and were excluded.
+    3495 loci contained SNPs unaccounted for in the catalog and were excluded.
+    0 loci had no verified haplotypes.
+    0 loci had inconsistent alignments to a catalog locus and were excluded.
+Outputing to file /home/mshu/Stacks/cstacks/3040A6.matches.tsv.gz
+
+Processing sample '/home/mshu/Stacks/cstacks/3041B5' [17 of 96]
+  Parsing /home/mshu/Stacks/cstacks/3041B5.tags.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/3041B5.snps.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/3041B5.alleles.tsv.gz
+Searching for sequence matches...
+545494 sample loci compared against the catalog containing 9399867 loci.
+  420639 matching loci, 4238 contained no verified haplotypes.
+  333 loci matched more than one catalog locus and were excluded.
+  3906 loci contained SNPs unaccounted for in the catalog and were excluded.
+  460572 total haplotypes examined from matching loci, 455243 verified.
+Searching for gapped alignments...
+Out of 545494 query loci, 129095 gapped alignments attempted.
+  110629 loci matched one catalog locus; 177625 total haplotypes examined, 134321 verified.
+  18466 loci matched no catalog locus;
+    4063 loci matched more than one catalog locus and were excluded.
+    3304 loci contained SNPs unaccounted for in the catalog and were excluded.
+    0 loci had no verified haplotypes.
+    0 loci had inconsistent alignments to a catalog locus and were excluded.
+Outputing to file /home/mshu/Stacks/cstacks/3041B5.matches.tsv.gz
+
+Processing sample '/home/mshu/Stacks/cstacks/3046A9' [18 of 96]
+  Parsing /home/mshu/Stacks/cstacks/3046A9.tags.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/3046A9.snps.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/3046A9.alleles.tsv.gz
+Searching for sequence matches...
+488292 sample loci compared against the catalog containing 9399867 loci.
+  361395 matching loci, 4022 contained no verified haplotypes.
+  301 loci matched more than one catalog locus and were excluded.
+  3722 loci contained SNPs unaccounted for in the catalog and were excluded.
+  402033 total haplotypes examined from matching loci, 397067 verified.
+Searching for gapped alignments...
+Out of 488292 query loci, 130924 gapped alignments attempted.
+  113561 loci matched one catalog locus; 178054 total haplotypes examined, 137805 verified.
+  17363 loci matched no catalog locus;
+    4069 loci matched more than one catalog locus and were excluded.
+    3010 loci contained SNPs unaccounted for in the catalog and were excluded.
+    0 loci had no verified haplotypes.
+    0 loci had inconsistent alignments to a catalog locus and were excluded.
+Outputing to file /home/mshu/Stacks/cstacks/3046A9.matches.tsv.gz
+
+Processing sample '/home/mshu/Stacks/cstacks/3048A8' [19 of 96]
+  Parsing /home/mshu/Stacks/cstacks/3048A8.tags.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/3048A8.snps.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/3048A8.alleles.tsv.gz
+Searching for sequence matches...
+341910 sample loci compared against the catalog containing 9399867 loci.
+  241274 matching loci, 2598 contained no verified haplotypes.
+  189 loci matched more than one catalog locus and were excluded.
+  2411 loci contained SNPs unaccounted for in the catalog and were excluded.
+  266383 total haplotypes examined from matching loci, 263171 verified.
+Searching for gapped alignments...
+Out of 341910 query loci, 103237 gapped alignments attempted.
+  92006 loci matched one catalog locus; 133988 total haplotypes examined, 109068 verified.
+  11231 loci matched no catalog locus;
+    2812 loci matched more than one catalog locus and were excluded.
+    1973 loci contained SNPs unaccounted for in the catalog and were excluded.
+    0 loci had no verified haplotypes.
+    0 loci had inconsistent alignments to a catalog locus and were excluded.
+Outputing to file /home/mshu/Stacks/cstacks/3048A8.matches.tsv.gz
+
+Processing sample '/home/mshu/Stacks/cstacks/3057A12' [20 of 96]
+  Parsing /home/mshu/Stacks/cstacks/3057A12.tags.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/3057A12.snps.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/3057A12.alleles.tsv.gz
+Searching for sequence matches...
+417056 sample loci compared against the catalog containing 9399867 loci.
+  299599 matching loci, 3193 contained no verified haplotypes.
+  214 loci matched more than one catalog locus and were excluded.
+  2979 loci contained SNPs unaccounted for in the catalog and were excluded.
+  326466 total haplotypes examined from matching loci, 322568 verified.
+Searching for gapped alignments...
+Out of 417056 query loci, 120655 gapped alignments attempted.
+  106312 loci matched one catalog locus; 156594 total haplotypes examined, 126337 verified.
+  14343 loci matched no catalog locus;
+    3538 loci matched more than one catalog locus and were excluded.
+    2327 loci contained SNPs unaccounted for in the catalog and were excluded.
+    0 loci had no verified haplotypes.
+    0 loci had inconsistent alignments to a catalog locus and were excluded.
+Outputing to file /home/mshu/Stacks/cstacks/3057A12.matches.tsv.gz
+
+Processing sample '/home/mshu/Stacks/cstacks/3061B1' [21 of 96]
+  Parsing /home/mshu/Stacks/cstacks/3061B1.tags.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/3061B1.snps.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/3061B1.alleles.tsv.gz
+Searching for sequence matches...
+455213 sample loci compared against the catalog containing 9399867 loci.
+  331689 matching loci, 3660 contained no verified haplotypes.
+  269 loci matched more than one catalog locus and were excluded.
+  3392 loci contained SNPs unaccounted for in the catalog and were excluded.
+  369353 total haplotypes examined from matching loci, 364797 verified.
+Searching for gapped alignments...
+Out of 455213 query loci, 127185 gapped alignments attempted.
+  111411 loci matched one catalog locus; 171215 total haplotypes examined, 134966 verified.
+  15774 loci matched no catalog locus;
+    3692 loci matched more than one catalog locus and were excluded.
+    2874 loci contained SNPs unaccounted for in the catalog and were excluded.
+    0 loci had no verified haplotypes.
+    0 loci had inconsistent alignments to a catalog locus and were excluded.
+Outputing to file /home/mshu/Stacks/cstacks/3061B1.matches.tsv.gz
+
+Processing sample '/home/mshu/Stacks/cstacks/3063B2' [22 of 96]
+  Parsing /home/mshu/Stacks/cstacks/3063B2.tags.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/3063B2.snps.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/3063B2.alleles.tsv.gz
+Searching for sequence matches...
+476800 sample loci compared against the catalog containing 9399867 loci.
+  357191 matching loci, 3276 contained no verified haplotypes.
+  245 loci matched more than one catalog locus and were excluded.
+  3032 loci contained SNPs unaccounted for in the catalog and were excluded.
+  392722 total haplotypes examined from matching loci, 388683 verified.
+Searching for gapped alignments...
+Out of 476800 query loci, 122888 gapped alignments attempted.
+  108240 loci matched one catalog locus; 163378 total haplotypes examined, 130337 verified.
+  14648 loci matched no catalog locus;
+    3530 loci matched more than one catalog locus and were excluded.
+    2519 loci contained SNPs unaccounted for in the catalog and were excluded.
+    0 loci had no verified haplotypes.
+    0 loci had inconsistent alignments to a catalog locus and were excluded.
+Outputing to file /home/mshu/Stacks/cstacks/3063B2.matches.tsv.gz
+
+Processing sample '/home/mshu/Stacks/cstacks/3066D9' [23 of 96]
+  Parsing /home/mshu/Stacks/cstacks/3066D9.tags.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/3066D9.snps.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/3066D9.alleles.tsv.gz
+Searching for sequence matches...
+415201 sample loci compared against the catalog containing 9399867 loci.
+  295122 matching loci, 3443 contained no verified haplotypes.
+  217 loci matched more than one catalog locus and were excluded.
+  3226 loci contained SNPs unaccounted for in the catalog and were excluded.
+  323516 total haplotypes examined from matching loci, 319325 verified.
+Searching for gapped alignments...
+Out of 415201 query loci, 123525 gapped alignments attempted.
+  107865 loci matched one catalog locus; 162177 total haplotypes examined, 128766 verified.
+  15660 loci matched no catalog locus;
+    3706 loci matched more than one catalog locus and were excluded.
+    2553 loci contained SNPs unaccounted for in the catalog and were excluded.
+    0 loci had no verified haplotypes.
+    0 loci had inconsistent alignments to a catalog locus and were excluded.
+Outputing to file /home/mshu/Stacks/cstacks/3066D9.matches.tsv.gz
+
+Processing sample '/home/mshu/Stacks/cstacks/3068C10' [24 of 96]
+  Parsing /home/mshu/Stacks/cstacks/3068C10.tags.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/3068C10.snps.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/3068C10.alleles.tsv.gz
+Searching for sequence matches...
+453708 sample loci compared against the catalog containing 9399867 loci.
+  331829 matching loci, 3811 contained no verified haplotypes.
+  294 loci matched more than one catalog locus and were excluded.
+  3518 loci contained SNPs unaccounted for in the catalog and were excluded.
+  368450 total haplotypes examined from matching loci, 363665 verified.
+Searching for gapped alignments...
+Out of 453708 query loci, 125694 gapped alignments attempted.
+  109204 loci matched one catalog locus; 170331 total haplotypes examined, 132116 verified.
+  16490 loci matched no catalog locus;
+    3863 loci matched more than one catalog locus and were excluded.
+    2899 loci contained SNPs unaccounted for in the catalog and were excluded.
+    0 loci had no verified haplotypes.
+    0 loci had inconsistent alignments to a catalog locus and were excluded.
+Outputing to file /home/mshu/Stacks/cstacks/3068C10.matches.tsv.gz
+
+Processing sample '/home/mshu/Stacks/cstacks/3071D10' [25 of 96]
+  Parsing /home/mshu/Stacks/cstacks/3071D10.tags.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/3071D10.snps.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/3071D10.alleles.tsv.gz
+Searching for sequence matches...
+643331 sample loci compared against the catalog containing 9399867 loci.
+  487786 matching loci, 5093 contained no verified haplotypes.
+  375 loci matched more than one catalog locus and were excluded.
+  4719 loci contained SNPs unaccounted for in the catalog and were excluded.
+  538843 total haplotypes examined from matching loci, 532677 verified.
+Searching for gapped alignments...
+Out of 643331 query loci, 160642 gapped alignments attempted.
+  137497 loci matched one catalog locus; 219280 total haplotypes examined, 168316 verified.
+  23145 loci matched no catalog locus;
+    5112 loci matched more than one catalog locus and were excluded.
+    3771 loci contained SNPs unaccounted for in the catalog and were excluded.
+    0 loci had no verified haplotypes.
+    0 loci had inconsistent alignments to a catalog locus and were excluded.
+Outputing to file /home/mshu/Stacks/cstacks/3071D10.matches.tsv.gz
+
+Processing sample '/home/mshu/Stacks/cstacks/3073B3' [26 of 96]
+  Parsing /home/mshu/Stacks/cstacks/3073B3.tags.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/3073B3.snps.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/3073B3.alleles.tsv.gz
+Searching for sequence matches...
+382401 sample loci compared against the catalog containing 9399867 loci.
+  267001 matching loci, 3341 contained no verified haplotypes.
+  258 loci matched more than one catalog locus and were excluded.
+  3084 loci contained SNPs unaccounted for in the catalog and were excluded.
+  294126 total haplotypes examined from matching loci, 290054 verified.
+Searching for gapped alignments...
+Out of 382401 query loci, 118744 gapped alignments attempted.
+  103686 loci matched one catalog locus; 156070 total haplotypes examined, 123652 verified.
+  15058 loci matched no catalog locus;
+    3697 loci matched more than one catalog locus and were excluded.
+    2451 loci contained SNPs unaccounted for in the catalog and were excluded.
+    0 loci had no verified haplotypes.
+    0 loci had inconsistent alignments to a catalog locus and were excluded.
+Outputing to file /home/mshu/Stacks/cstacks/3073B3.matches.tsv.gz
+
+Processing sample '/home/mshu/Stacks/cstacks/3075A8' [27 of 96]
+  Parsing /home/mshu/Stacks/cstacks/3075A8.tags.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/3075A8.snps.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/3075A8.alleles.tsv.gz
+Searching for sequence matches...
+596270 sample loci compared against the catalog containing 9399867 loci.
+  463299 matching loci, 3964 contained no verified haplotypes.
+  312 loci matched more than one catalog locus and were excluded.
+  3652 loci contained SNPs unaccounted for in the catalog and were excluded.
+  501401 total haplotypes examined from matching loci, 496503 verified.
+Searching for gapped alignments...
+Out of 596270 query loci, 136939 gapped alignments attempted.
+  119264 loci matched one catalog locus; 181678 total haplotypes examined, 142994 verified.
+  17675 loci matched no catalog locus;
+    4119 loci matched more than one catalog locus and were excluded.
+    2928 loci contained SNPs unaccounted for in the catalog and were excluded.
+    0 loci had no verified haplotypes.
+    0 loci had inconsistent alignments to a catalog locus and were excluded.
+Outputing to file /home/mshu/Stacks/cstacks/3075A8.matches.tsv.gz
+
+Processing sample '/home/mshu/Stacks/cstacks/3088B10' [28 of 96]
+  Parsing /home/mshu/Stacks/cstacks/3088B10.tags.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/3088B10.snps.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/3088B10.alleles.tsv.gz
+Searching for sequence matches...
+502532 sample loci compared against the catalog containing 9399867 loci.
+  368352 matching loci, 3984 contained no verified haplotypes.
+  295 loci matched more than one catalog locus and were excluded.
+  3689 loci contained SNPs unaccounted for in the catalog and were excluded.
+  412750 total haplotypes examined from matching loci, 407763 verified.
+Searching for gapped alignments...
+Out of 502532 query loci, 138165 gapped alignments attempted.
+  120263 loci matched one catalog locus; 187850 total haplotypes examined, 146646 verified.
+  17902 loci matched no catalog locus;
+    4037 loci matched more than one catalog locus and were excluded.
+    3127 loci contained SNPs unaccounted for in the catalog and were excluded.
+    0 loci had no verified haplotypes.
+    0 loci had inconsistent alignments to a catalog locus and were excluded.
+Outputing to file /home/mshu/Stacks/cstacks/3088B10.matches.tsv.gz
+
+Processing sample '/home/mshu/Stacks/cstacks/3091A1' [29 of 96]
+  Parsing /home/mshu/Stacks/cstacks/3091A1.tags.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/3091A1.snps.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/3091A1.alleles.tsv.gz
+Searching for sequence matches...
+423171 sample loci compared against the catalog containing 9399867 loci.
+  303108 matching loci, 2927 contained no verified haplotypes.
+  222 loci matched more than one catalog locus and were excluded.
+  2706 loci contained SNPs unaccounted for in the catalog and were excluded.
+  331612 total haplotypes examined from matching loci, 328046 verified.
+Searching for gapped alignments...
+Out of 423171 query loci, 122992 gapped alignments attempted.
+  109535 loci matched one catalog locus; 158752 total haplotypes examined, 130535 verified.
+  13457 loci matched no catalog locus;
+    3340 loci matched more than one catalog locus and were excluded.
+    2079 loci contained SNPs unaccounted for in the catalog and were excluded.
+    0 loci had no verified haplotypes.
+    0 loci had inconsistent alignments to a catalog locus and were excluded.
+Outputing to file /home/mshu/Stacks/cstacks/3091A1.matches.tsv.gz
+
+Processing sample '/home/mshu/Stacks/cstacks/3121B12' [30 of 96]
+  Parsing /home/mshu/Stacks/cstacks/3121B12.tags.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/3121B12.snps.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/3121B12.alleles.tsv.gz
+Searching for sequence matches...
+456669 sample loci compared against the catalog containing 9399867 loci.
+  334646 matching loci, 3523 contained no verified haplotypes.
+  251 loci matched more than one catalog locus and were excluded.
+  3276 loci contained SNPs unaccounted for in the catalog and were excluded.
+  372367 total haplotypes examined from matching loci, 368031 verified.
+Searching for gapped alignments...
+Out of 456669 query loci, 125551 gapped alignments attempted.
+  110090 loci matched one catalog locus; 168492 total haplotypes examined, 133050 verified.
+  15461 loci matched no catalog locus;
+    3637 loci matched more than one catalog locus and were excluded.
+    2805 loci contained SNPs unaccounted for in the catalog and were excluded.
+    0 loci had no verified haplotypes.
+    0 loci had inconsistent alignments to a catalog locus and were excluded.
+Outputing to file /home/mshu/Stacks/cstacks/3121B12.matches.tsv.gz
+
+Processing sample '/home/mshu/Stacks/cstacks/3129C7' [31 of 96]
+  Parsing /home/mshu/Stacks/cstacks/3129C7.tags.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/3129C7.snps.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/3129C7.alleles.tsv.gz
+Searching for sequence matches...
+512595 sample loci compared against the catalog containing 9399867 loci.
+  382841 matching loci, 4143 contained no verified haplotypes.
+  308 loci matched more than one catalog locus and were excluded.
+  3837 loci contained SNPs unaccounted for in the catalog and were excluded.
+  425836 total haplotypes examined from matching loci, 420728 verified.
+Searching for gapped alignments...
+Out of 512595 query loci, 133903 gapped alignments attempted.
+  115341 loci matched one catalog locus; 184203 total haplotypes examined, 140820 verified.
+  18562 loci matched no catalog locus;
+    4155 loci matched more than one catalog locus and were excluded.
+    3231 loci contained SNPs unaccounted for in the catalog and were excluded.
+    0 loci had no verified haplotypes.
+    0 loci had inconsistent alignments to a catalog locus and were excluded.
+Outputing to file /home/mshu/Stacks/cstacks/3129C7.matches.tsv.gz
+
+Processing sample '/home/mshu/Stacks/cstacks/3137B1' [32 of 96]
+  Parsing /home/mshu/Stacks/cstacks/3137B1.tags.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/3137B1.snps.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/3137B1.alleles.tsv.gz
+Searching for sequence matches...
+412056 sample loci compared against the catalog containing 9399867 loci.
+  290926 matching loci, 3199 contained no verified haplotypes.
+  240 loci matched more than one catalog locus and were excluded.
+  2960 loci contained SNPs unaccounted for in the catalog and were excluded.
+  320181 total haplotypes examined from matching loci, 316234 verified.
+Searching for gapped alignments...
+Out of 412056 query loci, 124333 gapped alignments attempted.
+  109827 loci matched one catalog locus; 162141 total haplotypes examined, 131148 verified.
+  14506 loci matched no catalog locus;
+    3594 loci matched more than one catalog locus and were excluded.
+    2328 loci contained SNPs unaccounted for in the catalog and were excluded.
+    0 loci had no verified haplotypes.
+    0 loci had inconsistent alignments to a catalog locus and were excluded.
+Outputing to file /home/mshu/Stacks/cstacks/3137B1.matches.tsv.gz
+
+Processing sample '/home/mshu/Stacks/cstacks/3138B6' [33 of 96]
+  Parsing /home/mshu/Stacks/cstacks/3138B6.tags.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/3138B6.snps.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/3138B6.alleles.tsv.gz
+Searching for sequence matches...
+447330 sample loci compared against the catalog containing 9399867 loci.
+  328157 matching loci, 3458 contained no verified haplotypes.
+  254 loci matched more than one catalog locus and were excluded.
+  3204 loci contained SNPs unaccounted for in the catalog and were excluded.
+  364589 total haplotypes examined from matching loci, 360298 verified.
+Searching for gapped alignments...
+Out of 447330 query loci, 122634 gapped alignments attempted.
+  107236 loci matched one catalog locus; 165324 total haplotypes examined, 129632 verified.
+  15398 loci matched no catalog locus;
+    3656 loci matched more than one catalog locus and were excluded.
+    2666 loci contained SNPs unaccounted for in the catalog and were excluded.
+    0 loci had no verified haplotypes.
+    0 loci had inconsistent alignments to a catalog locus and were excluded.
+Outputing to file /home/mshu/Stacks/cstacks/3138B6.matches.tsv.gz
+
+Processing sample '/home/mshu/Stacks/cstacks/3152C11' [34 of 96]
+  Parsing /home/mshu/Stacks/cstacks/3152C11.tags.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/3152C11.snps.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/3152C11.alleles.tsv.gz
+Searching for sequence matches...
+401254 sample loci compared against the catalog containing 9399867 loci.
+  287957 matching loci, 2944 contained no verified haplotypes.
+  238 loci matched more than one catalog locus and were excluded.
+  2706 loci contained SNPs unaccounted for in the catalog and were excluded.
+  319657 total haplotypes examined from matching loci, 315975 verified.
+Searching for gapped alignments...
+Out of 401254 query loci, 116242 gapped alignments attempted.
+  103211 loci matched one catalog locus; 153426 total haplotypes examined, 123756 verified.
+  13031 loci matched no catalog locus;
+    3233 loci matched more than one catalog locus and were excluded.
+    2212 loci contained SNPs unaccounted for in the catalog and were excluded.
+    0 loci had no verified haplotypes.
+    0 loci had inconsistent alignments to a catalog locus and were excluded.
+Outputing to file /home/mshu/Stacks/cstacks/3152C11.matches.tsv.gz
+
+Processing sample '/home/mshu/Stacks/cstacks/3156D3' [35 of 96]
+  Parsing /home/mshu/Stacks/cstacks/3156D3.tags.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/3156D3.snps.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/3156D3.alleles.tsv.gz
+Searching for sequence matches...
+344098 sample loci compared against the catalog containing 9399867 loci.
+  239036 matching loci, 2531 contained no verified haplotypes.
+  195 loci matched more than one catalog locus and were excluded.
+  2336 loci contained SNPs unaccounted for in the catalog and were excluded.
+  261959 total haplotypes examined from matching loci, 258863 verified.
+Searching for gapped alignments...
+Out of 344098 query loci, 107593 gapped alignments attempted.
+  96183 loci matched one catalog locus; 138078 total haplotypes examined, 114058 verified.
+  11410 loci matched no catalog locus;
+    2999 loci matched more than one catalog locus and were excluded.
+    1809 loci contained SNPs unaccounted for in the catalog and were excluded.
+    0 loci had no verified haplotypes.
+    0 loci had inconsistent alignments to a catalog locus and were excluded.
+Outputing to file /home/mshu/Stacks/cstacks/3156D3.matches.tsv.gz
+
+Processing sample '/home/mshu/Stacks/cstacks/3165C12' [36 of 96]
+  Parsing /home/mshu/Stacks/cstacks/3165C12.tags.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/3165C12.snps.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/3165C12.alleles.tsv.gz
+Searching for sequence matches...
+487296 sample loci compared against the catalog containing 9399867 loci.
+  358971 matching loci, 3608 contained no verified haplotypes.
+  265 loci matched more than one catalog locus and were excluded.
+  3343 loci contained SNPs unaccounted for in the catalog and were excluded.
+  400406 total haplotypes examined from matching loci, 395946 verified.
+Searching for gapped alignments...
+Out of 487296 query loci, 131935 gapped alignments attempted.
+  115721 loci matched one catalog locus; 178253 total haplotypes examined, 140565 verified.
+  16214 loci matched no catalog locus;
+    3887 loci matched more than one catalog locus and were excluded.
+    2740 loci contained SNPs unaccounted for in the catalog and were excluded.
+    0 loci had no verified haplotypes.
+    0 loci had inconsistent alignments to a catalog locus and were excluded.
+Outputing to file /home/mshu/Stacks/cstacks/3165C12.matches.tsv.gz
+
+Processing sample '/home/mshu/Stacks/cstacks/3166B9' [37 of 96]
+  Parsing /home/mshu/Stacks/cstacks/3166B9.tags.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/3166B9.snps.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/3166B9.alleles.tsv.gz
+Searching for sequence matches...
+564293 sample loci compared against the catalog containing 9399867 loci.
+  424703 matching loci, 3854 contained no verified haplotypes.
+  291 loci matched more than one catalog locus and were excluded.
+  3565 loci contained SNPs unaccounted for in the catalog and were excluded.
+  475652 total haplotypes examined from matching loci, 470897 verified.
+Searching for gapped alignments...
+Out of 564293 query loci, 143447 gapped alignments attempted.
+  126017 loci matched one catalog locus; 194469 total haplotypes examined, 154326 verified.
+  17430 loci matched no catalog locus;
+    3946 loci matched more than one catalog locus and were excluded.
+    3011 loci contained SNPs unaccounted for in the catalog and were excluded.
+    0 loci had no verified haplotypes.
+    0 loci had inconsistent alignments to a catalog locus and were excluded.
+Outputing to file /home/mshu/Stacks/cstacks/3166B9.matches.tsv.gz
+
+Processing sample '/home/mshu/Stacks/cstacks/3174D6' [38 of 96]
+  Parsing /home/mshu/Stacks/cstacks/3174D6.tags.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/3174D6.snps.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/3174D6.alleles.tsv.gz
+Searching for sequence matches...
+467672 sample loci compared against the catalog containing 9399867 loci.
+  347204 matching loci, 2987 contained no verified haplotypes.
+  230 loci matched more than one catalog locus and were excluded.
+  2758 loci contained SNPs unaccounted for in the catalog and were excluded.
+  377467 total haplotypes examined from matching loci, 373772 verified.
+Searching for gapped alignments...
+Out of 467672 query loci, 123456 gapped alignments attempted.
+  109545 loci matched one catalog locus; 160398 total haplotypes examined, 130812 verified.
+  13911 loci matched no catalog locus;
+    3462 loci matched more than one catalog locus and were excluded.
+    2209 loci contained SNPs unaccounted for in the catalog and were excluded.
+    0 loci had no verified haplotypes.
+    0 loci had inconsistent alignments to a catalog locus and were excluded.
+Outputing to file /home/mshu/Stacks/cstacks/3174D6.matches.tsv.gz
+
+Processing sample '/home/mshu/Stacks/cstacks/3178B6' [39 of 96]
+  Parsing /home/mshu/Stacks/cstacks/3178B6.tags.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/3178B6.snps.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/3178B6.alleles.tsv.gz
+Searching for sequence matches...
+383545 sample loci compared against the catalog containing 9399867 loci.
+  269235 matching loci, 2575 contained no verified haplotypes.
+  182 loci matched more than one catalog locus and were excluded.
+  2393 loci contained SNPs unaccounted for in the catalog and were excluded.
+  295263 total haplotypes examined from matching loci, 292154 verified.
+Searching for gapped alignments...
+Out of 383545 query loci, 116887 gapped alignments attempted.
+  104559 loci matched one catalog locus; 150066 total haplotypes examined, 124355 verified.
+  12328 loci matched no catalog locus;
+    3108 loci matched more than one catalog locus and were excluded.
+    1920 loci contained SNPs unaccounted for in the catalog and were excluded.
+    0 loci had no verified haplotypes.
+    0 loci had inconsistent alignments to a catalog locus and were excluded.
+Outputing to file /home/mshu/Stacks/cstacks/3178B6.matches.tsv.gz
+
+Processing sample '/home/mshu/Stacks/cstacks/3181C7' [40 of 96]
+  Parsing /home/mshu/Stacks/cstacks/3181C7.tags.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/3181C7.snps.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/3181C7.alleles.tsv.gz
+Searching for sequence matches...
+443006 sample loci compared against the catalog containing 9399867 loci.
+  320972 matching loci, 3224 contained no verified haplotypes.
+  215 loci matched more than one catalog locus and were excluded.
+  3011 loci contained SNPs unaccounted for in the catalog and were excluded.
+  352397 total haplotypes examined from matching loci, 348463 verified.
+Searching for gapped alignments...
+Out of 443006 query loci, 125261 gapped alignments attempted.
+  110379 loci matched one catalog locus; 164808 total haplotypes examined, 132265 verified.
+  14882 loci matched no catalog locus;
+    3610 loci matched more than one catalog locus and were excluded.
+    2353 loci contained SNPs unaccounted for in the catalog and were excluded.
+    0 loci had no verified haplotypes.
+    0 loci had inconsistent alignments to a catalog locus and were excluded.
+Outputing to file /home/mshu/Stacks/cstacks/3181C7.matches.tsv.gz
+
+Processing sample '/home/mshu/Stacks/cstacks/3185B5' [41 of 96]
+  Parsing /home/mshu/Stacks/cstacks/3185B5.tags.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/3185B5.snps.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/3185B5.alleles.tsv.gz
+Searching for sequence matches...
+392008 sample loci compared against the catalog containing 9399867 loci.
+  277362 matching loci, 2781 contained no verified haplotypes.
+  193 loci matched more than one catalog locus and were excluded.
+  2589 loci contained SNPs unaccounted for in the catalog and were excluded.
+  304336 total haplotypes examined from matching loci, 300915 verified.
+Searching for gapped alignments...
+Out of 392008 query loci, 117431 gapped alignments attempted.
+  104320 loci matched one catalog locus; 152207 total haplotypes examined, 124303 verified.
+  13111 loci matched no catalog locus;
+    3220 loci matched more than one catalog locus and were excluded.
+    2074 loci contained SNPs unaccounted for in the catalog and were excluded.
+    0 loci had no verified haplotypes.
+    0 loci had inconsistent alignments to a catalog locus and were excluded.
+Outputing to file /home/mshu/Stacks/cstacks/3185B5.matches.tsv.gz
+
+Processing sample '/home/mshu/Stacks/cstacks/3186A6' [42 of 96]
+  Parsing /home/mshu/Stacks/cstacks/3186A6.tags.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/3186A6.snps.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/3186A6.alleles.tsv.gz
+Searching for sequence matches...
+548604 sample loci compared against the catalog containing 9399867 loci.
+  405308 matching loci, 3806 contained no verified haplotypes.
+  264 loci matched more than one catalog locus and were excluded.
+  3545 loci contained SNPs unaccounted for in the catalog and were excluded.
+  449835 total haplotypes examined from matching loci, 445153 verified.
+Searching for gapped alignments...
+Out of 548604 query loci, 147106 gapped alignments attempted.
+  129649 loci matched one catalog locus; 197152 total haplotypes examined, 158208 verified.
+  17457 loci matched no catalog locus;
+    4299 loci matched more than one catalog locus and were excluded.
+    2756 loci contained SNPs unaccounted for in the catalog and were excluded.
+    0 loci had no verified haplotypes.
+    0 loci had inconsistent alignments to a catalog locus and were excluded.
+Outputing to file /home/mshu/Stacks/cstacks/3186A6.matches.tsv.gz
+
+Processing sample '/home/mshu/Stacks/cstacks/3187C8' [43 of 96]
+  Parsing /home/mshu/Stacks/cstacks/3187C8.tags.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/3187C8.snps.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/3187C8.alleles.tsv.gz
+Searching for sequence matches...
+769295 sample loci compared against the catalog containing 9399867 loci.
+  647798 matching loci, 3200 contained no verified haplotypes.
+  233 loci matched more than one catalog locus and were excluded.
+  2967 loci contained SNPs unaccounted for in the catalog and were excluded.
+  699349 total haplotypes examined from matching loci, 695361 verified.
+Searching for gapped alignments...
+Out of 769295 query loci, 124697 gapped alignments attempted.
+  110735 loci matched one catalog locus; 165369 total haplotypes examined, 133245 verified.
+  13962 loci matched no catalog locus;
+    3357 loci matched more than one catalog locus and were excluded.
+    2524 loci contained SNPs unaccounted for in the catalog and were excluded.
+    0 loci had no verified haplotypes.
+    0 loci had inconsistent alignments to a catalog locus and were excluded.
+Outputing to file /home/mshu/Stacks/cstacks/3187C8.matches.tsv.gz
+
+Processing sample '/home/mshu/Stacks/cstacks/3211B7' [44 of 96]
+  Parsing /home/mshu/Stacks/cstacks/3211B7.tags.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/3211B7.snps.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/3211B7.alleles.tsv.gz
+Searching for sequence matches...
+521949 sample loci compared against the catalog containing 9399867 loci.
+  390714 matching loci, 4080 contained no verified haplotypes.
+  286 loci matched more than one catalog locus and were excluded.
+  3795 loci contained SNPs unaccounted for in the catalog and were excluded.
+  436361 total haplotypes examined from matching loci, 431280 verified.
+Searching for gapped alignments...
+Out of 521949 query loci, 135317 gapped alignments attempted.
+  116518 loci matched one catalog locus; 187909 total haplotypes examined, 142523 verified.
+  18799 loci matched no catalog locus;
+    4169 loci matched more than one catalog locus and were excluded.
+    3304 loci contained SNPs unaccounted for in the catalog and were excluded.
+    0 loci had no verified haplotypes.
+    0 loci had inconsistent alignments to a catalog locus and were excluded.
+Outputing to file /home/mshu/Stacks/cstacks/3211B7.matches.tsv.gz
+
+Processing sample '/home/mshu/Stacks/cstacks/3216A1' [45 of 96]
+  Parsing /home/mshu/Stacks/cstacks/3216A1.tags.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/3216A1.snps.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/3216A1.alleles.tsv.gz
+Searching for sequence matches...
+524731 sample loci compared against the catalog containing 9399867 loci.
+  402252 matching loci, 3014 contained no verified haplotypes.
+  207 loci matched more than one catalog locus and were excluded.
+  2807 loci contained SNPs unaccounted for in the catalog and were excluded.
+  437956 total haplotypes examined from matching loci, 434232 verified.
+Searching for gapped alignments...
+Out of 524731 query loci, 125493 gapped alignments attempted.
+  111879 loci matched one catalog locus; 165526 total haplotypes examined, 133580 verified.
+  13614 loci matched no catalog locus;
+    3254 loci matched more than one catalog locus and were excluded.
+    2396 loci contained SNPs unaccounted for in the catalog and were excluded.
+    0 loci had no verified haplotypes.
+    0 loci had inconsistent alignments to a catalog locus and were excluded.
+Outputing to file /home/mshu/Stacks/cstacks/3216A1.matches.tsv.gz
+
+Processing sample '/home/mshu/Stacks/cstacks/3221C9' [46 of 96]
+  Parsing /home/mshu/Stacks/cstacks/3221C9.tags.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/3221C9.snps.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/3221C9.alleles.tsv.gz
+Searching for sequence matches...
+358452 sample loci compared against the catalog containing 9399867 loci.
+  254469 matching loci, 2949 contained no verified haplotypes.
+  182 loci matched more than one catalog locus and were excluded.
+  2768 loci contained SNPs unaccounted for in the catalog and were excluded.
+  278897 total haplotypes examined from matching loci, 275317 verified.
+Searching for gapped alignments...
+Out of 358452 query loci, 106934 gapped alignments attempted.
+  92906 loci matched one catalog locus; 140908 total haplotypes examined, 110316 verified.
+  14028 loci matched no catalog locus;
+    3322 loci matched more than one catalog locus and were excluded.
+    2231 loci contained SNPs unaccounted for in the catalog and were excluded.
+    0 loci had no verified haplotypes.
+    0 loci had inconsistent alignments to a catalog locus and were excluded.
+Outputing to file /home/mshu/Stacks/cstacks/3221C9.matches.tsv.gz
+
+Processing sample '/home/mshu/Stacks/cstacks/3229C8' [47 of 96]
+  Parsing /home/mshu/Stacks/cstacks/3229C8.tags.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/3229C8.snps.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/3229C8.alleles.tsv.gz
+Searching for sequence matches...
+604436 sample loci compared against the catalog containing 9399867 loci.
+  452300 matching loci, 4235 contained no verified haplotypes.
+  302 loci matched more than one catalog locus and were excluded.
+  3933 loci contained SNPs unaccounted for in the catalog and were excluded.
+  505353 total haplotypes examined from matching loci, 500210 verified.
+Searching for gapped alignments...
+Out of 604436 query loci, 156374 gapped alignments attempted.
+  136248 loci matched one catalog locus; 213455 total haplotypes examined, 168022 verified.
+  20126 loci matched no catalog locus;
+    4693 loci matched more than one catalog locus and were excluded.
+    3141 loci contained SNPs unaccounted for in the catalog and were excluded.
+    0 loci had no verified haplotypes.
+    0 loci had inconsistent alignments to a catalog locus and were excluded.
+Outputing to file /home/mshu/Stacks/cstacks/3229C8.matches.tsv.gz
+
+Processing sample '/home/mshu/Stacks/cstacks/3242A2' [48 of 96]
+  Parsing /home/mshu/Stacks/cstacks/3242A2.tags.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/3242A2.snps.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/3242A2.alleles.tsv.gz
+Searching for sequence matches...
+773671 sample loci compared against the catalog containing 9399867 loci.
+  643151 matching loci, 2178 contained no verified haplotypes.
+  144 loci matched more than one catalog locus and were excluded.
+  2035 loci contained SNPs unaccounted for in the catalog and were excluded.
+  686717 total haplotypes examined from matching loci, 684085 verified.
+Searching for gapped alignments...
+Out of 773671 query loci, 132699 gapped alignments attempted.
+  122119 loci matched one catalog locus; 163175 total haplotypes examined, 141009 verified.
+  10580 loci matched no catalog locus;
+    2719 loci matched more than one catalog locus and were excluded.
+    1634 loci contained SNPs unaccounted for in the catalog and were excluded.
+    0 loci had no verified haplotypes.
+    0 loci had inconsistent alignments to a catalog locus and were excluded.
+Outputing to file /home/mshu/Stacks/cstacks/3242A2.matches.tsv.gz
+
+Processing sample '/home/mshu/Stacks/cstacks/3247C5' [49 of 96]
+  Parsing /home/mshu/Stacks/cstacks/3247C5.tags.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/3247C5.snps.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/3247C5.alleles.tsv.gz
+Searching for sequence matches...
+431920 sample loci compared against the catalog containing 9399867 loci.
+  309189 matching loci, 2857 contained no verified haplotypes.
+  188 loci matched more than one catalog locus and were excluded.
+  2669 loci contained SNPs unaccounted for in the catalog and were excluded.
+  340688 total haplotypes examined from matching loci, 337219 verified.
+Searching for gapped alignments...
+Out of 431920 query loci, 125589 gapped alignments attempted.
+  111876 loci matched one catalog locus; 163850 total haplotypes examined, 134197 verified.
+  13713 loci matched no catalog locus;
+    3394 loci matched more than one catalog locus and were excluded.
+    2185 loci contained SNPs unaccounted for in the catalog and were excluded.
+    0 loci had no verified haplotypes.
+    0 loci had inconsistent alignments to a catalog locus and were excluded.
+Outputing to file /home/mshu/Stacks/cstacks/3247C5.matches.tsv.gz
+
+Processing sample '/home/mshu/Stacks/cstacks/3255A5' [50 of 96]
+  Parsing /home/mshu/Stacks/cstacks/3255A5.tags.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/3255A5.snps.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/3255A5.alleles.tsv.gz
+Searching for sequence matches...
+402300 sample loci compared against the catalog containing 9399867 loci.
+  288857 matching loci, 2545 contained no verified haplotypes.
+  159 loci matched more than one catalog locus and were excluded.
+  2386 loci contained SNPs unaccounted for in the catalog and were excluded.
+  315809 total haplotypes examined from matching loci, 312703 verified.
+Searching for gapped alignments...
+Out of 402300 query loci, 115989 gapped alignments attempted.
+  103774 loci matched one catalog locus; 149910 total haplotypes examined, 123311 verified.
+  12215 loci matched no catalog locus;
+    3124 loci matched more than one catalog locus and were excluded.
+    1899 loci contained SNPs unaccounted for in the catalog and were excluded.
+    0 loci had no verified haplotypes.
+    0 loci had inconsistent alignments to a catalog locus and were excluded.
+Outputing to file /home/mshu/Stacks/cstacks/3255A5.matches.tsv.gz
+
+Processing sample '/home/mshu/Stacks/cstacks/3260D1' [51 of 96]
+  Parsing /home/mshu/Stacks/cstacks/3260D1.tags.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/3260D1.snps.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/3260D1.alleles.tsv.gz
+Searching for sequence matches...
+266936 sample loci compared against the catalog containing 9399867 loci.
+  185586 matching loci, 2061 contained no verified haplotypes.
+  147 loci matched more than one catalog locus and were excluded.
+  1915 loci contained SNPs unaccounted for in the catalog and were excluded.
+  204461 total haplotypes examined from matching loci, 201885 verified.
+Searching for gapped alignments...
+Out of 266936 query loci, 83412 gapped alignments attempted.
+  73935 loci matched one catalog locus; 109551 total haplotypes examined, 87576 verified.
+  9477 loci matched no catalog locus;
+    2380 loci matched more than one catalog locus and were excluded.
+    1581 loci contained SNPs unaccounted for in the catalog and were excluded.
+    0 loci had no verified haplotypes.
+    0 loci had inconsistent alignments to a catalog locus and were excluded.
+Outputing to file /home/mshu/Stacks/cstacks/3260D1.matches.tsv.gz
+
+Processing sample '/home/mshu/Stacks/cstacks/3267C10' [52 of 96]
+  Parsing /home/mshu/Stacks/cstacks/3267C10.tags.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/3267C10.snps.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/3267C10.alleles.tsv.gz
+Searching for sequence matches...
+406751 sample loci compared against the catalog containing 9399867 loci.
+  289984 matching loci, 2663 contained no verified haplotypes.
+  179 loci matched more than one catalog locus and were excluded.
+  2484 loci contained SNPs unaccounted for in the catalog and were excluded.
+  319016 total haplotypes examined from matching loci, 315787 verified.
+Searching for gapped alignments...
+Out of 406751 query loci, 119430 gapped alignments attempted.
+  106869 loci matched one catalog locus; 155026 total haplotypes examined, 127764 verified.
+  12561 loci matched no catalog locus;
+    3219 loci matched more than one catalog locus and were excluded.
+    1970 loci contained SNPs unaccounted for in the catalog and were excluded.
+    0 loci had no verified haplotypes.
+    0 loci had inconsistent alignments to a catalog locus and were excluded.
+Outputing to file /home/mshu/Stacks/cstacks/3267C10.matches.tsv.gz
+
+Processing sample '/home/mshu/Stacks/cstacks/3272A7' [53 of 96]
+  Parsing /home/mshu/Stacks/cstacks/3272A7.tags.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/3272A7.snps.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/3272A7.alleles.tsv.gz
+Searching for sequence matches...
+609446 sample loci compared against the catalog containing 9399867 loci.
+  483220 matching loci, 2686 contained no verified haplotypes.
+  174 loci matched more than one catalog locus and were excluded.
+  2512 loci contained SNPs unaccounted for in the catalog and were excluded.
+  516365 total haplotypes examined from matching loci, 513047 verified.
+Searching for gapped alignments...
+Out of 609446 query loci, 128912 gapped alignments attempted.
+  116507 loci matched one catalog locus; 165797 total haplotypes examined, 136905 verified.
+  12405 loci matched no catalog locus;
+    3030 loci matched more than one catalog locus and were excluded.
+    2054 loci contained SNPs unaccounted for in the catalog and were excluded.
+    0 loci had no verified haplotypes.
+    0 loci had inconsistent alignments to a catalog locus and were excluded.
+Outputing to file /home/mshu/Stacks/cstacks/3272A7.matches.tsv.gz
+
+Processing sample '/home/mshu/Stacks/cstacks/3275D5' [54 of 96]
+  Parsing /home/mshu/Stacks/cstacks/3275D5.tags.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/3275D5.snps.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/3275D5.alleles.tsv.gz
+Searching for sequence matches...
+378373 sample loci compared against the catalog containing 9399867 loci.
+  266614 matching loci, 2451 contained no verified haplotypes.
+  160 loci matched more than one catalog locus and were excluded.
+  2292 loci contained SNPs unaccounted for in the catalog and were excluded.
+  293720 total haplotypes examined from matching loci, 290689 verified.
+Searching for gapped alignments...
+Out of 378373 query loci, 114212 gapped alignments attempted.
+  102584 loci matched one catalog locus; 147827 total haplotypes examined, 122564 verified.
+  11628 loci matched no catalog locus;
+    2973 loci matched more than one catalog locus and were excluded.
+    1848 loci contained SNPs unaccounted for in the catalog and were excluded.
+    0 loci had no verified haplotypes.
+    0 loci had inconsistent alignments to a catalog locus and were excluded.
+Outputing to file /home/mshu/Stacks/cstacks/3275D5.matches.tsv.gz
+
+Processing sample '/home/mshu/Stacks/cstacks/3277B9' [55 of 96]
+  Parsing /home/mshu/Stacks/cstacks/3277B9.tags.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/3277B9.snps.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/3277B9.alleles.tsv.gz
+Searching for sequence matches...
+309236 sample loci compared against the catalog containing 9399867 loci.
+  210081 matching loci, 2155 contained no verified haplotypes.
+  146 loci matched more than one catalog locus and were excluded.
+  2009 loci contained SNPs unaccounted for in the catalog and were excluded.
+  231262 total haplotypes examined from matching loci, 228614 verified.
+Searching for gapped alignments...
+Out of 309236 query loci, 101310 gapped alignments attempted.
+  91455 loci matched one catalog locus; 129376 total haplotypes examined, 108123 verified.
+  9855 loci matched no catalog locus;
+    2691 loci matched more than one catalog locus and were excluded.
+    1557 loci contained SNPs unaccounted for in the catalog and were excluded.
+    0 loci had no verified haplotypes.
+    0 loci had inconsistent alignments to a catalog locus and were excluded.
+Outputing to file /home/mshu/Stacks/cstacks/3277B9.matches.tsv.gz
+
+Processing sample '/home/mshu/Stacks/cstacks/3282C6' [56 of 96]
+  Parsing /home/mshu/Stacks/cstacks/3282C6.tags.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/3282C6.snps.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/3282C6.alleles.tsv.gz
+Searching for sequence matches...
+457947 sample loci compared against the catalog containing 9399867 loci.
+  331627 matching loci, 2719 contained no verified haplotypes.
+  179 loci matched more than one catalog locus and were excluded.
+  2540 loci contained SNPs unaccounted for in the catalog and were excluded.
+  366310 total haplotypes examined from matching loci, 362968 verified.
+Searching for gapped alignments...
+Out of 457947 query loci, 129042 gapped alignments attempted.
+  115766 loci matched one catalog locus; 169040 total haplotypes examined, 139816 verified.
+  13276 loci matched no catalog locus;
+    3311 loci matched more than one catalog locus and were excluded.
+    2062 loci contained SNPs unaccounted for in the catalog and were excluded.
+    0 loci had no verified haplotypes.
+    0 loci had inconsistent alignments to a catalog locus and were excluded.
+Outputing to file /home/mshu/Stacks/cstacks/3282C6.matches.tsv.gz
+
+Processing sample '/home/mshu/Stacks/cstacks/3286D1' [57 of 96]
+  Parsing /home/mshu/Stacks/cstacks/3286D1.tags.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/3286D1.snps.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/3286D1.alleles.tsv.gz
+Searching for sequence matches...
+439480 sample loci compared against the catalog containing 9399867 loci.
+  341147 matching loci, 1750 contained no verified haplotypes.
+  100 loci matched more than one catalog locus and were excluded.
+  1651 loci contained SNPs unaccounted for in the catalog and were excluded.
+  364086 total haplotypes examined from matching loci, 361954 verified.
+Searching for gapped alignments...
+Out of 439480 query loci, 100085 gapped alignments attempted.
+  91715 loci matched one catalog locus; 125553 total haplotypes examined, 107827 verified.
+  8370 loci matched no catalog locus;
+    2360 loci matched more than one catalog locus and were excluded.
+    1253 loci contained SNPs unaccounted for in the catalog and were excluded.
+    0 loci had no verified haplotypes.
+    0 loci had inconsistent alignments to a catalog locus and were excluded.
+Outputing to file /home/mshu/Stacks/cstacks/3286D1.matches.tsv.gz
+
+Processing sample '/home/mshu/Stacks/cstacks/3289A9' [58 of 96]
+  Parsing /home/mshu/Stacks/cstacks/3289A9.tags.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/3289A9.snps.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/3289A9.alleles.tsv.gz
+Searching for sequence matches...
+382692 sample loci compared against the catalog containing 9399867 loci.
+  267512 matching loci, 2221 contained no verified haplotypes.
+  153 loci matched more than one catalog locus and were excluded.
+  2068 loci contained SNPs unaccounted for in the catalog and were excluded.
+  295859 total haplotypes examined from matching loci, 293169 verified.
+Searching for gapped alignments...
+Out of 382692 query loci, 117401 gapped alignments attempted.
+  106768 loci matched one catalog locus; 150097 total haplotypes examined, 127423 verified.
+  10633 loci matched no catalog locus;
+    2828 loci matched more than one catalog locus and were excluded.
+    1621 loci contained SNPs unaccounted for in the catalog and were excluded.
+    0 loci had no verified haplotypes.
+    0 loci had inconsistent alignments to a catalog locus and were excluded.
+Outputing to file /home/mshu/Stacks/cstacks/3289A9.matches.tsv.gz
+
+Processing sample '/home/mshu/Stacks/cstacks/3291A3' [59 of 96]
+  Parsing /home/mshu/Stacks/cstacks/3291A3.tags.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/3291A3.snps.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/3291A3.alleles.tsv.gz
+Searching for sequence matches...
+640700 sample loci compared against the catalog containing 9399867 loci.
+  507175 matching loci, 2863 contained no verified haplotypes.
+  198 loci matched more than one catalog locus and were excluded.
+  2666 loci contained SNPs unaccounted for in the catalog and were excluded.
+  548323 total haplotypes examined from matching loci, 544734 verified.
+Searching for gapped alignments...
+Out of 640700 query loci, 136391 gapped alignments attempted.
+  123236 loci matched one catalog locus; 176382 total haplotypes examined, 145609 verified.
+  13155 loci matched no catalog locus;
+    3287 loci matched more than one catalog locus and were excluded.
+    2189 loci contained SNPs unaccounted for in the catalog and were excluded.
+    0 loci had no verified haplotypes.
+    0 loci had inconsistent alignments to a catalog locus and were excluded.
+Outputing to file /home/mshu/Stacks/cstacks/3291A3.matches.tsv.gz
+
+Processing sample '/home/mshu/Stacks/cstacks/3293D4' [60 of 96]
+  Parsing /home/mshu/Stacks/cstacks/3293D4.tags.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/3293D4.snps.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/3293D4.alleles.tsv.gz
+Searching for sequence matches...
+332345 sample loci compared against the catalog containing 9399867 loci.
+  242389 matching loci, 1804 contained no verified haplotypes.
+  106 loci matched more than one catalog locus and were excluded.
+  1698 loci contained SNPs unaccounted for in the catalog and were excluded.
+  262186 total haplotypes examined from matching loci, 260001 verified.
+Searching for gapped alignments...
+Out of 332345 query loci, 91761 gapped alignments attempted.
+  83263 loci matched one catalog locus; 115673 total haplotypes examined, 97803 verified.
+  8498 loci matched no catalog locus;
+    2324 loci matched more than one catalog locus and were excluded.
+    1274 loci contained SNPs unaccounted for in the catalog and were excluded.
+    0 loci had no verified haplotypes.
+    0 loci had inconsistent alignments to a catalog locus and were excluded.
+Outputing to file /home/mshu/Stacks/cstacks/3293D4.matches.tsv.gz
+
+Processing sample '/home/mshu/Stacks/cstacks/3302B11' [61 of 96]
+  Parsing /home/mshu/Stacks/cstacks/3302B11.tags.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/3302B11.snps.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/3302B11.alleles.tsv.gz
+Searching for sequence matches...
+687861 sample loci compared against the catalog containing 9399867 loci.
+  566484 matching loci, 2062 contained no verified haplotypes.
+  156 loci matched more than one catalog locus and were excluded.
+  1906 loci contained SNPs unaccounted for in the catalog and were excluded.
+  620206 total haplotypes examined from matching loci, 617735 verified.
+Searching for gapped alignments...
+Out of 687861 query loci, 123439 gapped alignments attempted.
+  113508 loci matched one catalog locus; 155664 total haplotypes examined, 134235 verified.
+  9931 loci matched no catalog locus;
+    2719 loci matched more than one catalog locus and were excluded.
+    1518 loci contained SNPs unaccounted for in the catalog and were excluded.
+    0 loci had no verified haplotypes.
+    0 loci had inconsistent alignments to a catalog locus and were excluded.
+Outputing to file /home/mshu/Stacks/cstacks/3302B11.matches.tsv.gz
+
+Processing sample '/home/mshu/Stacks/cstacks/3303A5' [62 of 96]
+  Parsing /home/mshu/Stacks/cstacks/3303A5.tags.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/3303A5.snps.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/3303A5.alleles.tsv.gz
+Searching for sequence matches...
+343226 sample loci compared against the catalog containing 9399867 loci.
+  243201 matching loci, 1969 contained no verified haplotypes.
+  142 loci matched more than one catalog locus and were excluded.
+  1827 loci contained SNPs unaccounted for in the catalog and were excluded.
+  269388 total haplotypes examined from matching loci, 266906 verified.
+Searching for gapped alignments...
+Out of 343226 query loci, 101996 gapped alignments attempted.
+  92817 loci matched one catalog locus; 131194 total haplotypes examined, 110067 verified.
+  9179 loci matched no catalog locus;
+    2457 loci matched more than one catalog locus and were excluded.
+    1535 loci contained SNPs unaccounted for in the catalog and were excluded.
+    0 loci had no verified haplotypes.
+    0 loci had inconsistent alignments to a catalog locus and were excluded.
+Outputing to file /home/mshu/Stacks/cstacks/3303A5.matches.tsv.gz
+
+Processing sample '/home/mshu/Stacks/cstacks/3306D2' [63 of 96]
+  Parsing /home/mshu/Stacks/cstacks/3306D2.tags.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/3306D2.snps.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/3306D2.alleles.tsv.gz
+Searching for sequence matches...
+399417 sample loci compared against the catalog containing 9399867 loci.
+  281047 matching loci, 2322 contained no verified haplotypes.
+  155 loci matched more than one catalog locus and were excluded.
+  2167 loci contained SNPs unaccounted for in the catalog and were excluded.
+  311873 total haplotypes examined from matching loci, 309043 verified.
+Searching for gapped alignments...
+Out of 399417 query loci, 120693 gapped alignments attempted.
+  109499 loci matched one catalog locus; 155838 total haplotypes examined, 131380 verified.
+  11194 loci matched no catalog locus;
+    2970 loci matched more than one catalog locus and were excluded.
+    1799 loci contained SNPs unaccounted for in the catalog and were excluded.
+    0 loci had no verified haplotypes.
+    0 loci had inconsistent alignments to a catalog locus and were excluded.
+Outputing to file /home/mshu/Stacks/cstacks/3306D2.matches.tsv.gz
+
+Processing sample '/home/mshu/Stacks/cstacks/3310C2' [64 of 96]
+  Parsing /home/mshu/Stacks/cstacks/3310C2.tags.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/3310C2.snps.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/3310C2.alleles.tsv.gz
+Searching for sequence matches...
+498829 sample loci compared against the catalog containing 9399867 loci.
+  369631 matching loci, 2913 contained no verified haplotypes.
+  207 loci matched more than one catalog locus and were excluded.
+  2706 loci contained SNPs unaccounted for in the catalog and were excluded.
+  414728 total haplotypes examined from matching loci, 411113 verified.
+Searching for gapped alignments...
+Out of 498829 query loci, 132111 gapped alignments attempted.
+  117956 loci matched one catalog locus; 177322 total haplotypes examined, 144038 verified.
+  14155 loci matched no catalog locus;
+    3306 loci matched more than one catalog locus and were excluded.
+    2328 loci contained SNPs unaccounted for in the catalog and were excluded.
+    0 loci had no verified haplotypes.
+    0 loci had inconsistent alignments to a catalog locus and were excluded.
+Outputing to file /home/mshu/Stacks/cstacks/3310C2.matches.tsv.gz
+
+Processing sample '/home/mshu/Stacks/cstacks/3318D5' [65 of 96]
+  Parsing /home/mshu/Stacks/cstacks/3318D5.tags.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/3318D5.snps.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/3318D5.alleles.tsv.gz
+Searching for sequence matches...
+451067 sample loci compared against the catalog containing 9399867 loci.
+  330013 matching loci, 2658 contained no verified haplotypes.
+  198 loci matched more than one catalog locus and were excluded.
+  2461 loci contained SNPs unaccounted for in the catalog and were excluded.
+  370037 total haplotypes examined from matching loci, 366693 verified.
+Searching for gapped alignments...
+Out of 451067 query loci, 123714 gapped alignments attempted.
+  111315 loci matched one catalog locus; 165153 total haplotypes examined, 135389 verified.
+  12399 loci matched no catalog locus;
+    3080 loci matched more than one catalog locus and were excluded.
+    2091 loci contained SNPs unaccounted for in the catalog and were excluded.
+    0 loci had no verified haplotypes.
+    0 loci had inconsistent alignments to a catalog locus and were excluded.
+Outputing to file /home/mshu/Stacks/cstacks/3318D5.matches.tsv.gz
+
+Processing sample '/home/mshu/Stacks/cstacks/3325B11' [66 of 96]
+  Parsing /home/mshu/Stacks/cstacks/3325B11.tags.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/3325B11.snps.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/3325B11.alleles.tsv.gz
+Searching for sequence matches...
+418354 sample loci compared against the catalog containing 9399867 loci.
+  304276 matching loci, 2584 contained no verified haplotypes.
+  196 loci matched more than one catalog locus and were excluded.
+  2388 loci contained SNPs unaccounted for in the catalog and were excluded.
+  338764 total haplotypes examined from matching loci, 335509 verified.
+Searching for gapped alignments...
+Out of 418354 query loci, 116668 gapped alignments attempted.
+  104492 loci matched one catalog locus; 155813 total haplotypes examined, 126578 verified.
+  12176 loci matched no catalog locus;
+    3040 loci matched more than one catalog locus and were excluded.
+    2011 loci contained SNPs unaccounted for in the catalog and were excluded.
+    0 loci had no verified haplotypes.
+    0 loci had inconsistent alignments to a catalog locus and were excluded.
+Outputing to file /home/mshu/Stacks/cstacks/3325B11.matches.tsv.gz
+
+Processing sample '/home/mshu/Stacks/cstacks/3331C1' [67 of 96]
+  Parsing /home/mshu/Stacks/cstacks/3331C1.tags.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/3331C1.snps.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/3331C1.alleles.tsv.gz
+Searching for sequence matches...
+454491 sample loci compared against the catalog containing 9399867 loci.
+  334826 matching loci, 2764 contained no verified haplotypes.
+  168 loci matched more than one catalog locus and were excluded.
+  2596 loci contained SNPs unaccounted for in the catalog and were excluded.
+  375434 total haplotypes examined from matching loci, 372041 verified.
+Searching for gapped alignments...
+Out of 454491 query loci, 122432 gapped alignments attempted.
+  109257 loci matched one catalog locus; 165389 total haplotypes examined, 133571 verified.
+  13175 loci matched no catalog locus;
+    3208 loci matched more than one catalog locus and were excluded.
+    2166 loci contained SNPs unaccounted for in the catalog and were excluded.
+    0 loci had no verified haplotypes.
+    0 loci had inconsistent alignments to a catalog locus and were excluded.
+Outputing to file /home/mshu/Stacks/cstacks/3331C1.matches.tsv.gz
+
+Processing sample '/home/mshu/Stacks/cstacks/3335B10' [68 of 96]
+  Parsing /home/mshu/Stacks/cstacks/3335B10.tags.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/3335B10.snps.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/3335B10.alleles.tsv.gz
+Searching for sequence matches...
+404699 sample loci compared against the catalog containing 9399867 loci.
+  288217 matching loci, 2246 contained no verified haplotypes.
+  139 loci matched more than one catalog locus and were excluded.
+  2108 loci contained SNPs unaccounted for in the catalog and were excluded.
+  318443 total haplotypes examined from matching loci, 315716 verified.
+Searching for gapped alignments...
+Out of 404699 query loci, 118731 gapped alignments attempted.
+  108000 loci matched one catalog locus; 153667 total haplotypes examined, 129451 verified.
+  10731 loci matched no catalog locus;
+    2868 loci matched more than one catalog locus and were excluded.
+    1692 loci contained SNPs unaccounted for in the catalog and were excluded.
+    0 loci had no verified haplotypes.
+    0 loci had inconsistent alignments to a catalog locus and were excluded.
+Outputing to file /home/mshu/Stacks/cstacks/3335B10.matches.tsv.gz
+
+Processing sample '/home/mshu/Stacks/cstacks/3339B8' [69 of 96]
+  Parsing /home/mshu/Stacks/cstacks/3339B8.tags.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/3339B8.snps.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/3339B8.alleles.tsv.gz
+Searching for sequence matches...
+433417 sample loci compared against the catalog containing 9399867 loci.
+  314774 matching loci, 2384 contained no verified haplotypes.
+  145 loci matched more than one catalog locus and were excluded.
+  2239 loci contained SNPs unaccounted for in the catalog and were excluded.
+  347843 total haplotypes examined from matching loci, 344939 verified.
+Searching for gapped alignments...
+Out of 433417 query loci, 121028 gapped alignments attempted.
+  109238 loci matched one catalog locus; 158351 total haplotypes examined, 131449 verified.
+  11790 loci matched no catalog locus;
+    3019 loci matched more than one catalog locus and were excluded.
+    1865 loci contained SNPs unaccounted for in the catalog and were excluded.
+    0 loci had no verified haplotypes.
+    0 loci had inconsistent alignments to a catalog locus and were excluded.
+Outputing to file /home/mshu/Stacks/cstacks/3339B8.matches.tsv.gz
+
+Processing sample '/home/mshu/Stacks/cstacks/3352C4' [70 of 96]
+  Parsing /home/mshu/Stacks/cstacks/3352C4.tags.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/3352C4.snps.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/3352C4.alleles.tsv.gz
+Searching for sequence matches...
+364629 sample loci compared against the catalog containing 9399867 loci.
+  263583 matching loci, 1889 contained no verified haplotypes.
+  128 loci matched more than one catalog locus and were excluded.
+  1761 loci contained SNPs unaccounted for in the catalog and were excluded.
+  290786 total haplotypes examined from matching loci, 288420 verified.
+Searching for gapped alignments...
+Out of 364629 query loci, 102935 gapped alignments attempted.
+  94109 loci matched one catalog locus; 133045 total haplotypes examined, 112607 verified.
+  8826 loci matched no catalog locus;
+    2469 loci matched more than one catalog locus and were excluded.
+    1463 loci contained SNPs unaccounted for in the catalog and were excluded.
+    0 loci had no verified haplotypes.
+    0 loci had inconsistent alignments to a catalog locus and were excluded.
+Outputing to file /home/mshu/Stacks/cstacks/3352C4.matches.tsv.gz
+
+Processing sample '/home/mshu/Stacks/cstacks/3355D3' [71 of 96]
+  Parsing /home/mshu/Stacks/cstacks/3355D3.tags.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/3355D3.snps.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/3355D3.alleles.tsv.gz
+Searching for sequence matches...
+426869 sample loci compared against the catalog containing 9399867 loci.
+  310230 matching loci, 2188 contained no verified haplotypes.
+  158 loci matched more than one catalog locus and were excluded.
+  2031 loci contained SNPs unaccounted for in the catalog and were excluded.
+  345994 total haplotypes examined from matching loci, 343277 verified.
+Searching for gapped alignments...
+Out of 426869 query loci, 118828 gapped alignments attempted.
+  108465 loci matched one catalog locus; 155596 total haplotypes examined, 131293 verified.
+  10363 loci matched no catalog locus;
+    2744 loci matched more than one catalog locus and were excluded.
+    1688 loci contained SNPs unaccounted for in the catalog and were excluded.
+    0 loci had no verified haplotypes.
+    0 loci had inconsistent alignments to a catalog locus and were excluded.
+Outputing to file /home/mshu/Stacks/cstacks/3355D3.matches.tsv.gz
+
+Processing sample '/home/mshu/Stacks/cstacks/3356B7' [72 of 96]
+  Parsing /home/mshu/Stacks/cstacks/3356B7.tags.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/3356B7.snps.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/3356B7.alleles.tsv.gz
+Searching for sequence matches...
+326185 sample loci compared against the catalog containing 9399867 loci.
+  233246 matching loci, 1514 contained no verified haplotypes.
+  88 loci matched more than one catalog locus and were excluded.
+  1426 loci contained SNPs unaccounted for in the catalog and were excluded.
+  252678 total haplotypes examined from matching loci, 250866 verified.
+Searching for gapped alignments...
+Out of 326185 query loci, 94453 gapped alignments attempted.
+  86942 loci matched one catalog locus; 118277 total haplotypes examined, 102307 verified.
+  7511 loci matched no catalog locus;
+    2196 loci matched more than one catalog locus and were excluded.
+    1112 loci contained SNPs unaccounted for in the catalog and were excluded.
+    0 loci had no verified haplotypes.
+    0 loci had inconsistent alignments to a catalog locus and were excluded.
+Outputing to file /home/mshu/Stacks/cstacks/3356B7.matches.tsv.gz
+
+Processing sample '/home/mshu/Stacks/cstacks/3364D2' [73 of 96]
+  Parsing /home/mshu/Stacks/cstacks/3364D2.tags.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/3364D2.snps.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/3364D2.alleles.tsv.gz
+Searching for sequence matches...
+470904 sample loci compared against the catalog containing 9399867 loci.
+  348743 matching loci, 2560 contained no verified haplotypes.
+  170 loci matched more than one catalog locus and were excluded.
+  2390 loci contained SNPs unaccounted for in the catalog and were excluded.
+  391128 total haplotypes examined from matching loci, 387942 verified.
+Searching for gapped alignments...
+Out of 470904 query loci, 124721 gapped alignments attempted.
+  112162 loci matched one catalog locus; 168762 total haplotypes examined, 137497 verified.
+  12559 loci matched no catalog locus;
+    3154 loci matched more than one catalog locus and were excluded.
+    2012 loci contained SNPs unaccounted for in the catalog and were excluded.
+    0 loci had no verified haplotypes.
+    0 loci had inconsistent alignments to a catalog locus and were excluded.
+Outputing to file /home/mshu/Stacks/cstacks/3364D2.matches.tsv.gz
+
+Processing sample '/home/mshu/Stacks/cstacks/3365D7' [74 of 96]
+  Parsing /home/mshu/Stacks/cstacks/3365D7.tags.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/3365D7.snps.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/3365D7.alleles.tsv.gz
+Searching for sequence matches...
+417750 sample loci compared against the catalog containing 9399867 loci.
+  304298 matching loci, 2166 contained no verified haplotypes.
+  133 loci matched more than one catalog locus and were excluded.
+  2033 loci contained SNPs unaccounted for in the catalog and were excluded.
+  339754 total haplotypes examined from matching loci, 337086 verified.
+Searching for gapped alignments...
+Out of 417750 query loci, 115618 gapped alignments attempted.
+  105217 loci matched one catalog locus; 152570 total haplotypes examined, 127559 verified.
+  10401 loci matched no catalog locus;
+    2776 loci matched more than one catalog locus and were excluded.
+    1639 loci contained SNPs unaccounted for in the catalog and were excluded.
+    0 loci had no verified haplotypes.
+    0 loci had inconsistent alignments to a catalog locus and were excluded.
+Outputing to file /home/mshu/Stacks/cstacks/3365D7.matches.tsv.gz
+
+Processing sample '/home/mshu/Stacks/cstacks/3368D6' [75 of 96]
+  Parsing /home/mshu/Stacks/cstacks/3368D6.tags.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/3368D6.snps.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/3368D6.alleles.tsv.gz
+Searching for sequence matches...
+507376 sample loci compared against the catalog containing 9399867 loci.
+  379697 matching loci, 2729 contained no verified haplotypes.
+  168 loci matched more than one catalog locus and were excluded.
+  2561 loci contained SNPs unaccounted for in the catalog and were excluded.
+  428710 total haplotypes examined from matching loci, 425323 verified.
+Searching for gapped alignments...
+Out of 507376 query loci, 130410 gapped alignments attempted.
+  116554 loci matched one catalog locus; 178215 total haplotypes examined, 143803 verified.
+  13856 loci matched no catalog locus;
+    3313 loci matched more than one catalog locus and were excluded.
+    2104 loci contained SNPs unaccounted for in the catalog and were excluded.
+    0 loci had no verified haplotypes.
+    0 loci had inconsistent alignments to a catalog locus and were excluded.
+Outputing to file /home/mshu/Stacks/cstacks/3368D6.matches.tsv.gz
+
+Processing sample '/home/mshu/Stacks/cstacks/3369C5' [76 of 96]
+  Parsing /home/mshu/Stacks/cstacks/3369C5.tags.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/3369C5.snps.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/3369C5.alleles.tsv.gz
+Searching for sequence matches...
+670558 sample loci compared against the catalog containing 9399867 loci.
+  546489 matching loci, 2332 contained no verified haplotypes.
+  165 loci matched more than one catalog locus and were excluded.
+  2167 loci contained SNPs unaccounted for in the catalog and were excluded.
+  596763 total haplotypes examined from matching loci, 593819 verified.
+Searching for gapped alignments...
+Out of 670558 query loci, 126401 gapped alignments attempted.
+  114879 loci matched one catalog locus; 168453 total haplotypes examined, 140433 verified.
+  11522 loci matched no catalog locus;
+    3005 loci matched more than one catalog locus and were excluded.
+    1826 loci contained SNPs unaccounted for in the catalog and were excluded.
+    0 loci had no verified haplotypes.
+    0 loci had inconsistent alignments to a catalog locus and were excluded.
+Outputing to file /home/mshu/Stacks/cstacks/3369C5.matches.tsv.gz
+
+Processing sample '/home/mshu/Stacks/cstacks/3371A12' [77 of 96]
+  Parsing /home/mshu/Stacks/cstacks/3371A12.tags.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/3371A12.snps.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/3371A12.alleles.tsv.gz
+Searching for sequence matches...
+514034 sample loci compared against the catalog containing 9399867 loci.
+  384860 matching loci, 2143 contained no verified haplotypes.
+  139 loci matched more than one catalog locus and were excluded.
+  2004 loci contained SNPs unaccounted for in the catalog and were excluded.
+  433368 total haplotypes examined from matching loci, 430751 verified.
+Searching for gapped alignments...
+Out of 514034 query loci, 131317 gapped alignments attempted.
+  120008 loci matched one catalog locus; 175110 total haplotypes examined, 147610 verified.
+  11309 loci matched no catalog locus;
+    2953 loci matched more than one catalog locus and were excluded.
+    1642 loci contained SNPs unaccounted for in the catalog and were excluded.
+    0 loci had no verified haplotypes.
+    0 loci had inconsistent alignments to a catalog locus and were excluded.
+Outputing to file /home/mshu/Stacks/cstacks/3371A12.matches.tsv.gz
+
+Processing sample '/home/mshu/Stacks/cstacks/3373B3' [78 of 96]
+  Parsing /home/mshu/Stacks/cstacks/3373B3.tags.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/3373B3.snps.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/3373B3.alleles.tsv.gz
+Searching for sequence matches...
+433030 sample loci compared against the catalog containing 9399867 loci.
+  315580 matching loci, 1880 contained no verified haplotypes.
+  122 loci matched more than one catalog locus and were excluded.
+  1758 loci contained SNPs unaccounted for in the catalog and were excluded.
+  354663 total haplotypes examined from matching loci, 352377 verified.
+Searching for gapped alignments...
+Out of 433030 query loci, 119330 gapped alignments attempted.
+  109599 loci matched one catalog locus; 157030 total haplotypes examined, 133284 verified.
+  9731 loci matched no catalog locus;
+    2653 loci matched more than one catalog locus and were excluded.
+    1449 loci contained SNPs unaccounted for in the catalog and were excluded.
+    0 loci had no verified haplotypes.
+    0 loci had inconsistent alignments to a catalog locus and were excluded.
+Outputing to file /home/mshu/Stacks/cstacks/3373B3.matches.tsv.gz
+
+Processing sample '/home/mshu/Stacks/cstacks/3399D4' [79 of 96]
+  Parsing /home/mshu/Stacks/cstacks/3399D4.tags.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/3399D4.snps.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/3399D4.alleles.tsv.gz
+Searching for sequence matches...
+521560 sample loci compared against the catalog containing 9399867 loci.
+  391350 matching loci, 2181 contained no verified haplotypes.
+  139 loci matched more than one catalog locus and were excluded.
+  2042 loci contained SNPs unaccounted for in the catalog and were excluded.
+  442515 total haplotypes examined from matching loci, 439865 verified.
+Searching for gapped alignments...
+Out of 521560 query loci, 132391 gapped alignments attempted.
+  120571 loci matched one catalog locus; 178134 total haplotypes examined, 148966 verified.
+  11820 loci matched no catalog locus;
+    2936 loci matched more than one catalog locus and were excluded.
+    1781 loci contained SNPs unaccounted for in the catalog and were excluded.
+    0 loci had no verified haplotypes.
+    0 loci had inconsistent alignments to a catalog locus and were excluded.
+Outputing to file /home/mshu/Stacks/cstacks/3399D4.matches.tsv.gz
+
+Processing sample '/home/mshu/Stacks/cstacks/3407A10' [80 of 96]
+  Parsing /home/mshu/Stacks/cstacks/3407A10.tags.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/3407A10.snps.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/3407A10.alleles.tsv.gz
+Searching for sequence matches...
+470056 sample loci compared against the catalog containing 9399867 loci.
+  349758 matching loci, 1840 contained no verified haplotypes.
+  118 loci matched more than one catalog locus and were excluded.
+  1722 loci contained SNPs unaccounted for in the catalog and were excluded.
+  393922 total haplotypes examined from matching loci, 391654 verified.
+Searching for gapped alignments...
+Out of 470056 query loci, 122138 gapped alignments attempted.
+  112251 loci matched one catalog locus; 161423 total haplotypes examined, 137252 verified.
+  9887 loci matched no catalog locus;
+    2642 loci matched more than one catalog locus and were excluded.
+    1400 loci contained SNPs unaccounted for in the catalog and were excluded.
+    0 loci had no verified haplotypes.
+    0 loci had inconsistent alignments to a catalog locus and were excluded.
+Outputing to file /home/mshu/Stacks/cstacks/3407A10.matches.tsv.gz
+
+Processing sample '/home/mshu/Stacks/cstacks/3409D8' [81 of 96]
+  Parsing /home/mshu/Stacks/cstacks/3409D8.tags.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/3409D8.snps.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/3409D8.alleles.tsv.gz
+Searching for sequence matches...
+311636 sample loci compared against the catalog containing 9399867 loci.
+  229750 matching loci, 1269 contained no verified haplotypes.
+  71 loci matched more than one catalog locus and were excluded.
+  1199 loci contained SNPs unaccounted for in the catalog and were excluded.
+  252021 total haplotypes examined from matching loci, 250462 verified.
+Searching for gapped alignments...
+Out of 311636 query loci, 83156 gapped alignments attempted.
+  76906 loci matched one catalog locus; 106980 total haplotypes examined, 91648 verified.
+  6250 loci matched no catalog locus;
+    1802 loci matched more than one catalog locus and were excluded.
+    984 loci contained SNPs unaccounted for in the catalog and were excluded.
+    0 loci had no verified haplotypes.
+    0 loci had inconsistent alignments to a catalog locus and were excluded.
+Outputing to file /home/mshu/Stacks/cstacks/3409D8.matches.tsv.gz
+
+Processing sample '/home/mshu/Stacks/cstacks/3411D11' [82 of 96]
+  Parsing /home/mshu/Stacks/cstacks/3411D11.tags.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/3411D11.snps.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/3411D11.alleles.tsv.gz
+Searching for sequence matches...
+421820 sample loci compared against the catalog containing 9399867 loci.
+  307334 matching loci, 1394 contained no verified haplotypes.
+  65 loci matched more than one catalog locus and were excluded.
+  1329 loci contained SNPs unaccounted for in the catalog and were excluded.
+  338283 total haplotypes examined from matching loci, 336633 verified.
+Searching for gapped alignments...
+Out of 421820 query loci, 115880 gapped alignments attempted.
+  108231 loci matched one catalog locus; 147363 total haplotypes examined, 129925 verified.
+  7649 loci matched no catalog locus;
+    2257 loci matched more than one catalog locus and were excluded.
+    1054 loci contained SNPs unaccounted for in the catalog and were excluded.
+    0 loci had no verified haplotypes.
+    0 loci had inconsistent alignments to a catalog locus and were excluded.
+Outputing to file /home/mshu/Stacks/cstacks/3411D11.matches.tsv.gz
+
+Processing sample '/home/mshu/Stacks/cstacks/3413C3' [83 of 96]
+  Parsing /home/mshu/Stacks/cstacks/3413C3.tags.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/3413C3.snps.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/3413C3.alleles.tsv.gz
+Searching for sequence matches...
+413124 sample loci compared against the catalog containing 9399867 loci.
+  301207 matching loci, 1509 contained no verified haplotypes.
+  94 loci matched more than one catalog locus and were excluded.
+  1415 loci contained SNPs unaccounted for in the catalog and were excluded.
+  337782 total haplotypes examined from matching loci, 335910 verified.
+Searching for gapped alignments...
+Out of 413124 query loci, 113426 gapped alignments attempted.
+  105432 loci matched one catalog locus; 147881 total haplotypes examined, 128140 verified.
+  7994 loci matched no catalog locus;
+    2264 loci matched more than one catalog locus and were excluded.
+    1142 loci contained SNPs unaccounted for in the catalog and were excluded.
+    0 loci had no verified haplotypes.
+    0 loci had inconsistent alignments to a catalog locus and were excluded.
+Outputing to file /home/mshu/Stacks/cstacks/3413C3.matches.tsv.gz
+
+Processing sample '/home/mshu/Stacks/cstacks/3424D9' [84 of 96]
+  Parsing /home/mshu/Stacks/cstacks/3424D9.tags.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/3424D9.snps.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/3424D9.alleles.tsv.gz
+Searching for sequence matches...
+410461 sample loci compared against the catalog containing 9399867 loci.
+  297828 matching loci, 1418 contained no verified haplotypes.
+  88 loci matched more than one catalog locus and were excluded.
+  1330 loci contained SNPs unaccounted for in the catalog and were excluded.
+  336356 total haplotypes examined from matching loci, 334644 verified.
+Searching for gapped alignments...
+Out of 410461 query loci, 114052 gapped alignments attempted.
+  106437 loci matched one catalog locus; 148741 total haplotypes examined, 129817 verified.
+  7615 loci matched no catalog locus;
+    2187 loci matched more than one catalog locus and were excluded.
+    1130 loci contained SNPs unaccounted for in the catalog and were excluded.
+    0 loci had no verified haplotypes.
+    0 loci had inconsistent alignments to a catalog locus and were excluded.
+Outputing to file /home/mshu/Stacks/cstacks/3424D9.matches.tsv.gz
+
+Processing sample '/home/mshu/Stacks/cstacks/3467C4' [85 of 96]
+  Parsing /home/mshu/Stacks/cstacks/3467C4.tags.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/3467C4.snps.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/3467C4.alleles.tsv.gz
+Searching for sequence matches...
+363397 sample loci compared against the catalog containing 9399867 loci.
+  256981 matching loci, 1134 contained no verified haplotypes.
+  76 loci matched more than one catalog locus and were excluded.
+  1058 loci contained SNPs unaccounted for in the catalog and were excluded.
+  285143 total haplotypes examined from matching loci, 283757 verified.
+Searching for gapped alignments...
+Out of 363397 query loci, 107550 gapped alignments attempted.
+  101547 loci matched one catalog locus; 135681 total haplotypes examined, 121915 verified.
+  6003 loci matched no catalog locus;
+    1966 loci matched more than one catalog locus and were excluded.
+    786 loci contained SNPs unaccounted for in the catalog and were excluded.
+    0 loci had no verified haplotypes.
+    0 loci had inconsistent alignments to a catalog locus and were excluded.
+Outputing to file /home/mshu/Stacks/cstacks/3467C4.matches.tsv.gz
+
+Processing sample '/home/mshu/Stacks/cstacks/3468C12' [86 of 96]
+  Parsing /home/mshu/Stacks/cstacks/3468C12.tags.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/3468C12.snps.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/3468C12.alleles.tsv.gz
+Searching for sequence matches...
+461779 sample loci compared against the catalog containing 9399867 loci.
+  342463 matching loci, 1138 contained no verified haplotypes.
+  63 loci matched more than one catalog locus and were excluded.
+  1075 loci contained SNPs unaccounted for in the catalog and were excluded.
+  378648 total haplotypes examined from matching loci, 377263 verified.
+Searching for gapped alignments...
+Out of 461779 query loci, 120454 gapped alignments attempted.
+  113528 loci matched one catalog locus; 152904 total haplotypes examined, 136635 verified.
+  6926 loci matched no catalog locus;
+    2094 loci matched more than one catalog locus and were excluded.
+    852 loci contained SNPs unaccounted for in the catalog and were excluded.
+    0 loci had no verified haplotypes.
+    0 loci had inconsistent alignments to a catalog locus and were excluded.
+Outputing to file /home/mshu/Stacks/cstacks/3468C12.matches.tsv.gz
+
+Processing sample '/home/mshu/Stacks/cstacks/3474C3' [87 of 96]
+  Parsing /home/mshu/Stacks/cstacks/3474C3.tags.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/3474C3.snps.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/3474C3.alleles.tsv.gz
+Searching for sequence matches...
+362457 sample loci compared against the catalog containing 9399867 loci.
+  255715 matching loci, 985 contained no verified haplotypes.
+  66 loci matched more than one catalog locus and were excluded.
+  919 loci contained SNPs unaccounted for in the catalog and were excluded.
+  286054 total haplotypes examined from matching loci, 284877 verified.
+Searching for gapped alignments...
+Out of 362457 query loci, 107727 gapped alignments attempted.
+  101840 loci matched one catalog locus; 136698 total haplotypes examined, 122761 verified.
+  5887 loci matched no catalog locus;
+    1849 loci matched more than one catalog locus and were excluded.
+    756 loci contained SNPs unaccounted for in the catalog and were excluded.
+    0 loci had no verified haplotypes.
+    0 loci had inconsistent alignments to a catalog locus and were excluded.
+Outputing to file /home/mshu/Stacks/cstacks/3474C3.matches.tsv.gz
+
+Processing sample '/home/mshu/Stacks/cstacks/3508C1' [88 of 96]
+  Parsing /home/mshu/Stacks/cstacks/3508C1.tags.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/3508C1.snps.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/3508C1.alleles.tsv.gz
+Searching for sequence matches...
+383349 sample loci compared against the catalog containing 9399867 loci.
+  274441 matching loci, 769 contained no verified haplotypes.
+  54 loci matched more than one catalog locus and were excluded.
+  715 loci contained SNPs unaccounted for in the catalog and were excluded.
+  305104 total haplotypes examined from matching loci, 304190 verified.
+Searching for gapped alignments...
+Out of 383349 query loci, 109677 gapped alignments attempted.
+  104487 loci matched one catalog locus; 137187 total haplotypes examined, 125548 verified.
+  5190 loci matched no catalog locus;
+    1705 loci matched more than one catalog locus and were excluded.
+    583 loci contained SNPs unaccounted for in the catalog and were excluded.
+    0 loci had no verified haplotypes.
+    0 loci had inconsistent alignments to a catalog locus and were excluded.
+Outputing to file /home/mshu/Stacks/cstacks/3508C1.matches.tsv.gz
+
+Processing sample '/home/mshu/Stacks/cstacks/3512B12' [89 of 96]
+  Parsing /home/mshu/Stacks/cstacks/3512B12.tags.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/3512B12.snps.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/3512B12.alleles.tsv.gz
+Searching for sequence matches...
+378071 sample loci compared against the catalog containing 9399867 loci.
+  267942 matching loci, 796 contained no verified haplotypes.
+  56 loci matched more than one catalog locus and were excluded.
+  740 loci contained SNPs unaccounted for in the catalog and were excluded.
+  301957 total haplotypes examined from matching loci, 301017 verified.
+Searching for gapped alignments...
+Out of 378071 query loci, 110925 gapped alignments attempted.
+  105522 loci matched one catalog locus; 140919 total haplotypes examined, 128022 verified.
+  5403 loci matched no catalog locus;
+    1826 loci matched more than one catalog locus and were excluded.
+    623 loci contained SNPs unaccounted for in the catalog and were excluded.
+    0 loci had no verified haplotypes.
+    0 loci had inconsistent alignments to a catalog locus and were excluded.
+Outputing to file /home/mshu/Stacks/cstacks/3512B12.matches.tsv.gz
+
+Processing sample '/home/mshu/Stacks/cstacks/3524A10' [90 of 96]
+  Parsing /home/mshu/Stacks/cstacks/3524A10.tags.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/3524A10.snps.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/3524A10.alleles.tsv.gz
+Searching for sequence matches...
+332711 sample loci compared against the catalog containing 9399867 loci.
+  236843 matching loci, 586 contained no verified haplotypes.
+  39 loci matched more than one catalog locus and were excluded.
+  547 loci contained SNPs unaccounted for in the catalog and were excluded.
+  262569 total haplotypes examined from matching loci, 261862 verified.
+Searching for gapped alignments...
+Out of 332711 query loci, 96454 gapped alignments attempted.
+  92273 loci matched one catalog locus; 119786 total haplotypes examined, 110073 verified.
+  4181 loci matched no catalog locus;
+    1453 loci matched more than one catalog locus and were excluded.
+    499 loci contained SNPs unaccounted for in the catalog and were excluded.
+    0 loci had no verified haplotypes.
+    0 loci had inconsistent alignments to a catalog locus and were excluded.
+Outputing to file /home/mshu/Stacks/cstacks/3524A10.matches.tsv.gz
+
+Processing sample '/home/mshu/Stacks/cstacks/4203A11' [91 of 96]
+  Parsing /home/mshu/Stacks/cstacks/4203A11.tags.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/4203A11.snps.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/4203A11.alleles.tsv.gz
+Searching for sequence matches...
+518867 sample loci compared against the catalog containing 9399867 loci.
+  407515 matching loci, 515 contained no verified haplotypes.
+  43 loci matched more than one catalog locus and were excluded.
+  472 loci contained SNPs unaccounted for in the catalog and were excluded.
+  443838 total haplotypes examined from matching loci, 443237 verified.
+Searching for gapped alignments...
+Out of 518867 query loci, 111867 gapped alignments attempted.
+  107661 loci matched one catalog locus; 140132 total haplotypes examined, 130098 verified.
+  4206 loci matched no catalog locus;
+    1535 loci matched more than one catalog locus and were excluded.
+    423 loci contained SNPs unaccounted for in the catalog and were excluded.
+    0 loci had no verified haplotypes.
+    0 loci had inconsistent alignments to a catalog locus and were excluded.
+Outputing to file /home/mshu/Stacks/cstacks/4203A11.matches.tsv.gz
+
+Processing sample '/home/mshu/Stacks/cstacks/4208A2' [92 of 96]
+  Parsing /home/mshu/Stacks/cstacks/4208A2.tags.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/4208A2.snps.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/4208A2.alleles.tsv.gz
+Searching for sequence matches...
+635484 sample loci compared against the catalog containing 9399867 loci.
+  515206 matching loci, 529 contained no verified haplotypes.
+  53 loci matched more than one catalog locus and were excluded.
+  476 loci contained SNPs unaccounted for in the catalog and were excluded.
+  571629 total haplotypes examined from matching loci, 570984 verified.
+Searching for gapped alignments...
+Out of 635484 query loci, 120807 gapped alignments attempted.
+  116433 loci matched one catalog locus; 151402 total haplotypes examined, 140507 verified.
+  4374 loci matched no catalog locus;
+    1408 loci matched more than one catalog locus and were excluded.
+    485 loci contained SNPs unaccounted for in the catalog and were excluded.
+    0 loci had no verified haplotypes.
+    0 loci had inconsistent alignments to a catalog locus and were excluded.
+Outputing to file /home/mshu/Stacks/cstacks/4208A2.matches.tsv.gz
+
+Processing sample '/home/mshu/Stacks/cstacks/4224B8' [93 of 96]
+  Parsing /home/mshu/Stacks/cstacks/4224B8.tags.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/4224B8.snps.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/4224B8.alleles.tsv.gz
+Searching for sequence matches...
+585981 sample loci compared against the catalog containing 9399867 loci.
+  451041 matching loci, 523 contained no verified haplotypes.
+  72 loci matched more than one catalog locus and were excluded.
+  451 loci contained SNPs unaccounted for in the catalog and were excluded.
+  525333 total haplotypes examined from matching loci, 524656 verified.
+Searching for gapped alignments...
+Out of 585981 query loci, 135463 gapped alignments attempted.
+  130378 loci matched one catalog locus; 176767 total haplotypes examined, 163866 verified.
+  5085 loci matched no catalog locus;
+    1452 loci matched more than one catalog locus and were excluded.
+    576 loci contained SNPs unaccounted for in the catalog and were excluded.
+    0 loci had no verified haplotypes.
+    0 loci had inconsistent alignments to a catalog locus and were excluded.
+Outputing to file /home/mshu/Stacks/cstacks/4224B8.matches.tsv.gz
+
+Processing sample '/home/mshu/Stacks/cstacks/4233D10' [94 of 96]
+  Parsing /home/mshu/Stacks/cstacks/4233D10.tags.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/4233D10.snps.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/4233D10.alleles.tsv.gz
+Searching for sequence matches...
+328436 sample loci compared against the catalog containing 9399867 loci.
+  239161 matching loci, 170 contained no verified haplotypes.
+  47 loci matched more than one catalog locus and were excluded.
+  123 loci contained SNPs unaccounted for in the catalog and were excluded.
+  274437 total haplotypes examined from matching loci, 274168 verified.
+Searching for gapped alignments...
+Out of 328436 query loci, 89445 gapped alignments attempted.
+  87477 loci matched one catalog locus; 111125 total haplotypes examined, 106129 verified.
+  1968 loci matched no catalog locus;
+    841 loci matched more than one catalog locus and were excluded.
+    220 loci contained SNPs unaccounted for in the catalog and were excluded.
+    0 loci had no verified haplotypes.
+    0 loci had inconsistent alignments to a catalog locus and were excluded.
+Outputing to file /home/mshu/Stacks/cstacks/4233D10.matches.tsv.gz
+
+Processing sample '/home/mshu/Stacks/cstacks/water2D12' [95 of 96]
+  Parsing /home/mshu/Stacks/cstacks/water2D12.tags.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/water2D12.snps.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/water2D12.alleles.tsv.gz
+Searching for sequence matches...
+169 sample loci compared against the catalog containing 9399867 loci.
+  142 matching loci, 0 contained no verified haplotypes.
+  0 loci matched more than one catalog locus and were excluded.
+  0 loci contained SNPs unaccounted for in the catalog and were excluded.
+  145 total haplotypes examined from matching loci, 145 verified.
+Searching for gapped alignments...
+Out of 169 query loci, 27 gapped alignments attempted.
+  24 loci matched one catalog locus; 35 total haplotypes examined, 26 verified.
+  3 loci matched no catalog locus;
+    1 loci matched more than one catalog locus and were excluded.
+    0 loci contained SNPs unaccounted for in the catalog and were excluded.
+    0 loci had no verified haplotypes.
+    0 loci had inconsistent alignments to a catalog locus and were excluded.
+Outputing to file /home/mshu/Stacks/cstacks/water2D12.matches.tsv.gz
+
+Processing sample '/home/mshu/Stacks/cstacks/waterD12' [96 of 96]
+  Parsing /home/mshu/Stacks/cstacks/waterD12.tags.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/waterD12.snps.tsv.gz
+  Parsing /home/mshu/Stacks/cstacks/waterD12.alleles.tsv.gz
+Searching for sequence matches...
+3040 sample loci compared against the catalog containing 9399867 loci.
+  3018 matching loci, 0 contained no verified haplotypes.
+  0 loci matched more than one catalog locus and were excluded.
+  0 loci contained SNPs unaccounted for in the catalog and were excluded.
+  3041 total haplotypes examined from matching loci, 3041 verified.
+Searching for gapped alignments...
+Out of 3040 query loci, 22 gapped alignments attempted.
+  11 loci matched one catalog locus; 54 total haplotypes examined, 19 verified.
+  11 loci matched no catalog locus;
+    0 loci matched more than one catalog locus and were excluded.
+    0 loci contained SNPs unaccounted for in the catalog and were excluded.
+    0 loci had no verified haplotypes.
+    0 loci had inconsistent alignments to a catalog locus and were excluded.
+Outputing to file /home/mshu/Stacks/cstacks/waterD12.matches.tsv.gz
+
+sstacks is done.

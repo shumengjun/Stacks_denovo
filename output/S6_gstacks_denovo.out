@@ -1,0 +1,27 @@
+Logging to '/qsb/mshu/Stacks/gstacks_denovo/gstacks.log'.
+Locus/sample distributions will be written to '/qsb/mshu/Stacks/gstacks_denovo/gstacks.log.distribs'.
+
+Configuration for this run:
+  Input mode: denovo
+  Population map: '/qsb/mshu/Stacks/popmap/popmap_96.txt'
+  Input files: 96, e.g. '/qsb/mshu/Stacks/cstacks/sorted_bam/18051D11.matches.bam'
+  Output to: '/qsb/mshu/Stacks/gstacks_denovo/'
+  Model: marukilow (var_alpha: 0.05, gt_alpha: 0.05)
+
+Reading BAM headers...
+Processing all loci...
+1%...
+2%...
+5%...
+10%...
+20%...
+50%...
+100%
+Input appears to be single-end (no paired-end reads were seen).
+
+Genotyped 9391057 loci:
+  effective per-sample coverage: mean=13.8x, stdev=2.9x, min=4.2x, max=23.9x
+  mean number of sites per locus: 64.2
+  a consistent phasing was found for 2461889 of out 3721697 (66.1%) diploid loci needing phasing
+
+gstacks is done.
